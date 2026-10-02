@@ -6,6 +6,14 @@
 
 **一句话结论**：Jeff-2B（92ms）+ Laya 概率拼接训练的 softmax 元模型 + 置信度级联本地 27B，在 248 条 OOD 测试上达到 99.2% 准确率、23.4% 升级率，全面优于手写阈值规则。
 
+## Abstract (English)
+
+Routing every request to the right executor (sub-agent / tool / large model) is a high-frequency, latency-sensitive decision that sits in front of all execution in multi-agent systems — yet it rarely deserves the cost of a large-model call. This study systematically compares two local open-source **decision models** on a 4-class role-routing task: **Jeff-Qwen3.5-2B** (Qwen3.5 decoder SFT, Jev-compatible, 92ms) and **Laya** (ModernBERT-large encoder, 421M, 20ms). We run controlled mechanism experiments (voice-order flip, topic gradient, masking ablation), train a **stacking meta-learner** (softmax regression over the concatenated 8-dim probability vectors), and test out-of-distribution generalization on 260 held-out cases — strictly separated from the 280 in-distribution training cases.
+
+Key findings: (1) Jeff-2B reaches 85% accuracy at near-zero cost, and its confidence is a reliable escalation signal (confidence cascade → 97.5%). (2) The two models' errors are highly complementary and mechanistically interpretable — "decoder: action-driven with a code-topic prior" vs "encoder: entity-anchored" — confirmed by all three controlled experiments. (3) Stacking the two models' full probability vectors beats both hand-written thresholds and linear opinion pooling: **99.2% accuracy at 23.4% escalation on OOD data**, winning on accuracy *and* cost simultaneously; the learned asymmetric trust weights corroborate the error analysis. (4) The meta-learner generalizes across distributions, including a diagnostic subset where Jeff alone scores only 70%.
+
+All 540 gold-labeled cases, full result JSONs, trained meta-model weights, and a runnable stdlib-HTTP cascade router are included. Model weights (~5GB upstream releases) are excluded — see below.
+
 ## 仓库结构
 
 ```
