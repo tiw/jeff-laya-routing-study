@@ -1,0 +1,642 @@
+[
+ {
+  "id": 1,
+  "lang": "en",
+  "gold": "coder",
+  "choice": "coder",
+  "confidence": 0.2476,
+  "probabilities": {
+   "researcher": 0.1074,
+   "coder": 0.6397,
+   "writer": 0.1004,
+   "reviewer": 0.1525
+  },
+  "latency_ms": 97.31458383612335,
+  "input_tokens": null,
+  "correct": true
+ },
+ {
+  "id": 2,
+  "lang": "en",
+  "gold": "researcher",
+  "choice": "researcher",
+  "confidence": 0.0651,
+  "probabilities": {
+   "researcher": 0.4117,
+   "coder": 0.1338,
+   "writer": 0.279,
+   "reviewer": 0.1755
+  },
+  "latency_ms": 20.457375096157193,
+  "input_tokens": null,
+  "correct": true
+ },
+ {
+  "id": 3,
+  "lang": "en",
+  "gold": "writer",
+  "choice": "writer",
+  "confidence": 0.1285,
+  "probabilities": {
+   "researcher": 0.0732,
+   "coder": 0.2142,
+   "writer": 0.4864,
+   "reviewer": 0.2261
+  },
+  "latency_ms": 20.475999917834997,
+  "input_tokens": null,
+  "correct": true
+ },
+ {
+  "id": 4,
+  "lang": "en",
+  "gold": "reviewer",
+  "choice": "reviewer",
+  "confidence": 0.0808,
+  "probabilities": {
+   "researcher": 0.0885,
+   "coder": 0.3328,
+   "writer": 0.2065,
+   "reviewer": 0.3722
+  },
+  "latency_ms": 19.844166934490204,
+  "input_tokens": null,
+  "correct": true
+ },
+ {
+  "id": 5,
+  "lang": "en",
+  "gold": "coder",
+  "choice": "coder",
+  "confidence": 0.1893,
+  "probabilities": {
+   "researcher": 0.1045,
+   "coder": 0.5865,
+   "writer": 0.1722,
+   "reviewer": 0.1367
+  },
+  "latency_ms": 19.846583949401975,
+  "input_tokens": null,
+  "correct": true
+ },
+ {
+  "id": 6,
+  "lang": "en",
+  "gold": "researcher",
+  "choice": "researcher",
+  "confidence": 0.0688,
+  "probabilities": {
+   "researcher": 0.4506,
+   "coder": 0.1966,
+   "writer": 0.1705,
+   "reviewer": 0.1822
+  },
+  "latency_ms": 20.006166072562337,
+  "input_tokens": null,
+  "correct": true
+ },
+ {
+  "id": 7,
+  "lang": "en",
+  "gold": "writer",
+  "choice": "writer",
+  "confidence": 0.0987,
+  "probabilities": {
+   "researcher": 0.0814,
+   "coder": 0.3095,
+   "writer": 0.4162,
+   "reviewer": 0.1928
+  },
+  "latency_ms": 19.89729213528335,
+  "input_tokens": null,
+  "correct": true
+ },
+ {
+  "id": 8,
+  "lang": "en",
+  "gold": "reviewer",
+  "choice": "coder",
+  "confidence": 0.0438,
+  "probabilities": {
+   "researcher": 0.1601,
+   "coder": 0.3637,
+   "writer": 0.1713,
+   "reviewer": 0.3049
+  },
+  "latency_ms": 19.61866719648242,
+  "input_tokens": null,
+  "correct": false
+ },
+ {
+  "id": 9,
+  "lang": "en",
+  "gold": "coder",
+  "choice": "coder",
+  "confidence": 0.2155,
+  "probabilities": {
+   "researcher": 0.0977,
+   "coder": 0.612,
+   "writer": 0.1374,
+   "reviewer": 0.1529
+  },
+  "latency_ms": 19.9732081964612,
+  "input_tokens": null,
+  "correct": true
+ },
+ {
+  "id": 10,
+  "lang": "en",
+  "gold": "researcher",
+  "choice": "researcher",
+  "confidence": 0.1158,
+  "probabilities": {
+   "researcher": 0.5012,
+   "coder": 0.1676,
+   "writer": 0.2155,
+   "reviewer": 0.1157
+  },
+  "latency_ms": 19.731333944946527,
+  "input_tokens": null,
+  "correct": true
+ },
+ {
+  "id": 11,
+  "lang": "en",
+  "gold": "writer",
+  "choice": "writer",
+  "confidence": 0.0531,
+  "probabilities": {
+   "researcher": 0.1152,
+   "coder": 0.2204,
+   "writer": 0.3565,
+   "reviewer": 0.3079
+  },
+  "latency_ms": 19.861666951328516,
+  "input_tokens": null,
+  "correct": true
+ },
+ {
+  "id": 12,
+  "lang": "en",
+  "gold": "reviewer",
+  "choice": "coder",
+  "confidence": 0.0983,
+  "probabilities": {
+   "researcher": 0.1856,
+   "coder": 0.3877,
+   "writer": 0.0805,
+   "reviewer": 0.3461
+  },
+  "latency_ms": 19.883250119164586,
+  "input_tokens": null,
+  "correct": false
+ },
+ {
+  "id": 13,
+  "lang": "en",
+  "gold": "coder",
+  "choice": "coder",
+  "confidence": 0.3041,
+  "probabilities": {
+   "researcher": 0.0824,
+   "coder": 0.6853,
+   "writer": 0.1131,
+   "reviewer": 0.1192
+  },
+  "latency_ms": 19.936332944780588,
+  "input_tokens": null,
+  "correct": true
+ },
+ {
+  "id": 14,
+  "lang": "en",
+  "gold": "researcher",
+  "choice": "coder",
+  "confidence": 0.0955,
+  "probabilities": {
+   "researcher": 0.2658,
+   "coder": 0.4488,
+   "writer": 0.0989,
+   "reviewer": 0.1865
+  },
+  "latency_ms": 19.850708078593016,
+  "input_tokens": null,
+  "correct": false
+ },
+ {
+  "id": 15,
+  "lang": "en",
+  "gold": "writer",
+  "choice": "reviewer",
+  "confidence": 0.1774,
+  "probabilities": {
+   "researcher": 0.0587,
+   "coder": 0.1423,
+   "writer": 0.2794,
+   "reviewer": 0.5196
+  },
+  "latency_ms": 19.915415905416012,
+  "input_tokens": null,
+  "correct": false
+ },
+ {
+  "id": 16,
+  "lang": "en",
+  "gold": "reviewer",
+  "choice": "coder",
+  "confidence": 0.04,
+  "probabilities": {
+   "researcher": 0.1441,
+   "coder": 0.3559,
+   "writer": 0.2022,
+   "reviewer": 0.2977
+  },
+  "latency_ms": 20.171042066067457,
+  "input_tokens": null,
+  "correct": false
+ },
+ {
+  "id": 17,
+  "lang": "en",
+  "gold": "researcher",
+  "choice": "coder",
+  "confidence": 0.0886,
+  "probabilities": {
+   "researcher": 0.2706,
+   "coder": 0.4452,
+   "writer": 0.1154,
+   "reviewer": 0.1688
+  },
+  "latency_ms": 20.512999966740608,
+  "input_tokens": null,
+  "correct": false
+ },
+ {
+  "id": 18,
+  "lang": "en",
+  "gold": "coder",
+  "choice": "coder",
+  "confidence": 0.2382,
+  "probabilities": {
+   "researcher": 0.0665,
+   "coder": 0.6211,
+   "writer": 0.1552,
+   "reviewer": 0.1572
+  },
+  "latency_ms": 20.168791990727186,
+  "input_tokens": null,
+  "correct": true
+ },
+ {
+  "id": 19,
+  "lang": "en",
+  "gold": "writer",
+  "choice": "writer",
+  "confidence": 0.0741,
+  "probabilities": {
+   "researcher": 0.1476,
+   "coder": 0.2736,
+   "writer": 0.4299,
+   "reviewer": 0.149
+  },
+  "latency_ms": 19.971624948084354,
+  "input_tokens": null,
+  "correct": true
+ },
+ {
+  "id": 20,
+  "lang": "en",
+  "gold": "reviewer",
+  "choice": "reviewer",
+  "confidence": 0.0638,
+  "probabilities": {
+   "researcher": 0.1117,
+   "coder": 0.2119,
+   "writer": 0.2829,
+   "reviewer": 0.3935
+  },
+  "latency_ms": 20.08137502707541,
+  "input_tokens": null,
+  "correct": true
+ },
+ {
+  "id": 21,
+  "lang": "zh",
+  "gold": "researcher",
+  "choice": "researcher",
+  "confidence": 0.0157,
+  "probabilities": {
+   "researcher": 0.2941,
+   "coder": 0.2779,
+   "writer": 0.2625,
+   "reviewer": 0.1655
+  },
+  "latency_ms": 26.709208032116294,
+  "input_tokens": null,
+  "correct": true
+ },
+ {
+  "id": 22,
+  "lang": "zh",
+  "gold": "coder",
+  "choice": "coder",
+  "confidence": 0.0658,
+  "probabilities": {
+   "researcher": 0.1447,
+   "coder": 0.4142,
+   "writer": 0.1606,
+   "reviewer": 0.2804
+  },
+  "latency_ms": 20.637332927435637,
+  "input_tokens": null,
+  "correct": true
+ },
+ {
+  "id": 23,
+  "lang": "zh",
+  "gold": "writer",
+  "choice": "writer",
+  "confidence": 0.1952,
+  "probabilities": {
+   "researcher": 0.0604,
+   "coder": 0.3,
+   "writer": 0.5261,
+   "reviewer": 0.1136
+  },
+  "latency_ms": 20.536165917292237,
+  "input_tokens": null,
+  "correct": true
+ },
+ {
+  "id": 24,
+  "lang": "zh",
+  "gold": "reviewer",
+  "choice": "reviewer",
+  "confidence": 0.1628,
+  "probabilities": {
+   "researcher": 0.0757,
+   "coder": 0.3629,
+   "writer": 0.1069,
+   "reviewer": 0.4546
+  },
+  "latency_ms": 20.25950001552701,
+  "input_tokens": null,
+  "correct": true
+ },
+ {
+  "id": 25,
+  "lang": "zh",
+  "gold": "writer",
+  "choice": "writer",
+  "confidence": 0.1177,
+  "probabilities": {
+   "researcher": 0.1322,
+   "coder": 0.2508,
+   "writer": 0.4921,
+   "reviewer": 0.1249
+  },
+  "latency_ms": 20.32304205931723,
+  "input_tokens": null,
+  "correct": true
+ },
+ {
+  "id": 26,
+  "lang": "zh",
+  "gold": "researcher",
+  "choice": "researcher",
+  "confidence": 0.031,
+  "probabilities": {
+   "researcher": 0.3153,
+   "coder": 0.3135,
+   "writer": 0.2272,
+   "reviewer": 0.144
+  },
+  "latency_ms": 26.095249922946095,
+  "input_tokens": null,
+  "correct": true
+ },
+ {
+  "id": 27,
+  "lang": "zh",
+  "gold": "coder",
+  "choice": "coder",
+  "confidence": 0.4819,
+  "probabilities": {
+   "researcher": 0.0521,
+   "coder": 0.7995,
+   "writer": 0.0805,
+   "reviewer": 0.0678
+  },
+  "latency_ms": 20.068125100806355,
+  "input_tokens": null,
+  "correct": true
+ },
+ {
+  "id": 28,
+  "lang": "zh",
+  "gold": "reviewer",
+  "choice": "writer",
+  "confidence": 0.0475,
+  "probabilities": {
+   "researcher": 0.1506,
+   "coder": 0.3029,
+   "writer": 0.3705,
+   "reviewer": 0.176
+  },
+  "latency_ms": 20.164958899840713,
+  "input_tokens": null,
+  "correct": false
+ },
+ {
+  "id": 29,
+  "lang": "zh",
+  "gold": "researcher",
+  "choice": "coder",
+  "confidence": 0.0018,
+  "probabilities": {
+   "researcher": 0.2374,
+   "coder": 0.2745,
+   "writer": 0.2581,
+   "reviewer": 0.23
+  },
+  "latency_ms": 25.699499994516373,
+  "input_tokens": null,
+  "correct": false
+ },
+ {
+  "id": 30,
+  "lang": "zh",
+  "gold": "coder",
+  "choice": "coder",
+  "confidence": 0.1608,
+  "probabilities": {
+   "researcher": 0.1363,
+   "coder": 0.5639,
+   "writer": 0.1565,
+   "reviewer": 0.1434
+  },
+  "latency_ms": 25.87529201991856,
+  "input_tokens": null,
+  "correct": true
+ },
+ {
+  "id": 31,
+  "lang": "zh",
+  "gold": "writer",
+  "choice": "writer",
+  "confidence": 0.1253,
+  "probabilities": {
+   "researcher": 0.0668,
+   "coder": 0.2465,
+   "writer": 0.4696,
+   "reviewer": 0.217
+  },
+  "latency_ms": 26.002334197983146,
+  "input_tokens": null,
+  "correct": true
+ },
+ {
+  "id": 32,
+  "lang": "zh",
+  "gold": "reviewer",
+  "choice": "researcher",
+  "confidence": 0.0303,
+  "probabilities": {
+   "researcher": 0.3616,
+   "coder": 0.1966,
+   "writer": 0.1731,
+   "reviewer": 0.2688
+  },
+  "latency_ms": 20.51929198205471,
+  "input_tokens": null,
+  "correct": false
+ },
+ {
+  "id": 33,
+  "lang": "zh",
+  "gold": "researcher",
+  "choice": "researcher",
+  "confidence": 0.0687,
+  "probabilities": {
+   "researcher": 0.4449,
+   "coder": 0.2061,
+   "writer": 0.1478,
+   "reviewer": 0.2012
+  },
+  "latency_ms": 26.509624905884266,
+  "input_tokens": null,
+  "correct": true
+ },
+ {
+  "id": 34,
+  "lang": "zh",
+  "gold": "writer",
+  "choice": "coder",
+  "confidence": 0.1233,
+  "probabilities": {
+   "researcher": 0.057,
+   "coder": 0.4441,
+   "writer": 0.266,
+   "reviewer": 0.2329
+  },
+  "latency_ms": 26.521041058003902,
+  "input_tokens": null,
+  "correct": false
+ },
+ {
+  "id": 35,
+  "lang": "mixed",
+  "gold": "researcher",
+  "choice": "writer",
+  "confidence": 0.0909,
+  "probabilities": {
+   "researcher": 0.2674,
+   "coder": 0.1312,
+   "writer": 0.4536,
+   "reviewer": 0.1478
+  },
+  "latency_ms": 26.728542055934668,
+  "input_tokens": null,
+  "correct": false
+ },
+ {
+  "id": 36,
+  "lang": "mixed",
+  "gold": "reviewer",
+  "choice": "writer",
+  "confidence": 0.0878,
+  "probabilities": {
+   "researcher": 0.0988,
+   "coder": 0.3402,
+   "writer": 0.3902,
+   "reviewer": 0.1708
+  },
+  "latency_ms": 26.209458941593766,
+  "input_tokens": null,
+  "correct": false
+ },
+ {
+  "id": 37,
+  "lang": "mixed",
+  "gold": "coder",
+  "choice": "coder",
+  "confidence": 0.1645,
+  "probabilities": {
+   "researcher": 0.087,
+   "coder": 0.4949,
+   "writer": 0.3154,
+   "reviewer": 0.1027
+  },
+  "latency_ms": 26.226375019177794,
+  "input_tokens": null,
+  "correct": true
+ },
+ {
+  "id": 38,
+  "lang": "mixed",
+  "gold": "coder",
+  "choice": "coder",
+  "confidence": 0.1323,
+  "probabilities": {
+   "researcher": 0.0976,
+   "coder": 0.5147,
+   "writer": 0.2148,
+   "reviewer": 0.1729
+  },
+  "latency_ms": 72.51791702583432,
+  "input_tokens": null,
+  "correct": true
+ },
+ {
+  "id": 39,
+  "lang": "mixed",
+  "gold": "coder",
+  "choice": "coder",
+  "confidence": 0.2479,
+  "probabilities": {
+   "researcher": 0.0428,
+   "coder": 0.6112,
+   "writer": 0.1794,
+   "reviewer": 0.1666
+  },
+  "latency_ms": 25.828291894868016,
+  "input_tokens": null,
+  "correct": true
+ },
+ {
+  "id": 40,
+  "lang": "mixed",
+  "gold": "writer",
+  "choice": "writer",
+  "confidence": 0.0963,
+  "probabilities": {
+   "researcher": 0.1136,
+   "coder": 0.3711,
+   "writer": 0.3804,
+   "reviewer": 0.1349
+  },
+  "latency_ms": 25.846458040177822,
+  "input_tokens": null,
+  "correct": true
+ }
+]

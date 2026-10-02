@@ -1,0 +1,50 @@
+{"id": 1, "lang": "zh", "gold": "reviewer", "state": "这份 Terraform 配置投产前帮我审一遍。"}
+{"id": 2, "lang": "en", "gold": "reviewer", "state": "The nginx config needs a security review before we ship."}
+{"id": 3, "lang": "zh", "gold": "reviewer", "state": "简历的项目经历部分，帮我挑挑毛病。"}
+{"id": 4, "lang": "en", "gold": "reviewer", "state": "This SQL migration needs a second pair of eyes."}
+{"id": 5, "lang": "zh", "gold": "reviewer", "state": "会议纪要我整理好了，帮我检查有没有遗漏决议。"}
+{"id": 6, "lang": "en", "gold": "reviewer", "state": "The API contract should be audited for breaking changes."}
+{"id": 7, "lang": "zh", "gold": "reviewer", "state": "这份调查问卷的设计有没有诱导性问题？"}
+{"id": 8, "lang": "en", "gold": "reviewer", "state": "This budget spreadsheet needs a sanity check."}
+{"id": 9, "lang": "zh", "gold": "reviewer", "state": "代码评审：这个 PR 的并发处理有没有问题？"}
+{"id": 10, "lang": "en", "gold": "reviewer", "state": "The pitch deck needs a critical look before Thursday."}
+{"id": 11, "lang": "zh", "gold": "reviewer", "state": "这份免责声明写得有没有法律风险？"}
+{"id": 12, "lang": "en", "gold": "reviewer", "state": "This caching layer needs a design review."}
+{"id": 13, "lang": "zh", "gold": "reviewer", "state": "帮我评估一下这个供应链方案的脆弱点。"}
+{"id": 14, "lang": "en", "gold": "reviewer", "state": "The onboarding flow should be inspected for drop-off causes."}
+{"id": 15, "lang": "zh", "gold": "reviewer", "state": "这篇综述的引用是否都支撑论点？"}
+{"id": 16, "lang": "en", "gold": "reviewer", "state": "This incident postmortem needs review before circulating."}
+{"id": 17, "lang": "zh", "gold": "reviewer", "state": "帮忙把把关：这个实验的对照组设置合理吗？"}
+{"id": 18, "lang": "en", "gold": "reviewer", "state": "The smart contract needs an audit."}
+{"id": 19, "lang": "zh", "gold": "reviewer", "state": "这份数据看板的指标定义一致吗？"}
+{"id": 20, "lang": "en", "gold": "reviewer", "state": "This RFC should be critiqued for hidden complexity."}
+{"id": 21, "lang": "zh", "gold": "reviewer", "state": "帮我看看这封和解函的措辞有没有隐患。"}
+{"id": 22, "lang": "en", "gold": "reviewer", "state": "The feature flag rollout plan needs a risk review."}
+{"id": 23, "lang": "zh", "gold": "reviewer", "state": "这段代码的性能宣称靠谱吗？帮我验证思路。"}
+{"id": 24, "lang": "en", "gold": "reviewer", "state": "This SLA draft needs legal review."}
+{"id": 25, "lang": "zh", "gold": "reviewer", "state": "检查这份部署清单的完整性。"}
+{"id": 26, "lang": "en", "gold": "reviewer", "state": "The research design needs a methods review."}
+{"id": 27, "lang": "zh", "gold": "reviewer", "state": "帮我挑挑这份列表的问题：10 个「最佳实践」真的都成立吗？"}
+{"id": 28, "lang": "en", "gold": "reviewer", "state": "This accessibility audit report needs verification."}
+{"id": 29, "lang": "zh", "gold": "reviewer", "state": "这份投资备忘录的假设经得起推敲吗？"}
+{"id": 30, "lang": "en", "gold": "reviewer", "state": "The backup restore plan needs a dry-run review."}
+{"id": 31, "lang": "zh", "gold": "reviewer", "state": "帮我审审这份课堂教案的时间分配。"}
+{"id": 32, "lang": "en", "gold": "reviewer", "state": "This query plan should be reviewed before indexing."}
+{"id": 33, "lang": "zh", "gold": "reviewer", "state": "这份协议草案有没有对甲方明显不利的条款？"}
+{"id": 34, "lang": "en", "gold": "reviewer", "state": "The load test results need a skeptical review."}
+{"id": 35, "lang": "zh", "gold": "reviewer", "state": "帮我看看这篇求职信会不会让 HR 反感。"}
+{"id": 36, "lang": "en", "gold": "reviewer", "state": "This data pipeline needs a lineage audit."}
+{"id": 37, "lang": "zh", "gold": "reviewer", "state": "这份 OKR 之间的依赖关系合理吗？"}
+{"id": 38, "lang": "en", "gold": "reviewer", "state": "The changelog needs review for accuracy."}
+{"id": 39, "lang": "zh", "gold": "reviewer", "state": "帮我评审这份需求文档的可测试性。"}
+{"id": 40, "lang": "en", "gold": "reviewer", "state": "This architecture decision record needs pushback."}
+{"id": 41, "lang": "zh", "gold": "coder", "state": "这份 Terraform 配置跑不通，帮我修一下。", "note": "hard negative: 修复而非评审"}
+{"id": 42, "lang": "en", "gold": "coder", "state": "The nginx config needs to be rewritten for HTTP/2.", "note": "hard negative: 重写而非评审"}
+{"id": 43, "lang": "zh", "gold": "writer", "state": "简历帮我润色得更专业一点。", "note": "hard negative: 润色而非评审"}
+{"id": 44, "lang": "en", "gold": "coder", "state": "This SQL migration needs to be generated for the new schema.", "note": "hard negative: 生成而非评审"}
+{"id": 45, "lang": "zh", "gold": "writer", "state": "会议纪要帮我整理成正式版本发给全员。", "note": "hard negative: 整理成稿而非检查"}
+{"id": 46, "lang": "en", "gold": "coder", "state": "The API contract needs updating to v2.", "note": "hard negative: 更新而非评审"}
+{"id": 47, "lang": "zh", "gold": "researcher", "state": "调查问卷帮我多发几个渠道收集数据。", "note": "hard negative: 收集数据而非评审设计"}
+{"id": 48, "lang": "en", "gold": "coder", "state": "This budget spreadsheet needs monthly formulas added.", "note": "hard negative: 加公式而非检查"}
+{"id": 49, "lang": "zh", "gold": "writer", "state": "代码评审流程帮我起草一份规范文档。", "note": "hard negative: 起草文档而非做评审"}
+{"id": 50, "lang": "en", "gold": "writer", "state": "The pitch deck needs a template that matches our brand.", "note": "hard negative: 制作模板而非批判"}

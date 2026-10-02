@@ -1,0 +1,978 @@
+[
+ {
+  "id": 1,
+  "lang": "zh",
+  "gold": "researcher",
+  "level": 0,
+  "state": "解释一下为什么我的多肉一到夏天就烂根。",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.8364055920091905,
+   "coder": 0.012061055919140093,
+   "writer": 0.13800067969045285,
+   "reviewer": 0.01353267238121656
+  },
+  "jeff_conf": 0.7818741226789206,
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1961,
+   "coder": 0.225,
+   "writer": 0.4006,
+   "reviewer": 0.1783
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 2,
+  "lang": "zh",
+  "gold": "researcher",
+  "level": 0,
+  "state": "为什么我的咖啡冲出来总是又苦又涩？",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.8178570514278726,
+   "coder": 0.02013374180000251,
+   "writer": 0.04833711082747909,
+   "reviewer": 0.11367209594464588
+  },
+  "jeff_conf": 0.7571427352371635,
+  "laya_choice": "researcher",
+  "laya_probs": {
+   "researcher": 0.2719,
+   "coder": 0.2568,
+   "writer": 0.2527,
+   "reviewer": 0.2186
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 3,
+  "lang": "zh",
+  "gold": "researcher",
+  "level": 0,
+  "state": "帮我分析一下为什么孩子最近不爱吃饭。",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9676659096947723,
+   "coder": 0.005194603314296543,
+   "writer": 0.02156993504804166,
+   "reviewer": 0.005569551942889463
+  },
+  "jeff_conf": 0.9568878795930297,
+  "laya_choice": "researcher",
+  "laya_probs": {
+   "researcher": 0.4409,
+   "coder": 0.1599,
+   "writer": 0.2814,
+   "reviewer": 0.1178
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 4,
+  "lang": "en",
+  "gold": "researcher",
+  "level": 0,
+  "state": "Why does my sourdough starter keep dying?",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9103409105336123,
+   "coder": 0.02356527232734726,
+   "writer": 0.04973785655272862,
+   "reviewer": 0.016355960586311783
+  },
+  "jeff_conf": 0.8804545473781498,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2314,
+   "coder": 0.3861,
+   "writer": 0.1888,
+   "reviewer": 0.1937
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 5,
+  "lang": "zh",
+  "gold": "researcher",
+  "level": 0,
+  "state": "为什么我跑步时心率总是飘得特别高？",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.8987377312833762,
+   "coder": 0.026908103535183667,
+   "writer": 0.053687867102422786,
+   "reviewer": 0.0206662980790173
+  },
+  "jeff_conf": 0.8649836417111683,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1897,
+   "coder": 0.4417,
+   "writer": 0.1737,
+   "reviewer": 0.1949
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 6,
+  "lang": "zh",
+  "gold": "researcher",
+  "level": 0,
+  "state": "红酒醒过头为什么会发酸？",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9325545228190866,
+   "coder": 0.016963139114713165,
+   "writer": 0.032009046197898,
+   "reviewer": 0.018473291868302294
+  },
+  "jeff_conf": 0.9100726970921155,
+  "laya_choice": "researcher",
+  "laya_probs": {
+   "researcher": 0.3656,
+   "coder": 0.1738,
+   "writer": 0.2676,
+   "reviewer": 0.193
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 7,
+  "lang": "zh",
+  "gold": "researcher",
+  "level": 0,
+  "state": "为什么白衬衫越洗越黄？",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.8591704952558897,
+   "coder": 0.021132475132059205,
+   "writer": 0.03531411412742671,
+   "reviewer": 0.08438291548462437
+  },
+  "jeff_conf": 0.8122273270078529,
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.2679,
+   "coder": 0.2238,
+   "writer": 0.3089,
+   "reviewer": 0.1995
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 8,
+  "lang": "zh",
+  "gold": "researcher",
+  "level": 0,
+  "state": "最近失眠多梦是什么原因？",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9811237059561939,
+   "coder": 0.005790382628525499,
+   "writer": 0.0094272166700332,
+   "reviewer": 0.003658694745247361
+  },
+  "jeff_conf": 0.9748316079415918,
+  "laya_choice": "researcher",
+  "laya_probs": {
+   "researcher": 0.385,
+   "coder": 0.1798,
+   "writer": 0.2405,
+   "reviewer": 0.1948
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 9,
+  "lang": "zh",
+  "gold": "researcher",
+  "level": 1,
+  "state": "解释一下为什么这间屋子角落的 Wi-Fi 信号特别差。",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.7105123665374654,
+   "coder": 0.039204800099313264,
+   "writer": 0.08331829619848341,
+   "reviewer": 0.16696453716473791
+  },
+  "jeff_conf": 0.6140164887166205,
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1427,
+   "coder": 0.2714,
+   "writer": 0.3774,
+   "reviewer": 0.2085
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 10,
+  "lang": "zh",
+  "gold": "researcher",
+  "level": 1,
+  "state": "为什么我的笔记本一开机风扇就狂转？",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.8614456025457173,
+   "coder": 0.08875241097527589,
+   "writer": 0.023055940780580264,
+   "reviewer": 0.026746045698426493
+  },
+  "jeff_conf": 0.8152608033942897,
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1328,
+   "coder": 0.2597,
+   "writer": 0.4774,
+   "reviewer": 0.1301
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 11,
+  "lang": "zh",
+  "gold": "researcher",
+  "level": 1,
+  "state": "手机为什么越用越卡，恢复出厂设置有用吗？",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.892293624323063,
+   "coder": 0.07393470593848156,
+   "writer": 0.011298211370450333,
+   "reviewer": 0.02247345836800511
+  },
+  "jeff_conf": 0.8563914990974174,
+  "laya_choice": "researcher",
+  "laya_probs": {
+   "researcher": 0.3239,
+   "coder": 0.2656,
+   "writer": 0.2108,
+   "reviewer": 0.1997
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 12,
+  "lang": "zh",
+  "gold": "researcher",
+  "level": 1,
+  "state": "打印机打出来的文档重影是什么原因？",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.47575650328034913,
+   "coder": 0.23490125290902336,
+   "writer": 0.21417825243142624,
+   "reviewer": 0.07516399137920128
+  },
+  "jeff_conf": 0.3010086710404655,
+  "laya_choice": "researcher",
+  "laya_probs": {
+   "researcher": 0.3369,
+   "coder": 0.2274,
+   "writer": 0.2527,
+   "reviewer": 0.1829
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 13,
+  "lang": "zh",
+  "gold": "researcher",
+  "level": 1,
+  "state": "Excel 打开大文件卡死，什么原因？",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.31239860713620016,
+   "coder": 0.6401731276647585,
+   "writer": 0.026485813990988188,
+   "reviewer": 0.020942451208053065
+  },
+  "jeff_conf": 0.5202308368863447,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2774,
+   "coder": 0.3468,
+   "writer": 0.1716,
+   "reviewer": 0.2042
+  },
+  "jeff_correct": false,
+  "laya_correct": false
+ },
+ {
+  "id": 14,
+  "lang": "zh",
+  "gold": "researcher",
+  "level": 1,
+  "state": "为什么我发的邮件总是进对方垃圾箱？",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.7517614792638686,
+   "coder": 0.16019042968324357,
+   "writer": 0.017399757711594754,
+   "reviewer": 0.07064833334129304
+  },
+  "jeff_conf": 0.6690153056851581,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2231,
+   "coder": 0.2721,
+   "writer": 0.2682,
+   "reviewer": 0.2366
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 15,
+  "lang": "zh",
+  "gold": "researcher",
+  "level": 1,
+  "state": "视频会议时对方总说听不清我的声音，怎么回事？",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.7896653560859217,
+   "coder": 0.12760119377823909,
+   "writer": 0.011199947655199983,
+   "reviewer": 0.0715335024806392
+  },
+  "jeff_conf": 0.7195538081145623,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2789,
+   "coder": 0.3899,
+   "writer": 0.1607,
+   "reviewer": 0.1705
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 16,
+  "lang": "zh",
+  "gold": "researcher",
+  "level": 1,
+  "state": "系统更新之后蓝牙鼠标失灵了，什么原因？",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.2878922108752978,
+   "coder": 0.6927864274104905,
+   "writer": 0.004066369333440549,
+   "reviewer": 0.01525499238077116
+  },
+  "jeff_conf": 0.5903819032139873,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1719,
+   "coder": 0.5552,
+   "writer": 0.1284,
+   "reviewer": 0.1446
+  },
+  "jeff_correct": false,
+  "laya_correct": false
+ },
+ {
+  "id": 17,
+  "lang": "zh",
+  "gold": "researcher",
+  "level": 2,
+  "state": "我们网站每天半夜访问量突增，会是什么原因？",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.8186906116030167,
+   "coder": 0.16215863783585768,
+   "writer": 0.008516144768847057,
+   "reviewer": 0.01063460579227857
+  },
+  "jeff_conf": 0.7582541488040223,
+  "laya_choice": "researcher",
+  "laya_probs": {
+   "researcher": 0.3983,
+   "coder": 0.2764,
+   "writer": 0.1232,
+   "reviewer": 0.2021
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 18,
+  "lang": "zh",
+  "gold": "researcher",
+  "level": 2,
+  "state": "API 每天固定时段出现一波 502，怎么排查原因？",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.6043341307563437,
+   "coder": 0.38599483122338013,
+   "writer": 0.0030313430629416885,
+   "reviewer": 0.006639694957334541
+  },
+  "jeff_conf": 0.4724455076751249,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2112,
+   "coder": 0.4416,
+   "writer": 0.1321,
+   "reviewer": 0.2151
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 19,
+  "lang": "zh",
+  "gold": "researcher",
+  "level": 2,
+  "state": "为什么 Docker 镜像越构建越大？",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.3860716858905168,
+   "coder": 0.5234251267401416,
+   "writer": 0.03751954929772061,
+   "reviewer": 0.05298363807162089
+  },
+  "jeff_conf": 0.36456683565352216,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.3274,
+   "coder": 0.3524,
+   "writer": 0.1422,
+   "reviewer": 0.178
+  },
+  "jeff_correct": false,
+  "laya_correct": false
+ },
+ {
+  "id": 20,
+  "lang": "zh",
+  "gold": "researcher",
+  "level": 2,
+  "state": "CI 每天随机失败一两次，什么原因？",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.4491892179902141,
+   "coder": 0.5191787505484128,
+   "writer": 0.010212338577082095,
+   "reviewer": 0.021419692884291023
+  },
+  "jeff_conf": 0.35890500073121706,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2064,
+   "coder": 0.5046,
+   "writer": 0.1157,
+   "reviewer": 0.1733
+  },
+  "jeff_correct": false,
+  "laya_correct": false
+ },
+ {
+  "id": 21,
+  "lang": "zh",
+  "gold": "researcher",
+  "level": 2,
+  "state": "首页 LCP 昨天突然从 1.8s 涨到 4s，帮我分析原因。",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9189794843625826,
+   "coder": 0.06832920896734855,
+   "writer": 0.004627098887676956,
+   "reviewer": 0.008064207782391895
+  },
+  "jeff_conf": 0.8919726458167768,
+  "laya_choice": "researcher",
+  "laya_probs": {
+   "researcher": 0.2913,
+   "coder": 0.2294,
+   "writer": 0.2228,
+   "reviewer": 0.2566
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 22,
+  "lang": "zh",
+  "gold": "researcher",
+  "level": 2,
+  "state": "WebSocket 连接数一到 1024 就涨不动了，为什么？",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.3695051372051239,
+   "coder": 0.5733846426010132,
+   "writer": 0.01672060415148735,
+   "reviewer": 0.040389616042375565
+  },
+  "jeff_conf": 0.4311795234680176,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2642,
+   "coder": 0.4845,
+   "writer": 0.1207,
+   "reviewer": 0.1305
+  },
+  "jeff_correct": false,
+  "laya_correct": false
+ },
+ {
+  "id": 23,
+  "lang": "zh",
+  "gold": "researcher",
+  "level": 2,
+  "state": "缓存命中率从 95% 掉到 60%，什么原因？",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.5256419299313857,
+   "coder": 0.4394060173497949,
+   "writer": 0.010003334134891647,
+   "reviewer": 0.02494871858392772
+  },
+  "jeff_conf": 0.3675225732418476,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2915,
+   "coder": 0.3713,
+   "writer": 0.1497,
+   "reviewer": 0.1875
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 24,
+  "lang": "zh",
+  "gold": "researcher",
+  "level": 2,
+  "state": "日志里突然出现大量慢查询，怎么回事？",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.5964219347975427,
+   "coder": 0.3826657093068321,
+   "writer": 0.006862018933071981,
+   "reviewer": 0.014050336962553226
+  },
+  "jeff_conf": 0.46189591306339023,
+  "laya_choice": "researcher",
+  "laya_probs": {
+   "researcher": 0.3672,
+   "coder": 0.2332,
+   "writer": 0.1732,
+   "reviewer": 0.2264
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 25,
+  "lang": "zh",
+  "gold": "researcher",
+  "level": 3,
+  "state": "训练 loss 前几百步很高然后骤降，这正常吗，为什么？",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.6573416762105813,
+   "coder": 0.17449360050803125,
+   "writer": 0.017867003102112644,
+   "reviewer": 0.15029772017927484
+  },
+  "jeff_conf": 0.5431222349474417,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.2484,
+   "coder": 0.2391,
+   "writer": 0.1947,
+   "reviewer": 0.3178
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 26,
+  "lang": "zh",
+  "gold": "researcher",
+  "level": 3,
+  "state": "推理 batch size 大了之后延迟非线性上涨，什么原因？",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.49749060075290685,
+   "coder": 0.47341405022663857,
+   "writer": 0.011156366826322857,
+   "reviewer": 0.017938982194131738
+  },
+  "jeff_conf": 0.3299874676705425,
+  "laya_choice": "researcher",
+  "laya_probs": {
+   "researcher": 0.3486,
+   "coder": 0.2726,
+   "writer": 0.1987,
+   "reviewer": 0.18
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 27,
+  "lang": "zh",
+  "gold": "researcher",
+  "level": 3,
+  "state": "embedding 模型换了底座之后召回率下降，为什么？",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.6567970746739663,
+   "coder": 0.2911413713017219,
+   "writer": 0.0133030214398306,
+   "reviewer": 0.03875853258448116
+  },
+  "jeff_conf": 0.5423960995652884,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.3146,
+   "coder": 0.3661,
+   "writer": 0.149,
+   "reviewer": 0.1703
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 28,
+  "lang": "zh",
+  "gold": "researcher",
+  "level": 3,
+  "state": "K8s HPA 到了阈值不扩容，什么原因？",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.5040610362208303,
+   "coder": 0.46278535673228993,
+   "writer": 0.009941491159496487,
+   "reviewer": 0.02321211588738324
+  },
+  "jeff_conf": 0.33874804829444044,
+  "laya_choice": "researcher",
+  "laya_probs": {
+   "researcher": 0.2916,
+   "coder": 0.2603,
+   "writer": 0.2417,
+   "reviewer": 0.2064
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 29,
+  "lang": "zh",
+  "gold": "researcher",
+  "level": 3,
+  "state": "GPU 显存占用总是周期性波动，怎么回事？",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.8091196402737505,
+   "coder": 0.17376148668348512,
+   "writer": 0.008054826393621366,
+   "reviewer": 0.009064046649143013
+  },
+  "jeff_conf": 0.745492853698334,
+  "laya_choice": "researcher",
+  "laya_probs": {
+   "researcher": 0.3154,
+   "coder": 0.2615,
+   "writer": 0.1867,
+   "reviewer": 0.2364
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 30,
+  "lang": "zh",
+  "gold": "researcher",
+  "level": 3,
+  "state": "微调后的模型变成复读机，为什么？",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.3852313315409671,
+   "coder": 0.30912258069505616,
+   "writer": 0.21626838236047394,
+   "reviewer": 0.08937770540350283
+  },
+  "jeff_conf": 0.18030844205462282,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2544,
+   "coder": 0.2961,
+   "writer": 0.232,
+   "reviewer": 0.2176
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 31,
+  "lang": "zh",
+  "gold": "researcher",
+  "level": 3,
+  "state": "RAG 的答案总是引错段落，什么原因？",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.6967463726949593,
+   "coder": 0.06400197958952865,
+   "writer": 0.1903765265397308,
+   "reviewer": 0.04887512117578123
+  },
+  "jeff_conf": 0.5956618302599458,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2806,
+   "coder": 0.2878,
+   "writer": 0.1548,
+   "reviewer": 0.2767
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 32,
+  "lang": "zh",
+  "gold": "researcher",
+  "level": 3,
+  "state": "离线指标很好线上效果差，特征穿越怎么排查？",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.5945255513312332,
+   "coder": 0.3436845745052133,
+   "writer": 0.003514949673859441,
+   "reviewer": 0.058274924489694124
+  },
+  "jeff_conf": 0.4593674017749776,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.2921,
+   "coder": 0.171,
+   "writer": 0.1984,
+   "reviewer": 0.3385
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 33,
+  "lang": "zh",
+  "gold": "researcher",
+  "level": 2,
+  "disputed": true,
+  "note": "用户拥有系统且语气急迫，coder（排查修复）可辩护",
+  "state": "我的网站又崩了，到底什么原因？",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.05503705030248597,
+   "coder": 0.8885369122690652,
+   "writer": 0.0020302251004859504,
+   "reviewer": 0.05439581232796285
+  },
+  "jeff_conf": 0.8513825496920869,
+  "laya_choice": "researcher",
+  "laya_probs": {
+   "researcher": 0.338,
+   "coder": 0.2369,
+   "writer": 0.2172,
+   "reviewer": 0.2079
+  },
+  "jeff_correct": false,
+  "laya_correct": true
+ },
+ {
+  "id": 34,
+  "lang": "zh",
+  "gold": "researcher",
+  "level": 2,
+  "disputed": true,
+  "note": "coder 可辩护：「帮我查一下」在运维语境常意味着修复",
+  "state": "生产环境每天凌晨报错，帮我查一下什么原因。",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.26206957412695825,
+   "coder": 0.7303130019520578,
+   "writer": 0.0018577381593785078,
+   "reviewer": 0.005759685761605367
+  },
+  "jeff_conf": 0.6404173359360771,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2358,
+   "coder": 0.3885,
+   "writer": 0.1634,
+   "reviewer": 0.2124
+  },
+  "jeff_correct": false,
+  "laya_correct": false
+ },
+ {
+  "id": 35,
+  "lang": "en",
+  "gold": "researcher",
+  "level": 2,
+  "disputed": true,
+  "note": "coder 可辩护：部署语境",
+  "state": "Why does my deploy keep rolling back?",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.07529502777488314,
+   "coder": 0.8786913963980082,
+   "writer": 0.006685527680237032,
+   "reviewer": 0.0393280481468716
+  },
+  "jeff_conf": 0.8382551951973443,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2662,
+   "coder": 0.3831,
+   "writer": 0.1252,
+   "reviewer": 0.2256
+  },
+  "jeff_correct": false,
+  "laya_correct": false
+ },
+ {
+  "id": 36,
+  "lang": "zh",
+  "gold": "researcher",
+  "level": 2,
+  "disputed": true,
+  "note": "coder 可辩护：接口归属用户系统",
+  "state": "这个接口响应忽快忽慢，什么原因？",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.13950165852878024,
+   "coder": 0.8486606920614062,
+   "writer": 0.004031156582192002,
+   "reviewer": 0.007806492827621652
+  },
+  "jeff_conf": 0.7982142560818749,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.3224,
+   "coder": 0.3437,
+   "writer": 0.1821,
+   "reviewer": 0.1519
+  },
+  "jeff_correct": false,
+  "laya_correct": false
+ },
+ {
+  "id": 37,
+  "lang": "zh",
+  "gold": "researcher",
+  "level": 3,
+  "disputed": true,
+  "note": "coder 可辩护：「上真实数据就崩」暗示修复诉求",
+  "state": "模型一上真实数据就崩，帮我看看为什么。",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.15690459485965452,
+   "coder": 0.25658650035710534,
+   "writer": 0.00760915252862151,
+   "reviewer": 0.5788997522546186
+  },
+  "jeff_conf": 0.4385330030061582,
+  "laya_choice": "researcher",
+  "laya_probs": {
+   "researcher": 0.4152,
+   "coder": 0.2811,
+   "writer": 0.1461,
+   "reviewer": 0.1575
+  },
+  "jeff_correct": false,
+  "laya_correct": true
+ },
+ {
+  "id": 38,
+  "lang": "en",
+  "gold": "researcher",
+  "level": 3,
+  "disputed": true,
+  "note": "偏研究问题，但实验修复语境下 coder 可辩护",
+  "state": "Why did my fine-tune collapse after epoch 2?",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.05177213792877721,
+   "coder": 0.6271742190710248,
+   "writer": 0.005446919417606834,
+   "reviewer": 0.31560672358259123
+  },
+  "jeff_conf": 0.5028989587613664,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.171,
+   "coder": 0.3116,
+   "writer": 0.2641,
+   "reviewer": 0.2532
+  },
+  "jeff_correct": false,
+  "laya_correct": false
+ },
+ {
+  "id": 39,
+  "lang": "zh",
+  "gold": "researcher",
+  "level": 3,
+  "disputed": true,
+  "note": "DBA 语境下 coder 可辩护",
+  "state": "数据库主从延迟越来越大，什么原因？",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.3689257505991736,
+   "coder": 0.5992729073383594,
+   "writer": 0.010920655923821644,
+   "reviewer": 0.020880686138645455
+  },
+  "jeff_conf": 0.46569720978447915,
+  "laya_choice": "researcher",
+  "laya_probs": {
+   "researcher": 0.3152,
+   "coder": 0.2978,
+   "writer": 0.1824,
+   "reviewer": 0.2046
+  },
+  "jeff_correct": false,
+  "laya_correct": true
+ },
+ {
+  "id": 40,
+  "lang": "en",
+  "gold": "researcher",
+  "level": 3,
+  "disputed": true,
+  "note": "Agent 调试语境下 coder 可辩护",
+  "state": "Why is my agent looping on the same tool call?",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.656879046969357,
+   "coder": 0.26103739506229134,
+   "writer": 0.042008693039935416,
+   "reviewer": 0.04007486492841631
+  },
+  "jeff_conf": 0.5425053959591426,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2133,
+   "coder": 0.4684,
+   "writer": 0.1191,
+   "reviewer": 0.1992
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ }
+]

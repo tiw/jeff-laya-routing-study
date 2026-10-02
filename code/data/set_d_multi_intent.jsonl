@@ -1,0 +1,40 @@
+{"id": 1, "lang": "zh", "gold": "researcher", "state": "先调研一下竞品的定价策略，再帮我整理成对比报告。"}
+{"id": 2, "lang": "en", "gold": "researcher", "state": "Research the best practices for Postgres backups, then draft a checklist for the team."}
+{"id": 3, "lang": "zh", "gold": "researcher", "state": "帮我搞清楚这个库的开源协议，然后决定我们能不能用。"}
+{"id": 4, "lang": "en", "gold": "researcher", "state": "Look into why our churn spiked in August, then summarize findings for the all-hands."}
+{"id": 5, "lang": "zh", "gold": "researcher", "state": "先查一下杭州周末的天气和花期，再规划一条赏花路线。"}
+{"id": 6, "lang": "en", "gold": "researcher", "state": "Survey three e-commerce platforms for seller fees, then recommend one for our shop."}
+{"id": 7, "lang": "zh", "gold": "researcher", "state": "了解一下这个客户的背景和行业，再帮我准备会面提纲。"}
+{"id": 8, "lang": "en", "gold": "researcher", "state": "Dig into the logs to find when the regression started, then open an issue with the evidence."}
+{"id": 9, "lang": "zh", "gold": "researcher", "state": "研究一下少儿医保的报销政策，再给我一份办理指南。"}
+{"id": 10, "lang": "en", "gold": "researcher", "state": "Find out what changed in the latest macOS update that broke our app, then list affected features."}
+{"id": 11, "lang": "zh", "gold": "coder", "state": "这个脚本跑得太慢，先优化性能，再补上 benchmark。"}
+{"id": 12, "lang": "en", "gold": "coder", "state": "Fix the flaky test, then wire it into CI so regressions get caught."}
+{"id": 13, "lang": "zh", "gold": "coder", "state": "给这个模块加上幂等处理，再更新接口文档。"}
+{"id": 14, "lang": "en", "gold": "coder", "state": "Implement the export feature, then add a rate limit to the endpoint."}
+{"id": 15, "lang": "zh", "gold": "coder", "state": "把登录改成扫码方式，顺带把旧的密码接口下线。"}
+{"id": 16, "lang": "en", "gold": "coder", "state": "Refactor this service into two, then update the deployment manifests."}
+{"id": 17, "lang": "zh", "gold": "coder", "state": "修一下这个内存泄漏，再写个回归测试防止复发。"}
+{"id": 18, "lang": "en", "gold": "coder", "state": "Add dark mode support, then sync the design tokens across apps."}
+{"id": 19, "lang": "zh", "gold": "coder", "state": "把这个定时任务从单线程改成并发，再监控一下执行时间。"}
+{"id": 20, "lang": "en", "gold": "coder", "state": "Port this CLI to Go, then publish cross-platform binaries."}
+{"id": 21, "lang": "zh", "gold": "writer", "state": "把这份草稿润色成终稿，再翻译成英文版发给客户。"}
+{"id": 22, "lang": "en", "gold": "writer", "state": "Draft the announcement, then adapt it into three social posts."}
+{"id": 23, "lang": "zh", "gold": "writer", "state": "把会议纪要整理成正式文档，再提炼一版 200 字摘要发群里。"}
+{"id": 24, "lang": "en", "gold": "writer", "state": "Rewrite the landing page copy, then produce a Chinese version."}
+{"id": 25, "lang": "zh", "gold": "writer", "state": "先帮我把这封邮件的语气调好，再拟两个备选主题行。"}
+{"id": 26, "lang": "en", "gold": "writer", "state": "Turn my outline into a full blog post, then generate the newsletter intro."}
+{"id": 27, "lang": "zh", "gold": "writer", "state": "把这份标书排版好，再检查一遍格式规范。"}
+{"id": 28, "lang": "en", "gold": "writer", "state": "Polish the executive summary, then condense it to a tweet-length line."}
+{"id": 29, "lang": "zh", "gold": "writer", "state": "先把这份说明书改得通俗易懂，再把配音脚本也一起出了。"}
+{"id": 30, "lang": "en", "gold": "writer", "state": "Ghostwrite my keynote opening, then draft the speaker notes."}
+{"id": 31, "lang": "zh", "gold": "reviewer", "state": "先帮我审一遍这份合同的违约条款，没问题再签。"}
+{"id": 32, "lang": "en", "gold": "reviewer", "state": "Review the security audit findings, then prioritize the fixes."}
+{"id": 33, "lang": "zh", "gold": "reviewer", "state": "先把这份数据报告的逻辑漏洞挑出来，再决定要不要发出去。"}
+{"id": 34, "lang": "en", "gold": "reviewer", "state": "Audit the dependencies for vulnerabilities, then file issues for critical ones."}
+{"id": 35, "lang": "zh", "gold": "reviewer", "state": "评审一下这个方案的技术风险，再给我 go/no-go 建议。"}
+{"id": 36, "lang": "en", "gold": "reviewer", "state": "Look over the grant proposal for weak sections, then flag what needs rework."}
+{"id": 37, "lang": "zh", "gold": "reviewer", "state": "先检查一遍这份代码的边界情况，再合并进主干。"}
+{"id": 38, "lang": "en", "gold": "reviewer", "state": "Critique the user study design before we run it."}
+{"id": 39, "lang": "zh", "gold": "reviewer", "state": "帮我审一下这份报销单有没有不合规的地方，再提交财务。"}
+{"id": 40, "lang": "en", "gold": "reviewer", "state": "Sanity-check the migration plan, then schedule the maintenance window."}

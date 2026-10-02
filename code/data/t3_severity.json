@@ -1,0 +1,15 @@
+{
+  "model": "jeff-latest",
+  "state": "Bug report from production: 'Since this morning's deploy, every CSV export returns a 500 error for all workspaces. JSON export still works, but the finance team can only import CSV, so month-end close is blocked.'",
+  "questions": {
+    "severity": {
+      "type": "score",
+      "instructions": "How severe is this bug report?",
+      "criteria": [
+        "Cosmetic; no impact to functionality",
+        "Broken or degraded feature, but a workaround exists",
+        "Blocking issue; no workaround exists"
+      ]
+    }
+  }
+}

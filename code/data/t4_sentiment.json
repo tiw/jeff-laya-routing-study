@@ -1,0 +1,15 @@
+{
+  "model": "jeff-latest",
+  "state": "Financial news headline: 'Chipmaker's profit plunges 40% as inventory glut deepens; guidance withdrawn amid demand uncertainty.'",
+  "questions": {
+    "sentiment": {
+      "type": "choice",
+      "instructions": "What is the sentiment of this headline for the company's stock?",
+      "criteria": {
+        "positive": "Likely to push the stock price up",
+        "negative": "Likely to push the stock price down",
+        "neutral": "No clear price direction"
+      }
+    }
+  }
+}

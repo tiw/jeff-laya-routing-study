@@ -1,0 +1,30 @@
+{"id": 1, "lang": "zh", "gold": "researcher", "needs_context": true, "disputed": true, "note": "零上下文，gold 为占位；期望模型低置信", "state": "帮我看看这个。"}
+{"id": 2, "lang": "zh", "gold": "researcher", "needs_context": true, "disputed": true, "note": "零上下文，gold 为占位；期望模型低置信", "state": "这个怎么处理？"}
+{"id": 3, "lang": "zh", "gold": "researcher", "needs_context": true, "disputed": true, "note": "零上下文，gold 为占位；期望模型低置信", "state": "弄一下这个文件。"}
+{"id": 4, "lang": "zh", "gold": "researcher", "needs_context": true, "disputed": true, "note": "零上下文，gold 为占位；期望模型低置信", "state": "帮我搞搞这个。"}
+{"id": 5, "lang": "zh", "gold": "researcher", "needs_context": true, "disputed": true, "note": "零上下文，gold 为占位；期望模型低置信", "state": "这个还能用吗？"}
+{"id": 6, "lang": "zh", "gold": "researcher", "needs_context": true, "disputed": true, "note": "零上下文，gold 为占位；期望模型低置信", "state": "你看这个行不行？"}
+{"id": 7, "lang": "zh", "gold": "researcher", "needs_context": true, "disputed": true, "note": "零上下文，gold 为占位；期望模型低置信", "state": "帮我弄好。"}
+{"id": 8, "lang": "zh", "gold": "researcher", "needs_context": true, "disputed": true, "note": "零上下文，gold 为占位；期望模型低置信", "state": "这个要怎么办？"}
+{"id": 9, "lang": "zh", "gold": "researcher", "needs_context": true, "disputed": true, "note": "零上下文，gold 为占位；期望模型低置信", "state": "处理一下。"}
+{"id": 10, "lang": "zh", "gold": "researcher", "needs_context": true, "disputed": true, "note": "零上下文，gold 为占位；期望模型低置信", "state": "你看看这样行不行？"}
+{"id": 11, "lang": "zh", "gold": "researcher", "needs_context": true, "disputed": true, "note": "零上下文，gold 为占位；期望模型低置信", "state": "帮我看看有没有问题。"}
+{"id": 12, "lang": "zh", "gold": "researcher", "needs_context": true, "disputed": true, "note": "零上下文，gold 为占位；期望模型低置信", "state": "接下来怎么做？"}
+{"id": 13, "lang": "zh", "gold": "coder", "needs_context": false, "note": "拥有关系+故障描述，修复导向可推断", "state": "这个东西打开就闪退。"}
+{"id": 14, "lang": "zh", "gold": "coder", "needs_context": false, "state": "这页加载要十秒。"}
+{"id": 15, "lang": "zh", "gold": "coder", "needs_context": false, "note": "延续修复线程", "state": "我按你说的改了，还是不行。"}
+{"id": 16, "lang": "zh", "gold": "reviewer", "needs_context": false, "note": "核对数字 → 审查现有工作", "state": "这个数字对不上。"}
+{"id": 17, "lang": "zh", "gold": "writer", "needs_context": false, "note": "「读起来怪」→ 润色", "state": "这段读起来怪怪的。"}
+{"id": 18, "lang": "zh", "gold": "writer", "needs_context": false, "note": "受众反馈读不懂 → 改写", "state": "客户说看不懂这封邮件。"}
+{"id": 19, "lang": "zh", "gold": "reviewer", "needs_context": false, "note": "「再想想」→ 需要批判性评估", "state": "这个方案老板说再想想。"}
+{"id": 20, "lang": "zh", "gold": "coder", "needs_context": false, "note": "回归语境", "state": "好像又退回去了。"}
+{"id": 21, "lang": "zh", "gold": "reviewer", "needs_context": false, "note": "差异核对 → 审查", "state": "两版之间差了 3 个点。"}
+{"id": 22, "lang": "zh", "gold": "reviewer", "needs_context": false, "note": "完整性检查", "state": "这里漏了一步。"}
+{"id": 23, "lang": "zh", "gold": "reviewer", "needs_context": false, "note": "命名是否合适 → 评审判断", "state": "这个命名是不是不太合适？"}
+{"id": 24, "lang": "zh", "gold": "writer", "needs_context": false, "state": "帮我给这段起个标题。"}
+{"id": 25, "lang": "zh", "gold": "writer", "needs_context": false, "state": "这段能不能再短一点？"}
+{"id": 26, "lang": "zh", "gold": "researcher", "needs_context": false, "note": "「这是啥意思」→ 解释", "state": "这是啥意思？"}
+{"id": 27, "lang": "zh", "gold": "researcher", "needs_context": false, "state": "为什么会有这个限制？"}
+{"id": 28, "lang": "zh", "gold": "writer", "needs_context": false, "note": "用词斟酌 → 润色", "state": "这个词用在这里对吗？"}
+{"id": 29, "lang": "zh", "gold": "researcher", "needs_context": false, "note": "解释未指明的逻辑 → 调研", "state": "这块的逻辑没看明白。"}
+{"id": 30, "lang": "zh", "gold": "coder", "needs_context": false, "state": "跑不通。"}

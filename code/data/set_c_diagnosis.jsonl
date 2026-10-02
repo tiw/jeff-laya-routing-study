@@ -1,0 +1,40 @@
+{"id": 1, "lang": "zh", "gold": "researcher", "level": 0, "state": "解释一下为什么我的多肉一到夏天就烂根。"}
+{"id": 2, "lang": "zh", "gold": "researcher", "level": 0, "state": "为什么我的咖啡冲出来总是又苦又涩？"}
+{"id": 3, "lang": "zh", "gold": "researcher", "level": 0, "state": "帮我分析一下为什么孩子最近不爱吃饭。"}
+{"id": 4, "lang": "en", "gold": "researcher", "level": 0, "state": "Why does my sourdough starter keep dying?"}
+{"id": 5, "lang": "zh", "gold": "researcher", "level": 0, "state": "为什么我跑步时心率总是飘得特别高？"}
+{"id": 6, "lang": "zh", "gold": "researcher", "level": 0, "state": "红酒醒过头为什么会发酸？"}
+{"id": 7, "lang": "zh", "gold": "researcher", "level": 0, "state": "为什么白衬衫越洗越黄？"}
+{"id": 8, "lang": "zh", "gold": "researcher", "level": 0, "state": "最近失眠多梦是什么原因？"}
+{"id": 9, "lang": "zh", "gold": "researcher", "level": 1, "state": "解释一下为什么这间屋子角落的 Wi-Fi 信号特别差。"}
+{"id": 10, "lang": "zh", "gold": "researcher", "level": 1, "state": "为什么我的笔记本一开机风扇就狂转？"}
+{"id": 11, "lang": "zh", "gold": "researcher", "level": 1, "state": "手机为什么越用越卡，恢复出厂设置有用吗？"}
+{"id": 12, "lang": "zh", "gold": "researcher", "level": 1, "state": "打印机打出来的文档重影是什么原因？"}
+{"id": 13, "lang": "zh", "gold": "researcher", "level": 1, "state": "Excel 打开大文件卡死，什么原因？"}
+{"id": 14, "lang": "zh", "gold": "researcher", "level": 1, "state": "为什么我发的邮件总是进对方垃圾箱？"}
+{"id": 15, "lang": "zh", "gold": "researcher", "level": 1, "state": "视频会议时对方总说听不清我的声音，怎么回事？"}
+{"id": 16, "lang": "zh", "gold": "researcher", "level": 1, "state": "系统更新之后蓝牙鼠标失灵了，什么原因？"}
+{"id": 17, "lang": "zh", "gold": "researcher", "level": 2, "state": "我们网站每天半夜访问量突增，会是什么原因？"}
+{"id": 18, "lang": "zh", "gold": "researcher", "level": 2, "state": "API 每天固定时段出现一波 502，怎么排查原因？"}
+{"id": 19, "lang": "zh", "gold": "researcher", "level": 2, "state": "为什么 Docker 镜像越构建越大？"}
+{"id": 20, "lang": "zh", "gold": "researcher", "level": 2, "state": "CI 每天随机失败一两次，什么原因？"}
+{"id": 21, "lang": "zh", "gold": "researcher", "level": 2, "state": "首页 LCP 昨天突然从 1.8s 涨到 4s，帮我分析原因。"}
+{"id": 22, "lang": "zh", "gold": "researcher", "level": 2, "state": "WebSocket 连接数一到 1024 就涨不动了，为什么？"}
+{"id": 23, "lang": "zh", "gold": "researcher", "level": 2, "state": "缓存命中率从 95% 掉到 60%，什么原因？"}
+{"id": 24, "lang": "zh", "gold": "researcher", "level": 2, "state": "日志里突然出现大量慢查询，怎么回事？"}
+{"id": 25, "lang": "zh", "gold": "researcher", "level": 3, "state": "训练 loss 前几百步很高然后骤降，这正常吗，为什么？"}
+{"id": 26, "lang": "zh", "gold": "researcher", "level": 3, "state": "推理 batch size 大了之后延迟非线性上涨，什么原因？"}
+{"id": 27, "lang": "zh", "gold": "researcher", "level": 3, "state": "embedding 模型换了底座之后召回率下降，为什么？"}
+{"id": 28, "lang": "zh", "gold": "researcher", "level": 3, "state": "K8s HPA 到了阈值不扩容，什么原因？"}
+{"id": 29, "lang": "zh", "gold": "researcher", "level": 3, "state": "GPU 显存占用总是周期性波动，怎么回事？"}
+{"id": 30, "lang": "zh", "gold": "researcher", "level": 3, "state": "微调后的模型变成复读机，为什么？"}
+{"id": 31, "lang": "zh", "gold": "researcher", "level": 3, "state": "RAG 的答案总是引错段落，什么原因？"}
+{"id": 32, "lang": "zh", "gold": "researcher", "level": 3, "state": "离线指标很好线上效果差，特征穿越怎么排查？"}
+{"id": 33, "lang": "zh", "gold": "researcher", "level": 2, "disputed": true, "note": "用户拥有系统且语气急迫，coder（排查修复）可辩护", "state": "我的网站又崩了，到底什么原因？"}
+{"id": 34, "lang": "zh", "gold": "researcher", "level": 2, "disputed": true, "note": "coder 可辩护：「帮我查一下」在运维语境常意味着修复", "state": "生产环境每天凌晨报错，帮我查一下什么原因。"}
+{"id": 35, "lang": "en", "gold": "researcher", "level": 2, "disputed": true, "note": "coder 可辩护：部署语境", "state": "Why does my deploy keep rolling back?"}
+{"id": 36, "lang": "zh", "gold": "researcher", "level": 2, "disputed": true, "note": "coder 可辩护：接口归属用户系统", "state": "这个接口响应忽快忽慢，什么原因？"}
+{"id": 37, "lang": "zh", "gold": "researcher", "level": 3, "disputed": true, "note": "coder 可辩护：「上真实数据就崩」暗示修复诉求", "state": "模型一上真实数据就崩，帮我看看为什么。"}
+{"id": 38, "lang": "en", "gold": "researcher", "level": 3, "disputed": true, "note": "偏研究问题，但实验修复语境下 coder 可辩护", "state": "Why did my fine-tune collapse after epoch 2?"}
+{"id": 39, "lang": "zh", "gold": "researcher", "level": 3, "disputed": true, "note": "DBA 语境下 coder 可辩护", "state": "数据库主从延迟越来越大，什么原因？"}
+{"id": 40, "lang": "en", "gold": "researcher", "level": 3, "disputed": true, "note": "Agent 调试语境下 coder 可辩护", "state": "Why is my agent looping on the same tool call?"}

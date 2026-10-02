@@ -1,0 +1,922 @@
+[
+ {
+  "id": 1,
+  "lang": "zh",
+  "gold": "researcher",
+  "state": "先调研一下竞品的定价策略，再帮我整理成对比报告。",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.7560675345922058,
+   "coder": 0.008402538047598553,
+   "writer": 0.22810685935059177,
+   "reviewer": 0.007423068009603947
+  },
+  "jeff_conf": 0.6747567127896077,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.2268,
+   "coder": 0.2624,
+   "writer": 0.2461,
+   "reviewer": 0.2647
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 2,
+  "lang": "en",
+  "gold": "researcher",
+  "state": "Research the best practices for Postgres backups, then draft a checklist for the team.",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.16819399219317752,
+   "coder": 0.08944744416816285,
+   "writer": 0.7179894882889951,
+   "reviewer": 0.024369075349664496
+  },
+  "jeff_conf": 0.6239859843853268,
+  "laya_choice": "researcher",
+  "laya_probs": {
+   "researcher": 0.3144,
+   "coder": 0.2691,
+   "writer": 0.2738,
+   "reviewer": 0.1427
+  },
+  "jeff_correct": false,
+  "laya_correct": true
+ },
+ {
+  "id": 3,
+  "lang": "zh",
+  "gold": "researcher",
+  "state": "帮我搞清楚这个库的开源协议，然后决定我们能不能用。",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.4638172712049404,
+   "coder": 0.1931817517509976,
+   "writer": 0.004092877085288783,
+   "reviewer": 0.33890809995877325
+  },
+  "jeff_conf": 0.2850896949399205,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1497,
+   "coder": 0.4002,
+   "writer": 0.2052,
+   "reviewer": 0.245
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 4,
+  "lang": "en",
+  "gold": "researcher",
+  "state": "Look into why our churn spiked in August, then summarize findings for the all-hands.",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9289189166169162,
+   "coder": 0.004374050341763169,
+   "writer": 0.06166364724838804,
+   "reviewer": 0.005043385792932636
+  },
+  "jeff_conf": 0.9052252221558882,
+  "laya_choice": "researcher",
+  "laya_probs": {
+   "researcher": 0.2958,
+   "coder": 0.2604,
+   "writer": 0.2042,
+   "reviewer": 0.2396
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 5,
+  "lang": "zh",
+  "gold": "researcher",
+  "state": "先查一下杭州周末的天气和花期，再规划一条赏花路线。",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9741149037122916,
+   "coder": 0.009454122830347808,
+   "writer": 0.013222012788909138,
+   "reviewer": 0.003208960668451494
+  },
+  "jeff_conf": 0.9654865382830554,
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1551,
+   "coder": 0.254,
+   "writer": 0.4937,
+   "reviewer": 0.0972
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 6,
+  "lang": "en",
+  "gold": "researcher",
+  "state": "Survey three e-commerce platforms for seller fees, then recommend one for our shop.",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9611873185835076,
+   "coder": 0.007095765462642118,
+   "writer": 0.0036932235286652494,
+   "reviewer": 0.028023692425185022
+  },
+  "jeff_conf": 0.9482497581113435,
+  "laya_choice": "researcher",
+  "laya_probs": {
+   "researcher": 0.3252,
+   "coder": 0.1711,
+   "writer": 0.2793,
+   "reviewer": 0.2244
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 7,
+  "lang": "zh",
+  "gold": "researcher",
+  "state": "了解一下这个客户的背景和行业，再帮我准备会面提纲。",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9091860838253925,
+   "coder": 0.006005051668836863,
+   "writer": 0.08026841447307273,
+   "reviewer": 0.004540450032697898
+  },
+  "jeff_conf": 0.8789147784338566,
+  "laya_choice": "researcher",
+  "laya_probs": {
+   "researcher": 0.307,
+   "coder": 0.1795,
+   "writer": 0.2169,
+   "reviewer": 0.2966
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 8,
+  "lang": "en",
+  "gold": "researcher",
+  "state": "Dig into the logs to find when the regression started, then open an issue with the evidence.",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.8865367009018231,
+   "coder": 0.07054669278586856,
+   "writer": 0.016768606067288555,
+   "reviewer": 0.02614800024501979
+  },
+  "jeff_conf": 0.8487156012024308,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2997,
+   "coder": 0.3724,
+   "writer": 0.1219,
+   "reviewer": 0.206
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 9,
+  "lang": "zh",
+  "gold": "researcher",
+  "state": "研究一下少儿医保的报销政策，再给我一份办理指南。",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.796185261551142,
+   "coder": 0.006293228867863502,
+   "writer": 0.19513070801285318,
+   "reviewer": 0.0023908015681413574
+  },
+  "jeff_conf": 0.7282470154015227,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2557,
+   "coder": 0.2846,
+   "writer": 0.2733,
+   "reviewer": 0.1864
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 10,
+  "lang": "en",
+  "gold": "researcher",
+  "state": "Find out what changed in the latest macOS update that broke our app, then list affected features.",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.5294211925387727,
+   "coder": 0.14124463025032852,
+   "writer": 0.0042528992955532165,
+   "reviewer": 0.3250812779153455
+  },
+  "jeff_conf": 0.372561590051697,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2444,
+   "coder": 0.4449,
+   "writer": 0.1362,
+   "reviewer": 0.1745
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 11,
+  "lang": "zh",
+  "gold": "coder",
+  "state": "这个脚本跑得太慢，先优化性能，再补上 benchmark。",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.018984312200445826,
+   "coder": 0.9202381972783423,
+   "writer": 0.005818822889504406,
+   "reviewer": 0.05495866763170747
+  },
+  "jeff_conf": 0.8936509297044565,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.086,
+   "coder": 0.6056,
+   "writer": 0.1131,
+   "reviewer": 0.1953
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 12,
+  "lang": "en",
+  "gold": "coder",
+  "state": "Fix the flaky test, then wire it into CI so regressions get caught.",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.036861328725418425,
+   "coder": 0.8685532725910962,
+   "writer": 0.004240807862292323,
+   "reviewer": 0.09034459082119309
+  },
+  "jeff_conf": 0.8247376967881282,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0537,
+   "coder": 0.6667,
+   "writer": 0.0637,
+   "reviewer": 0.216
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 13,
+  "lang": "zh",
+  "gold": "coder",
+  "state": "给这个模块加上幂等处理，再更新接口文档。",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.008776537114085742,
+   "coder": 0.9142998427152174,
+   "writer": 0.07183895981736821,
+   "reviewer": 0.0050846603533287425
+  },
+  "jeff_conf": 0.8857331236202898,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0599,
+   "coder": 0.6135,
+   "writer": 0.1587,
+   "reviewer": 0.168
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 14,
+  "lang": "en",
+  "gold": "coder",
+  "state": "Implement the export feature, then add a rate limit to the endpoint.",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.003677669990497634,
+   "coder": 0.9942864986322987,
+   "writer": 0.0012307866970080858,
+   "reviewer": 0.0008050446801956431
+  },
+  "jeff_conf": 0.9923819981763983,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0767,
+   "coder": 0.5457,
+   "writer": 0.2177,
+   "reviewer": 0.1599
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 15,
+  "lang": "zh",
+  "gold": "coder",
+  "state": "把登录改成扫码方式，顺带把旧的密码接口下线。",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.0027037807963751766,
+   "coder": 0.9944984399026014,
+   "writer": 0.0012839972147675933,
+   "reviewer": 0.0015137820862557887
+  },
+  "jeff_conf": 0.9926645865368019,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0673,
+   "coder": 0.5459,
+   "writer": 0.2528,
+   "reviewer": 0.134
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 16,
+  "lang": "en",
+  "gold": "coder",
+  "state": "Refactor this service into two, then update the deployment manifests.",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.448147174108984,
+   "coder": 0.5016057713623515,
+   "writer": 0.02763237970826181,
+   "reviewer": 0.02261467482040265
+  },
+  "jeff_conf": 0.33547436181646867,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0612,
+   "coder": 0.4932,
+   "writer": 0.2533,
+   "reviewer": 0.1923
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 17,
+  "lang": "zh",
+  "gold": "coder",
+  "state": "修一下这个内存泄漏，再写个回归测试防止复发。",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.0025825529179580313,
+   "coder": 0.9930006554641486,
+   "writer": 0.0011648289266982153,
+   "reviewer": 0.0032519626911951547
+  },
+  "jeff_conf": 0.9906675406188649,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.058,
+   "coder": 0.6033,
+   "writer": 0.2365,
+   "reviewer": 0.1022
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 18,
+  "lang": "en",
+  "gold": "coder",
+  "state": "Add dark mode support, then sync the design tokens across apps.",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.0021254762410360573,
+   "coder": 0.9968993602279032,
+   "writer": 0.0005367584493420788,
+   "reviewer": 0.0004384050817187562
+  },
+  "jeff_conf": 0.9958658136372042,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0685,
+   "coder": 0.4682,
+   "writer": 0.2561,
+   "reviewer": 0.2072
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 19,
+  "lang": "zh",
+  "gold": "coder",
+  "state": "把这个定时任务从单线程改成并发，再监控一下执行时间。",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.10630643088035495,
+   "coder": 0.8733064914545092,
+   "writer": 0.004503800730853001,
+   "reviewer": 0.015883276934282868
+  },
+  "jeff_conf": 0.8310753219393456,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.072,
+   "coder": 0.694,
+   "writer": 0.1282,
+   "reviewer": 0.1059
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 20,
+  "lang": "en",
+  "gold": "coder",
+  "state": "Port this CLI to Go, then publish cross-platform binaries.",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.0797356510182049,
+   "coder": 0.8905956082746713,
+   "writer": 0.020503556203070608,
+   "reviewer": 0.009165184504053112
+  },
+  "jeff_conf": 0.8541274776995618,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.089,
+   "coder": 0.6267,
+   "writer": 0.1603,
+   "reviewer": 0.124
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 21,
+  "lang": "zh",
+  "gold": "writer",
+  "state": "把这份草稿润色成终稿，再翻译成英文版发给客户。",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.009799625980507282,
+   "coder": 0.03191170621526776,
+   "writer": 0.9532933174225451,
+   "reviewer": 0.0049953503816798995
+  },
+  "jeff_conf": 0.9377244232300601,
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.0596,
+   "coder": 0.2698,
+   "writer": 0.5629,
+   "reviewer": 0.1076
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 22,
+  "lang": "en",
+  "gold": "writer",
+  "state": "Draft the announcement, then adapt it into three social posts.",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.03875926384237555,
+   "coder": 0.06051660715172774,
+   "writer": 0.895635185158821,
+   "reviewer": 0.005088943847075714
+  },
+  "jeff_conf": 0.8608469135450947,
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.0562,
+   "coder": 0.2697,
+   "writer": 0.576,
+   "reviewer": 0.0982
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 23,
+  "lang": "zh",
+  "gold": "writer",
+  "state": "把会议纪要整理成正式文档，再提炼一版 200 字摘要发群里。",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.09149272441654899,
+   "coder": 0.01765709685348124,
+   "writer": 0.8886992045636548,
+   "reviewer": 0.0021509741663149596
+  },
+  "jeff_conf": 0.8515989394182064,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0729,
+   "coder": 0.3859,
+   "writer": 0.3735,
+   "reviewer": 0.1677
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 24,
+  "lang": "en",
+  "gold": "writer",
+  "state": "Rewrite the landing page copy, then produce a Chinese version.",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.10061681420530103,
+   "coder": 0.08640638122568102,
+   "writer": 0.8022740602832148,
+   "reviewer": 0.010702744285803202
+  },
+  "jeff_conf": 0.7363654137109531,
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.0593,
+   "coder": 0.3612,
+   "writer": 0.4022,
+   "reviewer": 0.1772
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 25,
+  "lang": "zh",
+  "gold": "writer",
+  "state": "先帮我把这封邮件的语气调好，再拟两个备选主题行。",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.04082678995777015,
+   "coder": 0.06919134508898993,
+   "writer": 0.8788105026995295,
+   "reviewer": 0.011171362253710418
+  },
+  "jeff_conf": 0.8384140035993727,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0835,
+   "coder": 0.4139,
+   "writer": 0.3483,
+   "reviewer": 0.1544
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 26,
+  "lang": "en",
+  "gold": "writer",
+  "state": "Turn my outline into a full blog post, then generate the newsletter intro.",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.024703603675924585,
+   "coder": 0.07301282817617322,
+   "writer": 0.8994800690077309,
+   "reviewer": 0.002803499140171254
+  },
+  "jeff_conf": 0.8659734253436412,
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.0955,
+   "coder": 0.3049,
+   "writer": 0.4839,
+   "reviewer": 0.1157
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 27,
+  "lang": "zh",
+  "gold": "writer",
+  "state": "把这份标书排版好，再检查一遍格式规范。",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.00412174334989315,
+   "coder": 0.030567291798660304,
+   "writer": 0.8030128882850482,
+   "reviewer": 0.16229807656639827
+  },
+  "jeff_conf": 0.7373505177133977,
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.0592,
+   "coder": 0.2894,
+   "writer": 0.3782,
+   "reviewer": 0.2733
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 28,
+  "lang": "en",
+  "gold": "writer",
+  "state": "Polish the executive summary, then condense it to a tweet-length line.",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.22115555570390488,
+   "coder": 0.03882558300216185,
+   "writer": 0.7312516624573742,
+   "reviewer": 0.008767198836559048
+  },
+  "jeff_conf": 0.6416688832764988,
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1163,
+   "coder": 0.3399,
+   "writer": 0.3634,
+   "reviewer": 0.1803
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 29,
+  "lang": "zh",
+  "gold": "writer",
+  "state": "先把这份说明书改得通俗易懂，再把配音脚本也一起出了。",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.01985387909912488,
+   "coder": 0.22737786554992345,
+   "writer": 0.7446827417279495,
+   "reviewer": 0.008085513623002213
+  },
+  "jeff_conf": 0.6595769889705992,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0508,
+   "coder": 0.4863,
+   "writer": 0.262,
+   "reviewer": 0.2008
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 30,
+  "lang": "en",
+  "gold": "writer",
+  "state": "Ghostwrite my keynote opening, then draft the speaker notes.",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.02328331372130993,
+   "coder": 0.044200405025664295,
+   "writer": 0.9292001629050805,
+   "reviewer": 0.003316118347945342
+  },
+  "jeff_conf": 0.905600217206774,
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.101,
+   "coder": 0.3206,
+   "writer": 0.4759,
+   "reviewer": 0.1025
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 31,
+  "lang": "zh",
+  "gold": "reviewer",
+  "state": "先帮我审一遍这份合同的违约条款，没问题再签。",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.003503651380688623,
+   "coder": 0.0018792582182697538,
+   "writer": 0.01237354052088181,
+   "reviewer": 0.9822435498801598
+  },
+  "jeff_conf": 0.9763247331735464,
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1807,
+   "coder": 0.2524,
+   "writer": 0.3826,
+   "reviewer": 0.1843
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 32,
+  "lang": "en",
+  "gold": "reviewer",
+  "state": "Review the security audit findings, then prioritize the fixes.",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.18609156269107946,
+   "coder": 0.2300840684796592,
+   "writer": 0.010979429214579738,
+   "reviewer": 0.5728449396146816
+  },
+  "jeff_conf": 0.4304599194862422,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.2022,
+   "coder": 0.1849,
+   "writer": 0.1352,
+   "reviewer": 0.4777
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 33,
+  "lang": "zh",
+  "gold": "reviewer",
+  "state": "先把这份数据报告的逻辑漏洞挑出来，再决定要不要发出去。",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.02687815455611052,
+   "coder": 0.007941652281659618,
+   "writer": 0.05431975183292623,
+   "reviewer": 0.9108604413293037
+  },
+  "jeff_conf": 0.8811472551057382,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1768,
+   "coder": 0.4378,
+   "writer": 0.2109,
+   "reviewer": 0.1745
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 34,
+  "lang": "en",
+  "gold": "reviewer",
+  "state": "Audit the dependencies for vulnerabilities, then file issues for critical ones.",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.016142545098808005,
+   "coder": 0.02399726373146361,
+   "writer": 0.0013614848579124503,
+   "reviewer": 0.9584987063118159
+  },
+  "jeff_conf": 0.9446649417490879,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.1966,
+   "coder": 0.3469,
+   "writer": 0.0812,
+   "reviewer": 0.3753
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 35,
+  "lang": "zh",
+  "gold": "reviewer",
+  "state": "评审一下这个方案的技术风险，再给我 go/no-go 建议。",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.006891456328001263,
+   "coder": 0.008529157824595578,
+   "writer": 0.001398155771797767,
+   "reviewer": 0.9831812300756054
+  },
+  "jeff_conf": 0.9775749734341406,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.1991,
+   "coder": 0.2129,
+   "writer": 0.2397,
+   "reviewer": 0.3483
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 36,
+  "lang": "en",
+  "gold": "reviewer",
+  "state": "Look over the grant proposal for weak sections, then flag what needs rework.",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.010098553780153053,
+   "coder": 0.00799477253875696,
+   "writer": 0.027731419335880827,
+   "reviewer": 0.9541752543452091
+  },
+  "jeff_conf": 0.9389003391269455,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.1049,
+   "coder": 0.1837,
+   "writer": 0.2683,
+   "reviewer": 0.4431
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 37,
+  "lang": "zh",
+  "gold": "reviewer",
+  "state": "先检查一遍这份代码的边界情况，再合并进主干。",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.04384900551929036,
+   "coder": 0.8191343400966818,
+   "writer": 0.011641281450926935,
+   "reviewer": 0.12537537293310083
+  },
+  "jeff_conf": 0.7588457867955758,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0937,
+   "coder": 0.5485,
+   "writer": 0.1603,
+   "reviewer": 0.1975
+  },
+  "jeff_correct": false,
+  "laya_correct": false
+ },
+ {
+  "id": 38,
+  "lang": "en",
+  "gold": "reviewer",
+  "state": "Critique the user study design before we run it.",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.18588406587629003,
+   "coder": 0.004356128337070799,
+   "writer": 0.002765871927366615,
+   "reviewer": 0.8069939338592725
+  },
+  "jeff_conf": 0.74265857847903,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.1639,
+   "coder": 0.2458,
+   "writer": 0.1613,
+   "reviewer": 0.4289
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 39,
+  "lang": "zh",
+  "gold": "reviewer",
+  "state": "帮我审一下这份报销单有没有不合规的地方，再提交财务。",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.002371659846289317,
+   "coder": 0.0007062303703921389,
+   "writer": 0.0068275585059363745,
+   "reviewer": 0.9900945512773822
+  },
+  "jeff_conf": 0.9867927350365097,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.2557,
+   "coder": 0.1825,
+   "writer": 0.2438,
+   "reviewer": 0.318
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 40,
+  "lang": "en",
+  "gold": "reviewer",
+  "state": "Sanity-check the migration plan, then schedule the maintenance window.",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.246539896529718,
+   "coder": 0.04754807453539847,
+   "writer": 0.00919631759418974,
+   "reviewer": 0.6967157113406938
+  },
+  "jeff_conf": 0.5956209484542584,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.0915,
+   "coder": 0.2574,
+   "writer": 0.174,
+   "reviewer": 0.4771
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ }
+]

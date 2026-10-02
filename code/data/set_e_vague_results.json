@@ -1,0 +1,759 @@
+[
+ {
+  "id": 1,
+  "lang": "zh",
+  "gold": "researcher",
+  "needs_context": true,
+  "disputed": true,
+  "note": "零上下文，gold 为占位；期望模型低置信",
+  "state": "帮我看看这个。",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.45374298095703125,
+   "coder": 0.16689756512641907,
+   "writer": 0.14702710509300232,
+   "reviewer": 0.23233234882354736
+  },
+  "jeff_conf": 0.2716573079427083,
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1313,
+   "coder": 0.3148,
+   "writer": 0.3616,
+   "reviewer": 0.1924
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 2,
+  "lang": "zh",
+  "gold": "researcher",
+  "needs_context": true,
+  "disputed": true,
+  "note": "零上下文，gold 为占位；期望模型低置信",
+  "state": "这个怎么处理？",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.5782637976756767,
+   "coder": 0.18695668179703198,
+   "writer": 0.125001574866415,
+   "reviewer": 0.10977794566087627
+  },
+  "jeff_conf": 0.4376850635675689,
+  "laya_choice": "researcher",
+  "laya_probs": {
+   "researcher": 0.4141,
+   "coder": 0.126,
+   "writer": 0.2015,
+   "reviewer": 0.2584
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 3,
+  "lang": "zh",
+  "gold": "researcher",
+  "needs_context": true,
+  "disputed": true,
+  "note": "零上下文，gold 为占位；期望模型低置信",
+  "state": "弄一下这个文件。",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.023565323828686598,
+   "coder": 0.2339153902396277,
+   "writer": 0.71558653412813,
+   "reviewer": 0.026932751803555654
+  },
+  "jeff_conf": 0.6207820455041734,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.137,
+   "coder": 0.37,
+   "writer": 0.2807,
+   "reviewer": 0.2123
+  },
+  "jeff_correct": false,
+  "laya_correct": false
+ },
+ {
+  "id": 4,
+  "lang": "zh",
+  "gold": "researcher",
+  "needs_context": true,
+  "disputed": true,
+  "note": "零上下文，gold 为占位；期望模型低置信",
+  "state": "帮我搞搞这个。",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.2739853920188261,
+   "coder": 0.49251235632253487,
+   "writer": 0.17247392622695698,
+   "reviewer": 0.06102832543168199
+  },
+  "jeff_conf": 0.3233498084300465,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0548,
+   "coder": 0.5772,
+   "writer": 0.2888,
+   "reviewer": 0.0792
+  },
+  "jeff_correct": false,
+  "laya_correct": false
+ },
+ {
+  "id": 5,
+  "lang": "zh",
+  "gold": "researcher",
+  "needs_context": true,
+  "disputed": true,
+  "note": "零上下文，gold 为占位；期望模型低置信",
+  "state": "这个还能用吗？",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.04328690659372832,
+   "coder": 0.011978031562635742,
+   "writer": 0.0035422361360060188,
+   "reviewer": 0.94119282570763
+  },
+  "jeff_conf": 0.92159043427684,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.212,
+   "coder": 0.2071,
+   "writer": 0.2572,
+   "reviewer": 0.3237
+  },
+  "jeff_correct": false,
+  "laya_correct": false
+ },
+ {
+  "id": 6,
+  "lang": "zh",
+  "gold": "researcher",
+  "needs_context": true,
+  "disputed": true,
+  "note": "零上下文，gold 为占位；期望模型低置信",
+  "state": "你看这个行不行？",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.04405959602077727,
+   "coder": 0.11103181499071738,
+   "writer": 0.09529334910209081,
+   "reviewer": 0.7496152398864145
+  },
+  "jeff_conf": 0.666153653181886,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.1657,
+   "coder": 0.1954,
+   "writer": 0.2053,
+   "reviewer": 0.4337
+  },
+  "jeff_correct": false,
+  "laya_correct": false
+ },
+ {
+  "id": 7,
+  "lang": "zh",
+  "gold": "researcher",
+  "needs_context": true,
+  "disputed": true,
+  "note": "零上下文，gold 为占位；期望模型低置信",
+  "state": "帮我弄好。",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.08853826539906463,
+   "coder": 0.46840091841815534,
+   "writer": 0.3634963875487985,
+   "reviewer": 0.07956442863398151
+  },
+  "jeff_conf": 0.29120122455754044,
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.0816,
+   "coder": 0.3413,
+   "writer": 0.3992,
+   "reviewer": 0.1778
+  },
+  "jeff_correct": false,
+  "laya_correct": false
+ },
+ {
+  "id": 8,
+  "lang": "zh",
+  "gold": "researcher",
+  "needs_context": true,
+  "disputed": true,
+  "note": "零上下文，gold 为占位；期望模型低置信",
+  "state": "这个要怎么办？",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.7070097669628522,
+   "coder": 0.15664134188122095,
+   "writer": 0.08127197271785008,
+   "reviewer": 0.05507691843807675
+  },
+  "jeff_conf": 0.6093463559504696,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.251,
+   "coder": 0.1761,
+   "writer": 0.2661,
+   "reviewer": 0.3068
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 9,
+  "lang": "zh",
+  "gold": "researcher",
+  "needs_context": true,
+  "disputed": true,
+  "note": "零上下文，gold 为占位；期望模型低置信",
+  "state": "处理一下。",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.3568980475566845,
+   "coder": 0.3626290342799358,
+   "writer": 0.20761511193845672,
+   "reviewer": 0.07285780622492298
+  },
+  "jeff_conf": 0.15017204570658108,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0965,
+   "coder": 0.3272,
+   "writer": 0.323,
+   "reviewer": 0.2533
+  },
+  "jeff_correct": false,
+  "laya_correct": false
+ },
+ {
+  "id": 10,
+  "lang": "zh",
+  "gold": "researcher",
+  "needs_context": true,
+  "disputed": true,
+  "note": "零上下文，gold 为占位；期望模型低置信",
+  "state": "你看看这样行不行？",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.12378276984036424,
+   "coder": 0.19244410584040925,
+   "writer": 0.2053675842465975,
+   "reviewer": 0.478405540072629
+  },
+  "jeff_conf": 0.30454072009683864,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.2144,
+   "coder": 0.2125,
+   "writer": 0.2061,
+   "reviewer": 0.367
+  },
+  "jeff_correct": false,
+  "laya_correct": false
+ },
+ {
+  "id": 11,
+  "lang": "zh",
+  "gold": "researcher",
+  "needs_context": true,
+  "disputed": true,
+  "note": "零上下文，gold 为占位；期望模型低置信",
+  "state": "帮我看看有没有问题。",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.08728624750247228,
+   "coder": 0.11667854165019778,
+   "writer": 0.06608735671509271,
+   "reviewer": 0.7299478541322372
+  },
+  "jeff_conf": 0.6399304721763163,
+  "laya_choice": "researcher",
+  "laya_probs": {
+   "researcher": 0.4031,
+   "coder": 0.16,
+   "writer": 0.1511,
+   "reviewer": 0.2858
+  },
+  "jeff_correct": false,
+  "laya_correct": true
+ },
+ {
+  "id": 12,
+  "lang": "zh",
+  "gold": "researcher",
+  "needs_context": true,
+  "disputed": true,
+  "note": "零上下文，gold 为占位；期望模型低置信",
+  "state": "接下来怎么做？",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.5376217640863797,
+   "coder": 0.24979594351077417,
+   "writer": 0.1489798486840815,
+   "reviewer": 0.06360244371876456
+  },
+  "jeff_conf": 0.3834956854485063,
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.2519,
+   "coder": 0.2041,
+   "writer": 0.4,
+   "reviewer": 0.1439
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 13,
+  "lang": "zh",
+  "gold": "coder",
+  "needs_context": false,
+  "note": "拥有关系+故障描述，修复导向可推断",
+  "state": "这个东西打开就闪退。",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.05273560685060541,
+   "coder": 0.9012883733638628,
+   "writer": 0.007891004348584658,
+   "reviewer": 0.038085015436947145
+  },
+  "jeff_conf": 0.8683844978184837,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0899,
+   "coder": 0.4792,
+   "writer": 0.2814,
+   "reviewer": 0.1495
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 14,
+  "lang": "zh",
+  "gold": "coder",
+  "needs_context": false,
+  "state": "这页加载要十秒。",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.5353336890389495,
+   "coder": 0.33862715707252056,
+   "writer": 0.07728116901754462,
+   "reviewer": 0.04875798487098526
+  },
+  "jeff_conf": 0.38044491871859937,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1755,
+   "coder": 0.3436,
+   "writer": 0.2476,
+   "reviewer": 0.2334
+  },
+  "jeff_correct": false,
+  "laya_correct": true
+ },
+ {
+  "id": 15,
+  "lang": "zh",
+  "gold": "coder",
+  "needs_context": false,
+  "note": "延续修复线程",
+  "state": "我按你说的改了，还是不行。",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.0546455442946441,
+   "coder": 0.5642603867011676,
+   "writer": 0.10042979234728111,
+   "reviewer": 0.2806642766569072
+  },
+  "jeff_conf": 0.4190138489348902,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.1129,
+   "coder": 0.2816,
+   "writer": 0.1722,
+   "reviewer": 0.4333
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 16,
+  "lang": "zh",
+  "gold": "reviewer",
+  "needs_context": false,
+  "note": "核对数字 → 审查现有工作",
+  "state": "这个数字对不上。",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.22876591768670368,
+   "coder": 0.321148353879248,
+   "writer": 0.04057065251678149,
+   "reviewer": 0.4095150759172668
+  },
+  "jeff_conf": 0.2126867678896891,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.0773,
+   "coder": 0.2751,
+   "writer": 0.2271,
+   "reviewer": 0.4205
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 17,
+  "lang": "zh",
+  "gold": "writer",
+  "needs_context": false,
+  "note": "「读起来怪」→ 润色",
+  "state": "这段读起来怪怪的。",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.14304061871524937,
+   "coder": 0.07524144201031673,
+   "writer": 0.44728783087206897,
+   "reviewer": 0.3344301084023649
+  },
+  "jeff_conf": 0.2630504411627586,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.1096,
+   "coder": 0.1377,
+   "writer": 0.3722,
+   "reviewer": 0.3805
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 18,
+  "lang": "zh",
+  "gold": "writer",
+  "needs_context": false,
+  "note": "受众反馈读不懂 → 改写",
+  "state": "客户说看不懂这封邮件。",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.4021162687155404,
+   "coder": 0.019870443651792136,
+   "writer": 0.44687702902577603,
+   "reviewer": 0.13113625860689143
+  },
+  "jeff_conf": 0.26250270536770137,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.1573,
+   "coder": 0.214,
+   "writer": 0.3046,
+   "reviewer": 0.3241
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 19,
+  "lang": "zh",
+  "gold": "reviewer",
+  "needs_context": false,
+  "note": "「再想想」→ 需要批判性评估",
+  "state": "这个方案老板说再想想。",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.17462019551215807,
+   "coder": 0.1541633617135857,
+   "writer": 0.24177598281717455,
+   "reviewer": 0.4294404599570817
+  },
+  "jeff_conf": 0.23925394660944224,
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1596,
+   "coder": 0.2038,
+   "writer": 0.3416,
+   "reviewer": 0.295
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 20,
+  "lang": "zh",
+  "gold": "coder",
+  "needs_context": false,
+  "note": "回归语境",
+  "state": "好像又退回去了。",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.5540391289299597,
+   "coder": 0.15712301667217934,
+   "writer": 0.19530085020215587,
+   "reviewer": 0.09353700419570511
+  },
+  "jeff_conf": 0.4053855052399462,
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1772,
+   "coder": 0.2232,
+   "writer": 0.3448,
+   "reviewer": 0.2549
+  },
+  "jeff_correct": false,
+  "laya_correct": false
+ },
+ {
+  "id": 21,
+  "lang": "zh",
+  "gold": "reviewer",
+  "needs_context": false,
+  "note": "差异核对 → 审查",
+  "state": "两版之间差了 3 个点。",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.24109732872010248,
+   "coder": 0.20832070304635852,
+   "writer": 0.4329177963020248,
+   "reviewer": 0.11766417193151417
+  },
+  "jeff_conf": 0.2438903950693664,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.192,
+   "coder": 0.2063,
+   "writer": 0.2692,
+   "reviewer": 0.3325
+  },
+  "jeff_correct": false,
+  "laya_correct": true
+ },
+ {
+  "id": 22,
+  "lang": "zh",
+  "gold": "reviewer",
+  "needs_context": false,
+  "note": "完整性检查",
+  "state": "这里漏了一步。",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.27994782149713965,
+   "coder": 0.32304040078879,
+   "writer": 0.13358409901833682,
+   "reviewer": 0.2634276786957335
+  },
+  "jeff_conf": 0.09738720105171998,
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.0944,
+   "coder": 0.2567,
+   "writer": 0.3659,
+   "reviewer": 0.283
+  },
+  "jeff_correct": false,
+  "laya_correct": false
+ },
+ {
+  "id": 23,
+  "lang": "zh",
+  "gold": "reviewer",
+  "needs_context": false,
+  "note": "命名是否合适 → 评审判断",
+  "state": "这个命名是不是不太合适？",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.07587572300248925,
+   "coder": 0.04441541126989441,
+   "writer": 0.05484655208657015,
+   "reviewer": 0.8248623136410462
+  },
+  "jeff_conf": 0.7664830848547283,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.1874,
+   "coder": 0.1463,
+   "writer": 0.2642,
+   "reviewer": 0.4021
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 24,
+  "lang": "zh",
+  "gold": "writer",
+  "needs_context": false,
+  "state": "帮我给这段起个标题。",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.3879412418110895,
+   "coder": 0.11896450258141217,
+   "writer": 0.4355156762370065,
+   "reviewer": 0.05757857937049183
+  },
+  "jeff_conf": 0.2473542349826753,
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.0671,
+   "coder": 0.3593,
+   "writer": 0.4727,
+   "reviewer": 0.1009
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 25,
+  "lang": "zh",
+  "gold": "writer",
+  "needs_context": false,
+  "state": "这段能不能再短一点？",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.17514964992816634,
+   "coder": 0.26469946718443826,
+   "writer": 0.47640996247150313,
+   "reviewer": 0.08374092041589228
+  },
+  "jeff_conf": 0.3018799499620042,
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1337,
+   "coder": 0.1798,
+   "writer": 0.4781,
+   "reviewer": 0.2085
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 26,
+  "lang": "zh",
+  "gold": "researcher",
+  "needs_context": false,
+  "note": "「这是啥意思」→ 解释",
+  "state": "这是啥意思？",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.616331302146238,
+   "coder": 0.08864676423986172,
+   "writer": 0.2562441375110067,
+   "reviewer": 0.038777796102893586
+  },
+  "jeff_conf": 0.488441736194984,
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.2024,
+   "coder": 0.1579,
+   "writer": 0.3805,
+   "reviewer": 0.2591
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 27,
+  "lang": "zh",
+  "gold": "researcher",
+  "needs_context": false,
+  "state": "为什么会有这个限制？",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.4652134408769989,
+   "coder": 0.19005197003406332,
+   "writer": 0.022715851326050588,
+   "reviewer": 0.3220187377628872
+  },
+  "jeff_conf": 0.2869512545026652,
+  "laya_choice": "researcher",
+  "laya_probs": {
+   "researcher": 0.4265,
+   "coder": 0.1469,
+   "writer": 0.2275,
+   "reviewer": 0.1992
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 28,
+  "lang": "zh",
+  "gold": "writer",
+  "needs_context": false,
+  "note": "用词斟酌 → 润色",
+  "state": "这个词用在这里对吗？",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.4949562368211815,
+   "coder": 0.219204434382486,
+   "writer": 0.17808827523032145,
+   "reviewer": 0.10775105356601107
+  },
+  "jeff_conf": 0.32660831576157534,
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1499,
+   "coder": 0.2253,
+   "writer": 0.412,
+   "reviewer": 0.2128
+  },
+  "jeff_correct": false,
+  "laya_correct": true
+ },
+ {
+  "id": 29,
+  "lang": "zh",
+  "gold": "researcher",
+  "needs_context": false,
+  "note": "解释未指明的逻辑 → 调研",
+  "state": "这块的逻辑没看明白。",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.4947980811313295,
+   "coder": 0.22908016441925932,
+   "writer": 0.02525880494411426,
+   "reviewer": 0.2508629495052969
+  },
+  "jeff_conf": 0.32639744150843936,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.1582,
+   "coder": 0.1834,
+   "writer": 0.3073,
+   "reviewer": 0.351
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 30,
+  "lang": "zh",
+  "gold": "coder",
+  "needs_context": false,
+  "state": "跑不通。",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.35666886503501033,
+   "coder": 0.4497726924683555,
+   "writer": 0.0824870479477502,
+   "reviewer": 0.11107139454888396
+  },
+  "jeff_conf": 0.26636358995780735,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0847,
+   "coder": 0.4144,
+   "writer": 0.2029,
+   "reviewer": 0.298
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ }
+]

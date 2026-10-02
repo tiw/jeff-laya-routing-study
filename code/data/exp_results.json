@@ -1,0 +1,1394 @@
+{
+ "E1": [
+  {
+   "gold": "reviewer",
+   "active": {
+    "state": "Check this SQL query for injection risks.",
+    "jeff": {
+     "choice": "reviewer",
+     "probs": {
+      "researcher": 0.11302367542223142,
+      "coder": 0.30775596588665227,
+      "writer": 0.005015461545915092,
+      "reviewer": 0.5742048971452012
+     }
+    },
+    "laya": {
+     "choice": "coder",
+     "probs": {
+      "researcher": 0.2048,
+      "coder": 0.3369,
+      "writer": 0.1541,
+      "reviewer": 0.3042
+     }
+    }
+   },
+   "passive": {
+    "state": "This SQL query should be checked for injection risks.",
+    "jeff": {
+     "choice": "reviewer",
+     "probs": {
+      "researcher": 0.08152285153703369,
+      "coder": 0.37860539255836434,
+      "writer": 0.004288025632083213,
+      "reviewer": 0.5355837302725187
+     }
+    },
+    "laya": {
+     "choice": "coder",
+     "probs": {
+      "researcher": 0.1482,
+      "coder": 0.4024,
+      "writer": 0.1382,
+      "reviewer": 0.3112
+     }
+    }
+   }
+  },
+  {
+   "gold": "reviewer",
+   "active": {
+    "state": "Review the authentication module.",
+    "jeff": {
+     "choice": "reviewer",
+     "probs": {
+      "researcher": 0.06674571295793952,
+      "coder": 0.4627436292557064,
+      "writer": 0.004176831780067093,
+      "reviewer": 0.46633382600628703
+     }
+    },
+    "laya": {
+     "choice": "reviewer",
+     "probs": {
+      "researcher": 0.0952,
+      "coder": 0.1671,
+      "writer": 0.1024,
+      "reviewer": 0.6353
+     }
+    }
+   },
+   "passive": {
+    "state": "The authentication module should be reviewed.",
+    "jeff": {
+     "choice": "reviewer",
+     "probs": {
+      "researcher": 0.017154618965903663,
+      "coder": 0.0986703030634392,
+      "writer": 0.0018035995169731825,
+      "reviewer": 0.8823714784536839
+     }
+    },
+    "laya": {
+     "choice": "reviewer",
+     "probs": {
+      "researcher": 0.0888,
+      "coder": 0.2081,
+      "writer": 0.0982,
+      "reviewer": 0.6049
+     }
+    }
+   }
+  },
+  {
+   "gold": "researcher",
+   "active": {
+    "state": "Summarize the quarterly sales report.",
+    "jeff": {
+     "choice": "researcher",
+     "probs": {
+      "researcher": 0.9500354663196595,
+      "coder": 0.00556903922418115,
+      "writer": 0.03779280882678865,
+      "reviewer": 0.006602685629370685
+     }
+    },
+    "laya": {
+     "choice": "writer",
+     "probs": {
+      "researcher": 0.2136,
+      "coder": 0.2342,
+      "writer": 0.3403,
+      "reviewer": 0.2118
+     }
+    }
+   },
+   "passive": {
+    "state": "The quarterly sales report should be summarized.",
+    "jeff": {
+     "choice": "researcher",
+     "probs": {
+      "researcher": 0.8911538102223419,
+      "coder": 0.011927464680534341,
+      "writer": 0.08654886130559207,
+      "reviewer": 0.010369863791531693
+     }
+    },
+    "laya": {
+     "choice": "writer",
+     "probs": {
+      "researcher": 0.1668,
+      "coder": 0.1923,
+      "writer": 0.4181,
+      "reviewer": 0.2228
+     }
+    }
+   }
+  },
+  {
+   "gold": "coder",
+   "active": {
+    "state": "Debug the login timeout issue.",
+    "jeff": {
+     "choice": "coder",
+     "probs": {
+      "researcher": 0.02170111367314514,
+      "coder": 0.9743304348445538,
+      "writer": 0.0008113581822046913,
+      "reviewer": 0.0031570933000963793
+     }
+    },
+    "laya": {
+     "choice": "coder",
+     "probs": {
+      "researcher": 0.0991,
+      "coder": 0.582,
+      "writer": 0.1346,
+      "reviewer": 0.1843
+     }
+    }
+   },
+   "passive": {
+    "state": "The login timeout issue should be debugged.",
+    "jeff": {
+     "choice": "coder",
+     "probs": {
+      "researcher": 0.036578759027273935,
+      "coder": 0.9580262166171771,
+      "writer": 0.001356551287828967,
+      "reviewer": 0.004038473067719933
+     }
+    },
+    "laya": {
+     "choice": "coder",
+     "probs": {
+      "researcher": 0.1366,
+      "coder": 0.4659,
+      "writer": 0.1191,
+      "reviewer": 0.2784
+     }
+    }
+   }
+  },
+  {
+   "gold": "reviewer",
+   "active": {
+    "state": "Critique my cover letter.",
+    "jeff": {
+     "choice": "reviewer",
+     "probs": {
+      "researcher": 0.0011823226976431414,
+      "coder": 0.003714383215074558,
+      "writer": 0.05328324247950351,
+      "reviewer": 0.9418200516077788
+     }
+    },
+    "laya": {
+     "choice": "writer",
+     "probs": {
+      "researcher": 0.0842,
+      "coder": 0.1833,
+      "writer": 0.4034,
+      "reviewer": 0.329
+     }
+    }
+   },
+   "passive": {
+    "state": "My cover letter needs a critique.",
+    "jeff": {
+     "choice": "reviewer",
+     "probs": {
+      "researcher": 0.0013023551173142443,
+      "coder": 0.005539495603759011,
+      "writer": 0.07381122079833163,
+      "reviewer": 0.9193469284805951
+     }
+    },
+    "laya": {
+     "choice": "writer",
+     "probs": {
+      "researcher": 0.0878,
+      "coder": 0.154,
+      "writer": 0.4512,
+      "reviewer": 0.307
+     }
+    }
+   }
+  },
+  {
+   "gold": "writer",
+   "active": {
+    "state": "Proofread the proposal draft.",
+    "jeff": {
+     "choice": "writer",
+     "probs": {
+      "researcher": 0.06197404861450195,
+      "coder": 0.13452599942684174,
+      "writer": 0.6765026450157166,
+      "reviewer": 0.12699730694293976
+     }
+    },
+    "laya": {
+     "choice": "writer",
+     "probs": {
+      "researcher": 0.1018,
+      "coder": 0.1549,
+      "writer": 0.392,
+      "reviewer": 0.3512
+     }
+    }
+   },
+   "passive": {
+    "state": "The proposal draft needs proofreading.",
+    "jeff": {
+     "choice": "writer",
+     "probs": {
+      "researcher": 0.007834738426896757,
+      "coder": 0.11735274356679547,
+      "writer": 0.6312393196970704,
+      "reviewer": 0.24357319830923743
+     }
+    },
+    "laya": {
+     "choice": "writer",
+     "probs": {
+      "researcher": 0.0927,
+      "coder": 0.1493,
+      "writer": 0.4629,
+      "reviewer": 0.2951
+     }
+    }
+   }
+  },
+  {
+   "gold": "researcher",
+   "active": {
+    "state": "Compare PostgreSQL and MySQL for our use case.",
+    "jeff": {
+     "choice": "coder",
+     "probs": {
+      "researcher": 0.29212822257554355,
+      "coder": 0.6393762608993729,
+      "writer": 0.00631864452849508,
+      "reviewer": 0.06217687199658842
+     }
+    },
+    "laya": {
+     "choice": "researcher",
+     "probs": {
+      "researcher": 0.2795,
+      "coder": 0.2674,
+      "writer": 0.2378,
+      "reviewer": 0.2153
+     }
+    }
+   },
+   "passive": {
+    "state": "PostgreSQL and MySQL should be compared for our use case.",
+    "jeff": {
+     "choice": "researcher",
+     "probs": {
+      "researcher": 0.47217336746819566,
+      "coder": 0.45135474503568385,
+      "writer": 0.007010708140987191,
+      "reviewer": 0.06946117935513331
+     }
+    },
+    "laya": {
+     "choice": "researcher",
+     "probs": {
+      "researcher": 0.2997,
+      "coder": 0.2166,
+      "writer": 0.2715,
+      "reviewer": 0.2122
+     }
+    }
+   }
+  },
+  {
+   "gold": "writer",
+   "active": {
+    "state": "Rewrite this onboarding email.",
+    "jeff": {
+     "choice": "writer",
+     "probs": {
+      "researcher": 0.4040281716933026,
+      "coder": 0.1415614361811662,
+      "writer": 0.4333423890786389,
+      "reviewer": 0.021068003046892318
+     }
+    },
+    "laya": {
+     "choice": "coder",
+     "probs": {
+      "researcher": 0.0737,
+      "coder": 0.3689,
+      "writer": 0.3395,
+      "reviewer": 0.2179
+     }
+    }
+   },
+   "passive": {
+    "state": "This onboarding email needs to be rewritten.",
+    "jeff": {
+     "choice": "writer",
+     "probs": {
+      "researcher": 0.017291491118480596,
+      "coder": 0.19585429792164774,
+      "writer": 0.7830727960636725,
+      "reviewer": 0.003781414896199128
+     }
+    },
+    "laya": {
+     "choice": "coder",
+     "probs": {
+      "researcher": 0.0637,
+      "coder": 0.3998,
+      "writer": 0.35,
+      "reviewer": 0.1865
+     }
+    }
+   }
+  },
+  {
+   "gold": "reviewer",
+   "active": {
+    "state": "Audit the Terraform configuration.",
+    "jeff": {
+     "choice": "reviewer",
+     "probs": {
+      "researcher": 0.0038588649710800923,
+      "coder": 0.04397747998495415,
+      "writer": 0.0006684930352717393,
+      "reviewer": 0.951495162008694
+     }
+    },
+    "laya": {
+     "choice": "coder",
+     "probs": {
+      "researcher": 0.1048,
+      "coder": 0.4012,
+      "writer": 0.106,
+      "reviewer": 0.388
+     }
+    }
+   },
+   "passive": {
+    "state": "The Terraform configuration needs an audit.",
+    "jeff": {
+     "choice": "reviewer",
+     "probs": {
+      "researcher": 0.0032656978363271322,
+      "coder": 0.03132411332312305,
+      "writer": 0.0018117995164944995,
+      "reviewer": 0.9635983893240553
+     }
+    },
+    "laya": {
+     "choice": "reviewer",
+     "probs": {
+      "researcher": 0.1351,
+      "coder": 0.3024,
+      "writer": 0.1277,
+      "reviewer": 0.4348
+     }
+    }
+   }
+  },
+  {
+   "gold": "coder",
+   "active": {
+    "state": "Refactor the payment service.",
+    "jeff": {
+     "choice": "coder",
+     "probs": {
+      "researcher": 0.03243229343380506,
+      "coder": 0.9509747649190273,
+      "writer": 0.005814422969678154,
+      "reviewer": 0.01077851867748941
+     }
+    },
+    "laya": {
+     "choice": "coder",
+     "probs": {
+      "researcher": 0.064,
+      "coder": 0.55,
+      "writer": 0.1897,
+      "reviewer": 0.1964
+     }
+    }
+   },
+   "passive": {
+    "state": "The payment service needs a refactor.",
+    "jeff": {
+     "choice": "coder",
+     "probs": {
+      "researcher": 0.0151774379350683,
+      "coder": 0.9446381284309706,
+      "writer": 0.0032615342754013818,
+      "reviewer": 0.036922899358559726
+     }
+    },
+    "laya": {
+     "choice": "coder",
+     "probs": {
+      "researcher": 0.0592,
+      "coder": 0.4579,
+      "writer": 0.1635,
+      "reviewer": 0.3194
+     }
+    }
+   }
+  }
+ ],
+ "E2": [
+  {
+   "frame": "explain",
+   "topic": "我的吉他弦总是很快生锈",
+   "level": 0,
+   "state": "用户请求：解释一下为什么我的吉他弦总是很快生锈。",
+   "jeff": {
+    "choice": "researcher",
+    "probs": {
+     "researcher": 0.8694998913463169,
+     "coder": 0.007418606679020301,
+     "writer": 0.08507284062227445,
+     "reviewer": 0.03800866135238838
+    }
+   },
+   "laya": {
+    "choice": "writer",
+    "probs": {
+     "researcher": 0.2341,
+     "coder": 0.2401,
+     "writer": 0.3165,
+     "reviewer": 0.2093
+    }
+   }
+  },
+  {
+   "frame": "explain",
+   "topic": "我的面包一再发酵失败",
+   "level": 0,
+   "state": "用户请求：解释一下为什么我的面包一再发酵失败。",
+   "jeff": {
+    "choice": "researcher",
+    "probs": {
+     "researcher": 0.6612427246966264,
+     "coder": 0.02207249220846685,
+     "writer": 0.08086937681002426,
+     "reviewer": 0.2358154062848825
+    }
+   },
+   "laya": {
+    "choice": "writer",
+    "probs": {
+     "researcher": 0.1911,
+     "coder": 0.247,
+     "writer": 0.382,
+     "reviewer": 0.1798
+    }
+   }
+  },
+  {
+   "frame": "explain",
+   "topic": "我的 Excel 求和结果不对",
+   "level": 1,
+   "state": "用户请求：解释一下为什么我的 Excel 求和结果不对。",
+   "jeff": {
+    "choice": "reviewer",
+    "probs": {
+     "researcher": 0.08680372101820485,
+     "coder": 0.44977099541148163,
+     "writer": 0.009778525862442811,
+     "reviewer": 0.4536467577078707
+    }
+   },
+   "laya": {
+    "choice": "reviewer",
+    "probs": {
+     "researcher": 0.275,
+     "coder": 0.1933,
+     "writer": 0.2188,
+     "reviewer": 0.3129
+    }
+   }
+  },
+  {
+   "frame": "explain",
+   "topic": "我的打印机连不上 Wi-Fi",
+   "level": 1,
+   "state": "用户请求：解释一下为什么我的打印机连不上 Wi-Fi。",
+   "jeff": {
+    "choice": "researcher",
+    "probs": {
+     "researcher": 0.8669016600812989,
+     "coder": 0.10940510344079528,
+     "writer": 0.016345923479463047,
+     "reviewer": 0.007347312998442813
+    }
+   },
+   "laya": {
+    "choice": "reviewer",
+    "probs": {
+     "researcher": 0.2065,
+     "coder": 0.2839,
+     "writer": 0.1952,
+     "reviewer": 0.3143
+    }
+   }
+  },
+  {
+   "frame": "explain",
+   "topic": "我的网站首页打开很慢",
+   "level": 2,
+   "state": "用户请求：解释一下为什么我的网站首页打开很慢。",
+   "jeff": {
+    "choice": "coder",
+    "probs": {
+     "researcher": 0.17815784446307106,
+     "coder": 0.5671534326987925,
+     "writer": 0.011414207092888389,
+     "reviewer": 0.24327451574524805
+    }
+   },
+   "laya": {
+    "choice": "coder",
+    "probs": {
+     "researcher": 0.1737,
+     "coder": 0.4296,
+     "writer": 0.1807,
+     "reviewer": 0.216
+    }
+   }
+  },
+  {
+   "frame": "explain",
+   "topic": "我的 Docker 容器启动后立刻退出",
+   "level": 2,
+   "state": "用户请求：解释一下为什么我的 Docker 容器启动后立刻退出。",
+   "jeff": {
+    "choice": "coder",
+    "probs": {
+     "researcher": 0.1658709357228277,
+     "coder": 0.8250277542951536,
+     "writer": 0.005051689264688609,
+     "reviewer": 0.004049620717330031
+    }
+   },
+   "laya": {
+    "choice": "coder",
+    "probs": {
+     "researcher": 0.2067,
+     "coder": 0.4526,
+     "writer": 0.1624,
+     "reviewer": 0.1783
+    }
+   }
+  },
+  {
+   "frame": "explain",
+   "topic": "我的模型训练 loss 周期性 spike",
+   "level": 3,
+   "state": "用户请求：解释一下为什么我的模型训练 loss 周期性 spike。",
+   "jeff": {
+    "choice": "researcher",
+    "probs": {
+     "researcher": 0.7690083076550093,
+     "coder": 0.14284222746061553,
+     "writer": 0.008766705750517224,
+     "reviewer": 0.079382759133858
+    }
+   },
+   "laya": {
+    "choice": "coder",
+    "probs": {
+     "researcher": 0.3477,
+     "coder": 0.359,
+     "writer": 0.1662,
+     "reviewer": 0.1271
+    }
+   }
+  },
+  {
+   "frame": "explain",
+   "topic": "我的 PostgreSQL 出现慢查询",
+   "level": 3,
+   "state": "用户请求：解释一下为什么我的 PostgreSQL 出现慢查询。",
+   "jeff": {
+    "choice": "researcher",
+    "probs": {
+     "researcher": 0.4646574263703263,
+     "coder": 0.43396130053074194,
+     "writer": 0.010881225356539502,
+     "reviewer": 0.09050004774239226
+    }
+   },
+   "laya": {
+    "choice": "coder",
+    "probs": {
+     "researcher": 0.2942,
+     "coder": 0.3608,
+     "writer": 0.1699,
+     "reviewer": 0.1751
+    }
+   }
+  },
+  {
+   "frame": "write",
+   "topic": "我的吉他弦总是很快生锈",
+   "level": 0,
+   "state": "用户请求：给初学者写一篇关于我的吉他弦总是很快生锈的一页纸介绍。",
+   "jeff": {
+    "choice": "writer",
+    "probs": {
+     "researcher": 0.015244491013226268,
+     "coder": 0.012489659396203225,
+     "writer": 0.9709124319851401,
+     "reviewer": 0.0013534176054303976
+    }
+   },
+   "laya": {
+    "choice": "writer",
+    "probs": {
+     "researcher": 0.1449,
+     "coder": 0.2265,
+     "writer": 0.5188,
+     "reviewer": 0.1098
+    }
+   }
+  },
+  {
+   "frame": "write",
+   "topic": "我的面包一再发酵失败",
+   "level": 0,
+   "state": "用户请求：给初学者写一篇关于我的面包一再发酵失败的一页纸介绍。",
+   "jeff": {
+    "choice": "writer",
+    "probs": {
+     "researcher": 0.033154273997773216,
+     "coder": 0.012427958648672991,
+     "writer": 0.9504314172633902,
+     "reviewer": 0.003986350090163604
+    }
+   },
+   "laya": {
+    "choice": "writer",
+    "probs": {
+     "researcher": 0.1267,
+     "coder": 0.2504,
+     "writer": 0.437,
+     "reviewer": 0.1859
+    }
+   }
+  },
+  {
+   "frame": "write",
+   "topic": "我的 Excel 求和结果不对",
+   "level": 1,
+   "state": "用户请求：给初学者写一篇关于我的 Excel 求和结果不对的一页纸介绍。",
+   "jeff": {
+    "choice": "writer",
+    "probs": {
+     "researcher": 0.020166501064787602,
+     "coder": 0.08132159573604472,
+     "writer": 0.8863620013422183,
+     "reviewer": 0.012149901856949336
+    }
+   },
+   "laya": {
+    "choice": "writer",
+    "probs": {
+     "researcher": 0.1508,
+     "coder": 0.2591,
+     "writer": 0.4212,
+     "reviewer": 0.1689
+    }
+   }
+  },
+  {
+   "frame": "write",
+   "topic": "我的打印机连不上 Wi-Fi",
+   "level": 1,
+   "state": "用户请求：给初学者写一篇关于我的打印机连不上 Wi-Fi的一页纸介绍。",
+   "jeff": {
+    "choice": "writer",
+    "probs": {
+     "researcher": 0.02968591742976899,
+     "coder": 0.02183229317942438,
+     "writer": 0.9468880032918633,
+     "reviewer": 0.0015937860989432876
+    }
+   },
+   "laya": {
+    "choice": "writer",
+    "probs": {
+     "researcher": 0.1291,
+     "coder": 0.2947,
+     "writer": 0.4449,
+     "reviewer": 0.1313
+    }
+   }
+  },
+  {
+   "frame": "write",
+   "topic": "我的网站首页打开很慢",
+   "level": 2,
+   "state": "用户请求：给初学者写一篇关于我的网站首页打开很慢的一页纸介绍。",
+   "jeff": {
+    "choice": "writer",
+    "probs": {
+     "researcher": 0.01659072632583108,
+     "coder": 0.04047089239693261,
+     "writer": 0.9383707439775425,
+     "reviewer": 0.004567637299693821
+    }
+   },
+   "laya": {
+    "choice": "writer",
+    "probs": {
+     "researcher": 0.1347,
+     "coder": 0.292,
+     "writer": 0.4146,
+     "reviewer": 0.1587
+    }
+   }
+  },
+  {
+   "frame": "write",
+   "topic": "我的 Docker 容器启动后立刻退出",
+   "level": 2,
+   "state": "用户请求：给初学者写一篇关于我的 Docker 容器启动后立刻退出的一页纸介绍。",
+   "jeff": {
+    "choice": "writer",
+    "probs": {
+     "researcher": 0.023185373840065793,
+     "coder": 0.08586188266812804,
+     "writer": 0.8892927621943301,
+     "reviewer": 0.001659981297476054
+    }
+   },
+   "laya": {
+    "choice": "writer",
+    "probs": {
+     "researcher": 0.1699,
+     "coder": 0.329,
+     "writer": 0.371,
+     "reviewer": 0.13
+    }
+   }
+  },
+  {
+   "frame": "write",
+   "topic": "我的模型训练 loss 周期性 spike",
+   "level": 3,
+   "state": "用户请求：给初学者写一篇关于我的模型训练 loss 周期性 spike的一页纸介绍。",
+   "jeff": {
+    "choice": "writer",
+    "probs": {
+     "researcher": 0.06512936339632452,
+     "coder": 0.04514459986655726,
+     "writer": 0.8868940060337928,
+     "reviewer": 0.002832030703325461
+    }
+   },
+   "laya": {
+    "choice": "writer",
+    "probs": {
+     "researcher": 0.1734,
+     "coder": 0.3223,
+     "writer": 0.3641,
+     "reviewer": 0.1402
+    }
+   }
+  },
+  {
+   "frame": "write",
+   "topic": "我的 PostgreSQL 出现慢查询",
+   "level": 3,
+   "state": "用户请求：给初学者写一篇关于我的 PostgreSQL 出现慢查询的一页纸介绍。",
+   "jeff": {
+    "choice": "writer",
+    "probs": {
+     "researcher": 0.04471403591309001,
+     "coder": 0.0898402230305899,
+     "writer": 0.861424299619695,
+     "reviewer": 0.004021441436625078
+    }
+   },
+   "laya": {
+    "choice": "writer",
+    "probs": {
+     "researcher": 0.1986,
+     "coder": 0.2946,
+     "writer": 0.3955,
+     "reviewer": 0.1114
+    }
+   }
+  }
+ ],
+ "E3": [
+  {
+   "gold": "reviewer",
+   "variant": "orig",
+   "state": "Check this SQL query for injection risks.",
+   "jeff": {
+    "choice": "reviewer",
+    "probs": {
+     "researcher": 0.11302367542223142,
+     "coder": 0.30775596588665227,
+     "writer": 0.005015461545915092,
+     "reviewer": 0.5742048971452012
+    }
+   },
+   "laya": {
+    "choice": "coder",
+    "probs": {
+     "researcher": 0.2048,
+     "coder": 0.3369,
+     "writer": 0.1541,
+     "reviewer": 0.3042
+    }
+   }
+  },
+  {
+   "gold": "reviewer",
+   "variant": "entity",
+   "state": "Check this ___ for injection risks.",
+   "jeff": {
+    "choice": "reviewer",
+    "probs": {
+     "researcher": 0.4759383928277239,
+     "coder": 0.025858790878976655,
+     "writer": 0.010860297698219066,
+     "reviewer": 0.4873425185950804
+    }
+   },
+   "laya": {
+    "choice": "coder",
+    "probs": {
+     "researcher": 0.207,
+     "coder": 0.3389,
+     "writer": 0.1316,
+     "reviewer": 0.3226
+    }
+   }
+  },
+  {
+   "gold": "reviewer",
+   "variant": "verb",
+   "state": "___ this SQL query for injection risks.",
+   "jeff": {
+    "choice": "reviewer",
+    "probs": {
+     "researcher": 0.07122093626483479,
+     "coder": 0.14440524958022713,
+     "writer": 0.0037607288511847985,
+     "reviewer": 0.7806130853037533
+    }
+   },
+   "laya": {
+    "choice": "coder",
+    "probs": {
+     "researcher": 0.2543,
+     "coder": 0.3686,
+     "writer": 0.1704,
+     "reviewer": 0.2067
+    }
+   }
+  },
+  {
+   "gold": "reviewer",
+   "variant": "orig",
+   "state": "Audit the Terraform configuration.",
+   "jeff": {
+    "choice": "reviewer",
+    "probs": {
+     "researcher": 0.0038588649710800923,
+     "coder": 0.04397747998495415,
+     "writer": 0.0006684930352717393,
+     "reviewer": 0.951495162008694
+    }
+   },
+   "laya": {
+    "choice": "coder",
+    "probs": {
+     "researcher": 0.1048,
+     "coder": 0.4012,
+     "writer": 0.106,
+     "reviewer": 0.388
+    }
+   }
+  },
+  {
+   "gold": "reviewer",
+   "variant": "entity",
+   "state": "Audit the ___ configuration.",
+   "jeff": {
+    "choice": "coder",
+    "probs": {
+     "researcher": 0.11460069940520867,
+     "coder": 0.4853172758464745,
+     "writer": 0.009473969537381952,
+     "reviewer": 0.3906080552109349
+    }
+   },
+   "laya": {
+    "choice": "reviewer",
+    "probs": {
+     "researcher": 0.1167,
+     "coder": 0.331,
+     "writer": 0.1502,
+     "reviewer": 0.4022
+    }
+   }
+  },
+  {
+   "gold": "reviewer",
+   "variant": "verb",
+   "state": "___ the Terraform configuration.",
+   "jeff": {
+    "choice": "coder",
+    "probs": {
+     "researcher": 0.06348919844817669,
+     "coder": 0.8328732817140472,
+     "writer": 0.03079776081890702,
+     "reviewer": 0.0728397590188691
+    }
+   },
+   "laya": {
+    "choice": "coder",
+    "probs": {
+     "researcher": 0.1291,
+     "coder": 0.4864,
+     "writer": 0.1885,
+     "reviewer": 0.196
+    }
+   }
+  },
+  {
+   "gold": "reviewer",
+   "variant": "orig",
+   "state": "Critique my cover letter.",
+   "jeff": {
+    "choice": "reviewer",
+    "probs": {
+     "researcher": 0.0011823226976431414,
+     "coder": 0.003714383215074558,
+     "writer": 0.05328324247950351,
+     "reviewer": 0.9418200516077788
+    }
+   },
+   "laya": {
+    "choice": "writer",
+    "probs": {
+     "researcher": 0.0842,
+     "coder": 0.1833,
+     "writer": 0.4034,
+     "reviewer": 0.329
+    }
+   }
+  },
+  {
+   "gold": "reviewer",
+   "variant": "entity",
+   "state": "Critique my ___.",
+   "jeff": {
+    "choice": "reviewer",
+    "probs": {
+     "researcher": 0.08866153110552276,
+     "coder": 0.1356478065769629,
+     "writer": 0.2599763630325279,
+     "reviewer": 0.5157142992849864
+    }
+   },
+   "laya": {
+    "choice": "reviewer",
+    "probs": {
+     "researcher": 0.0994,
+     "coder": 0.2457,
+     "writer": 0.2428,
+     "reviewer": 0.4121
+    }
+   }
+  },
+  {
+   "gold": "reviewer",
+   "variant": "verb",
+   "state": "___ my cover letter.",
+   "jeff": {
+    "choice": "writer",
+    "probs": {
+     "researcher": 0.026986751202740685,
+     "coder": 0.09214912183305021,
+     "writer": 0.8035829513597684,
+     "reviewer": 0.07728117560444073
+    }
+   },
+   "laya": {
+    "choice": "writer",
+    "probs": {
+     "researcher": 0.1432,
+     "coder": 0.188,
+     "writer": 0.5232,
+     "reviewer": 0.1456
+    }
+   }
+  },
+  {
+   "gold": "researcher",
+   "variant": "orig",
+   "state": "Summarize the Q3 earnings report.",
+   "jeff": {
+    "choice": "researcher",
+    "probs": {
+     "researcher": 0.9640010649189412,
+     "coder": 0.0054435422948200755,
+     "writer": 0.018880473555329107,
+     "reviewer": 0.011674919230909566
+    }
+   },
+   "laya": {
+    "choice": "writer",
+    "probs": {
+     "researcher": 0.2951,
+     "coder": 0.1783,
+     "writer": 0.3218,
+     "reviewer": 0.2048
+    }
+   }
+  },
+  {
+   "gold": "researcher",
+   "variant": "entity",
+   "state": "Summarize the ___ report.",
+   "jeff": {
+    "choice": "researcher",
+    "probs": {
+     "researcher": 0.7303936805429428,
+     "coder": 0.03898920718620691,
+     "writer": 0.10799663111580048,
+     "reviewer": 0.12262048115504975
+    }
+   },
+   "laya": {
+    "choice": "writer",
+    "probs": {
+     "researcher": 0.2709,
+     "coder": 0.2081,
+     "writer": 0.3178,
+     "reviewer": 0.2032
+    }
+   }
+  },
+  {
+   "gold": "researcher",
+   "variant": "verb",
+   "state": "___ the Q3 earnings report.",
+   "jeff": {
+    "choice": "researcher",
+    "probs": {
+     "researcher": 0.7011297723888669,
+     "coder": 0.019965025743443048,
+     "writer": 0.053965962613025525,
+     "reviewer": 0.22493923925466452
+    }
+   },
+   "laya": {
+    "choice": "writer",
+    "probs": {
+     "researcher": 0.2949,
+     "coder": 0.1463,
+     "writer": 0.3082,
+     "reviewer": 0.2506
+    }
+   }
+  },
+  {
+   "gold": "researcher",
+   "variant": "orig",
+   "state": "Compare Kafka and RabbitMQ for our workload.",
+   "jeff": {
+    "choice": "coder",
+    "probs": {
+     "researcher": 0.22735086157520118,
+     "coder": 0.6954289101380866,
+     "writer": 0.0073834848830869396,
+     "reviewer": 0.0698367434036253
+    }
+   },
+   "laya": {
+    "choice": "coder",
+    "probs": {
+     "researcher": 0.2206,
+     "coder": 0.3278,
+     "writer": 0.208,
+     "reviewer": 0.2436
+    }
+   }
+  },
+  {
+   "gold": "researcher",
+   "variant": "entity",
+   "state": "Compare ___ and ___ for our workload.",
+   "jeff": {
+    "choice": "researcher",
+    "probs": {
+     "researcher": 0.4180769920349121,
+     "coder": 0.26180461049079895,
+     "writer": 0.12103834748268127,
+     "reviewer": 0.19908004999160767
+    }
+   },
+   "laya": {
+    "choice": "writer",
+    "probs": {
+     "researcher": 0.1782,
+     "coder": 0.2826,
+     "writer": 0.2828,
+     "reviewer": 0.2564
+    }
+   }
+  },
+  {
+   "gold": "researcher",
+   "variant": "verb",
+   "state": "___ Kafka and RabbitMQ for our workload.",
+   "jeff": {
+    "choice": "coder",
+    "probs": {
+     "researcher": 0.12734523735784126,
+     "coder": 0.8383676024488409,
+     "writer": 0.011924877131331417,
+     "reviewer": 0.022362283061986458
+    }
+   },
+   "laya": {
+    "choice": "coder",
+    "probs": {
+     "researcher": 0.1436,
+     "coder": 0.4975,
+     "writer": 0.2048,
+     "reviewer": 0.1542
+    }
+   }
+  },
+  {
+   "gold": "writer",
+   "variant": "orig",
+   "state": "Proofread the contract draft.",
+   "jeff": {
+    "choice": "writer",
+    "probs": {
+     "researcher": 0.007129088543922868,
+     "coder": 0.07595517771589891,
+     "writer": 0.6730625818026552,
+     "reviewer": 0.24385315193752305
+    }
+   },
+   "laya": {
+    "choice": "reviewer",
+    "probs": {
+     "researcher": 0.0649,
+     "coder": 0.1625,
+     "writer": 0.381,
+     "reviewer": 0.3915
+    }
+   }
+  },
+  {
+   "gold": "writer",
+   "variant": "entity",
+   "state": "Proofread the ___ draft.",
+   "jeff": {
+    "choice": "writer",
+    "probs": {
+     "researcher": 0.01012614239480388,
+     "coder": 0.07199850416933963,
+     "writer": 0.8554279493524786,
+     "reviewer": 0.06244740408337791
+    }
+   },
+   "laya": {
+    "choice": "writer",
+    "probs": {
+     "researcher": 0.0641,
+     "coder": 0.2089,
+     "writer": 0.4251,
+     "reviewer": 0.3019
+    }
+   }
+  },
+  {
+   "gold": "writer",
+   "variant": "verb",
+   "state": "___ the contract draft.",
+   "jeff": {
+    "choice": "writer",
+    "probs": {
+     "researcher": 0.015203727653165716,
+     "coder": 0.09259761840626814,
+     "writer": 0.8412719423189491,
+     "reviewer": 0.05092671162161703
+    }
+   },
+   "laya": {
+    "choice": "writer",
+    "probs": {
+     "researcher": 0.1066,
+     "coder": 0.201,
+     "writer": 0.4701,
+     "reviewer": 0.2223
+    }
+   }
+  },
+  {
+   "gold": "reviewer",
+   "variant": "orig",
+   "state": "Evaluate this deployment pipeline.",
+   "jeff": {
+    "choice": "coder",
+    "probs": {
+     "researcher": 0.2892253111646522,
+     "coder": 0.42867034833382944,
+     "writer": 0.04342415572488366,
+     "reviewer": 0.23868018477663466
+    }
+   },
+   "laya": {
+    "choice": "reviewer",
+    "probs": {
+     "researcher": 0.1439,
+     "coder": 0.3178,
+     "writer": 0.1997,
+     "reviewer": 0.3386
+    }
+   }
+  },
+  {
+   "gold": "reviewer",
+   "variant": "entity",
+   "state": "Evaluate this ___.",
+   "jeff": {
+    "choice": "researcher",
+    "probs": {
+     "researcher": 0.5569189175729815,
+     "coder": 0.20074029870602625,
+     "writer": 0.10646788396351319,
+     "reviewer": 0.1358728997574791
+    }
+   },
+   "laya": {
+    "choice": "reviewer",
+    "probs": {
+     "researcher": 0.1167,
+     "coder": 0.2462,
+     "writer": 0.239,
+     "reviewer": 0.3981
+    }
+   }
+  },
+  {
+   "gold": "reviewer",
+   "variant": "verb",
+   "state": "___ this deployment pipeline.",
+   "jeff": {
+    "choice": "coder",
+    "probs": {
+     "researcher": 0.2315470576286316,
+     "coder": 0.39144712686538696,
+     "writer": 0.07103151082992554,
+     "reviewer": 0.3059743046760559
+    }
+   },
+   "laya": {
+    "choice": "coder",
+    "probs": {
+     "researcher": 0.0951,
+     "coder": 0.4338,
+     "writer": 0.2417,
+     "reviewer": 0.2295
+    }
+   }
+  },
+  {
+   "gold": "reviewer",
+   "variant": "orig",
+   "state": "Inspect the nginx access logs.",
+   "jeff": {
+    "choice": "researcher",
+    "probs": {
+     "researcher": 0.7601319659426925,
+     "coder": 0.1595065467362058,
+     "writer": 0.003554411981445535,
+     "reviewer": 0.07680707533965622
+    }
+   },
+   "laya": {
+    "choice": "coder",
+    "probs": {
+     "researcher": 0.1844,
+     "coder": 0.367,
+     "writer": 0.12,
+     "reviewer": 0.3286
+    }
+   }
+  },
+  {
+   "gold": "reviewer",
+   "variant": "entity",
+   "state": "Inspect the ___ logs.",
+   "jeff": {
+    "choice": "coder",
+    "probs": {
+     "researcher": 0.29816137013701877,
+     "coder": 0.5183721401977784,
+     "writer": 0.011784437606390278,
+     "reviewer": 0.17168205205881254
+    }
+   },
+   "laya": {
+    "choice": "coder",
+    "probs": {
+     "researcher": 0.2032,
+     "coder": 0.3348,
+     "writer": 0.1448,
+     "reviewer": 0.3171
+    }
+   }
+  },
+  {
+   "gold": "reviewer",
+   "variant": "verb",
+   "state": "___ the nginx access logs.",
+   "jeff": {
+    "choice": "researcher",
+    "probs": {
+     "researcher": 0.7241827703939395,
+     "coder": 0.23343143900664504,
+     "writer": 0.013375100418108413,
+     "reviewer": 0.029010690181307034
+    }
+   },
+   "laya": {
+    "choice": "coder",
+    "probs": {
+     "researcher": 0.1894,
+     "coder": 0.5024,
+     "writer": 0.1426,
+     "reviewer": 0.1655
+    }
+   }
+  }
+ ]
+}

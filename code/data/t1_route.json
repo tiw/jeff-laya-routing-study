@@ -1,0 +1,20 @@
+{
+  "model": "jeff-latest",
+  "state": "Incoming user request to an AI research assistant: '帮我看看这段 Python 代码为什么内存泄漏，并顺手改成异步的'. Available sub-agents: researcher (web search and summarization), coder (write, edit and debug code), writer (polish prose), reviewer (review and critique existing work).",
+  "questions": {
+    "route": {
+      "type": "choice",
+      "instructions": "Which sub-agent should handle this request first?",
+      "criteria": {
+        "researcher": "The task mainly needs search or summarization",
+        "coder": "The task mainly needs writing, editing or debugging code",
+        "writer": "The task mainly needs polishing or rewriting prose",
+        "reviewer": "The task mainly needs reviewing or critiquing existing work"
+      }
+    },
+    "needs_code_edit": {
+      "type": "noul",
+      "instructions": "Does this request require editing source code?"
+    }
+  }
+}

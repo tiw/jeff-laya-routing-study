@@ -1,0 +1,4802 @@
+[
+ {
+  "frame": "explain",
+  "level": 0,
+  "topic": "我的吉他弦总是很快生锈",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.8694998913463169,
+   "coder": 0.007418606679020301,
+   "writer": 0.08507284062227445,
+   "reviewer": 0.03800866135238838
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.2341,
+   "coder": 0.2401,
+   "writer": 0.3165,
+   "reviewer": 0.2093
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 0,
+  "topic": "我的面包一再发酵失败",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.6612427246966264,
+   "coder": 0.02207249220846685,
+   "writer": 0.08086937681002426,
+   "reviewer": 0.2358154062848825
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1911,
+   "coder": 0.247,
+   "writer": 0.382,
+   "reviewer": 0.1798
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 0,
+  "topic": "我的月季长满了蚜虫",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9668034180048376,
+   "coder": 0.004870736437792847,
+   "writer": 0.02417042258888824,
+   "reviewer": 0.004155422968481346
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1426,
+   "coder": 0.2364,
+   "writer": 0.4611,
+   "reviewer": 0.1598
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 0,
+  "topic": "我的白衬衫洗后发黄",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9099457741349555,
+   "coder": 0.007644174520840455,
+   "writer": 0.03934763693169978,
+   "reviewer": 0.043062414412504246
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1933,
+   "coder": 0.2405,
+   "writer": 0.3673,
+   "reviewer": 0.1989
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 0,
+  "topic": "我跑步时膝盖疼",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9684793334292968,
+   "coder": 0.005564532574387346,
+   "writer": 0.021744938000734924,
+   "reviewer": 0.004211195995580911
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1714,
+   "coder": 0.3009,
+   "writer": 0.3446,
+   "reviewer": 0.1832
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 0,
+  "topic": "我冲的咖啡总是偏酸",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9447813674098876,
+   "coder": 0.010648597081418135,
+   "writer": 0.013616493966507232,
+   "reviewer": 0.03095354154218706
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1351,
+   "coder": 0.3482,
+   "writer": 0.3552,
+   "reviewer": 0.1616
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 0,
+  "topic": "我的米饭经常夹生",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.7283054123899705,
+   "coder": 0.011714799565713438,
+   "writer": 0.07776515215716444,
+   "reviewer": 0.18221463588715162
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.3136,
+   "coder": 0.1834,
+   "writer": 0.3273,
+   "reviewer": 0.1757
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 0,
+  "topic": "我的皮鞋开胶了",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.868238076913836,
+   "coder": 0.011817427153965748,
+   "writer": 0.04473338201157667,
+   "reviewer": 0.07521111392062153
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1367,
+   "coder": 0.2853,
+   "writer": 0.3708,
+   "reviewer": 0.2072
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 0,
+  "topic": "我最近脱发很严重",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9760320564501273,
+   "coder": 0.005046671143621106,
+   "writer": 0.014890692795276057,
+   "reviewer": 0.004030579610975542
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.2106,
+   "coder": 0.193,
+   "writer": 0.4143,
+   "reviewer": 0.1821
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 0,
+  "topic": "我晚上总是失眠",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9804365342478405,
+   "coder": 0.005244306916718562,
+   "writer": 0.01081764824659266,
+   "reviewer": 0.0035015105888482434
+  },
+  "laya_choice": "researcher",
+  "laya_probs": {
+   "researcher": 0.307,
+   "coder": 0.2164,
+   "writer": 0.3003,
+   "reviewer": 0.1763
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 0,
+  "topic": "我的猫突然不吃猫粮",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9628248058058466,
+   "coder": 0.0059215848242469655,
+   "writer": 0.02713063483070685,
+   "reviewer": 0.0041229745391996135
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1669,
+   "coder": 0.3613,
+   "writer": 0.2873,
+   "reviewer": 0.1846
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 0,
+  "topic": "我的多肉植物徒长了",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9609607502862846,
+   "coder": 0.0059029325186411505,
+   "writer": 0.027010308704386973,
+   "reviewer": 0.006126008490687276
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.2051,
+   "coder": 0.2254,
+   "writer": 0.3662,
+   "reviewer": 0.2033
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 0,
+  "topic": "我的铁锅生锈了",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.8858782801672334,
+   "coder": 0.007072523823791827,
+   "writer": 0.09743077475807567,
+   "reviewer": 0.00961842125089913
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1963,
+   "coder": 0.4195,
+   "writer": 0.1971,
+   "reviewer": 0.1871
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 0,
+  "topic": "我的蜂蜜结晶了",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9328495695030858,
+   "coder": 0.005172442087646201,
+   "writer": 0.057946613895720187,
+   "reviewer": 0.00403137451354776
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.2931,
+   "coder": 0.2094,
+   "writer": 0.3115,
+   "reviewer": 0.186
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 0,
+  "topic": "我冬天长冻疮",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9526672618985709,
+   "coder": 0.005539513688342007,
+   "writer": 0.03819973363277915,
+   "reviewer": 0.0035934907803080183
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.2535,
+   "coder": 0.2012,
+   "writer": 0.3453,
+   "reviewer": 0.1999
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 0,
+  "topic": "我牙疼了一周",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9410653548224744,
+   "coder": 0.006809596320635144,
+   "writer": 0.04711245291719178,
+   "reviewer": 0.005012595939698606
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1637,
+   "coder": 0.2071,
+   "writer": 0.4741,
+   "reviewer": 0.1552
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 0,
+  "topic": "我的近视度数加深很快",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9399185400302548,
+   "coder": 0.005936032854719634,
+   "writer": 0.04545078617112357,
+   "reviewer": 0.008694640943902023
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.2208,
+   "coder": 0.2668,
+   "writer": 0.3211,
+   "reviewer": 0.1913
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 0,
+  "topic": "我的衣柜发霉了",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9248135076147588,
+   "coder": 0.00800447247864106,
+   "writer": 0.05795423675925178,
+   "reviewer": 0.009227783147348425
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.162,
+   "coder": 0.2517,
+   "writer": 0.4042,
+   "reviewer": 0.1821
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 0,
+  "topic": "我的自行车链条异响",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9298817332001813,
+   "coder": 0.010080323640975051,
+   "writer": 0.04585470619897958,
+   "reviewer": 0.01418323695986408
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.2394,
+   "coder": 0.263,
+   "writer": 0.2952,
+   "reviewer": 0.2024
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 0,
+  "topic": "我的牛奶放两天就结块",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9507559408347243,
+   "coder": 0.008095064173832257,
+   "writer": 0.030830755550126234,
+   "reviewer": 0.010318239441317257
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1773,
+   "coder": 0.2587,
+   "writer": 0.3937,
+   "reviewer": 0.1703
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 1,
+  "topic": "我的 Excel 求和结果不对",
+  "gold": "researcher",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.08680372101820485,
+   "coder": 0.44977099541148163,
+   "writer": 0.009778525862442811,
+   "reviewer": 0.4536467577078707
+  },
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.275,
+   "coder": 0.1933,
+   "writer": 0.2188,
+   "reviewer": 0.3129
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 1,
+  "topic": "我的打印机连不上 Wi-Fi",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.8669016600812989,
+   "coder": 0.10940510344079528,
+   "writer": 0.016345923479463047,
+   "reviewer": 0.007347312998442813
+  },
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.2065,
+   "coder": 0.2839,
+   "writer": 0.1952,
+   "reviewer": 0.3143
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 1,
+  "topic": "我的 Word 页码乱了",
+  "gold": "researcher",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.08847360992078773,
+   "coder": 0.2906903602876487,
+   "writer": 0.5246692260751931,
+   "reviewer": 0.09616680371637043
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1234,
+   "coder": 0.4842,
+   "writer": 0.1937,
+   "reviewer": 0.1987
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 1,
+  "topic": "我的手机电池掉电特别快",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9507780305298313,
+   "coder": 0.010991775696898036,
+   "writer": 0.027997427366611653,
+   "reviewer": 0.010232766406658968
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2477,
+   "coder": 0.3083,
+   "writer": 0.2407,
+   "reviewer": 0.2033
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 1,
+  "topic": "我的微信消息总是延迟",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.8234823238768125,
+   "coder": 0.1370200049893185,
+   "writer": 0.012707166208047115,
+   "reviewer": 0.026790504925821843
+  },
+  "laya_choice": "researcher",
+  "laya_probs": {
+   "researcher": 0.2766,
+   "coder": 0.2431,
+   "writer": 0.2669,
+   "reviewer": 0.2135
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 1,
+  "topic": "我的 PPT 字体在别的电脑上丢失",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.4561894671973427,
+   "coder": 0.23176703547737107,
+   "writer": 0.21444066507937506,
+   "reviewer": 0.09760283224591113
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2092,
+   "coder": 0.3509,
+   "writer": 0.2531,
+   "reviewer": 0.1868
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 1,
+  "topic": "我的路由器信号很差",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.8797046761341253,
+   "coder": 0.016517435424214202,
+   "writer": 0.03692731848111688,
+   "reviewer": 0.06685056996054368
+  },
+  "laya_choice": "researcher",
+  "laya_probs": {
+   "researcher": 0.3017,
+   "coder": 0.2994,
+   "writer": 0.1858,
+   "reviewer": 0.2131
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 1,
+  "topic": "我的 U 盘读不出来",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.667331463974571,
+   "coder": 0.30017492482617886,
+   "writer": 0.013135695033234213,
+   "reviewer": 0.019357916166015975
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2075,
+   "coder": 0.4147,
+   "writer": 0.2448,
+   "reviewer": 0.133
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 1,
+  "topic": "我的网银转账一直失败",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.8235115646653423,
+   "coder": 0.14014971660882347,
+   "writer": 0.010699156049335225,
+   "reviewer": 0.02563956267649908
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2636,
+   "coder": 0.3031,
+   "writer": 0.1901,
+   "reviewer": 0.2432
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 1,
+  "topic": "我的邮箱收不到验证码",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9116960804697183,
+   "coder": 0.06633814887642969,
+   "writer": 0.012905597656890587,
+   "reviewer": 0.009060172996961487
+  },
+  "laya_choice": "researcher",
+  "laya_probs": {
+   "researcher": 0.2887,
+   "coder": 0.2473,
+   "writer": 0.2142,
+   "reviewer": 0.2499
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 1,
+  "topic": "我的照片备份总是失败",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.48669970579482286,
+   "coder": 0.31593412513957314,
+   "writer": 0.02459770841074409,
+   "reviewer": 0.17276846065485993
+  },
+  "laya_choice": "researcher",
+  "laya_probs": {
+   "researcher": 0.3308,
+   "coder": 0.2708,
+   "writer": 0.1681,
+   "reviewer": 0.2303
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 1,
+  "topic": "我的视频会议很卡",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.3899540355760487,
+   "coder": 0.29681363375308817,
+   "writer": 0.009730399524903255,
+   "reviewer": 0.3035019311459599
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.2437,
+   "coder": 0.2052,
+   "writer": 0.3503,
+   "reviewer": 0.2009
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 1,
+  "topic": "我的输入法候选词错乱",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.5996863378454316,
+   "coder": 0.3028129701190847,
+   "writer": 0.009226272100787065,
+   "reviewer": 0.08827441993469666
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1964,
+   "coder": 0.2826,
+   "writer": 0.2902,
+   "reviewer": 0.2308
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 1,
+  "topic": "我的日历同步丢失事件",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.7648468834443515,
+   "coder": 0.20169593976118988,
+   "writer": 0.019226568374804798,
+   "reviewer": 0.01423060841965383
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.2897,
+   "coder": 0.2237,
+   "writer": 0.2986,
+   "reviewer": 0.188
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 1,
+  "topic": "我的 PDF 文件打不开",
+  "gold": "researcher",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.3605252643754371,
+   "coder": 0.4384214620801445,
+   "writer": 0.11679732065234742,
+   "reviewer": 0.08425595289207101
+  },
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.2115,
+   "coder": 0.2117,
+   "writer": 0.2803,
+   "reviewer": 0.2965
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 1,
+  "topic": "我的二维码扫不出来",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.6043550001217053,
+   "coder": 0.35050545448457654,
+   "writer": 0.015792750410465538,
+   "reviewer": 0.029346794983252697
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1401,
+   "coder": 0.5643,
+   "writer": 0.1438,
+   "reviewer": 0.1518
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 1,
+  "topic": "我的蓝牙耳机频繁断连",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.8740580478548797,
+   "coder": 0.10724978649279124,
+   "writer": 0.011403345242718273,
+   "reviewer": 0.007288820409610775
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1512,
+   "coder": 0.3654,
+   "writer": 0.2901,
+   "reviewer": 0.1933
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 1,
+  "topic": "我的手机充电时发烫",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9670494377298762,
+   "coder": 0.007845307397373427,
+   "writer": 0.018245316640564457,
+   "reviewer": 0.00685993823218596
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.277,
+   "coder": 0.293,
+   "writer": 0.2328,
+   "reviewer": 0.1972
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 1,
+  "topic": "我的会员被自动扣费",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.931850756540589,
+   "coder": 0.030583741969362383,
+   "writer": 0.0128179093559453,
+   "reviewer": 0.02474759213410334
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1555,
+   "coder": 0.3767,
+   "writer": 0.2381,
+   "reviewer": 0.2296
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 1,
+  "topic": "我的快递单号查不到物流",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9572617658695698,
+   "coder": 0.02212297698013898,
+   "writer": 0.01326342727437309,
+   "reviewer": 0.0073518298759181365
+  },
+  "laya_choice": "researcher",
+  "laya_probs": {
+   "researcher": 0.3238,
+   "coder": 0.2569,
+   "writer": 0.2057,
+   "reviewer": 0.2136
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 2,
+  "topic": "我的网站首页打开很慢",
+  "gold": "researcher",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.17815784446307106,
+   "coder": 0.5671534326987925,
+   "writer": 0.011414207092888389,
+   "reviewer": 0.24327451574524805
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1737,
+   "coder": 0.4296,
+   "writer": 0.1807,
+   "reviewer": 0.216
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 2,
+  "topic": "我的 Docker 容器启动后立刻退出",
+  "gold": "researcher",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.1658709357228277,
+   "coder": 0.8250277542951536,
+   "writer": 0.005051689264688609,
+   "reviewer": 0.004049620717330031
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2067,
+   "coder": 0.4526,
+   "writer": 0.1624,
+   "reviewer": 0.1783
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 2,
+  "topic": "我的 API 一直返回 500",
+  "gold": "researcher",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.07388750166263756,
+   "coder": 0.9140692255632136,
+   "writer": 0.003953728732662366,
+   "reviewer": 0.00808954404148653
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2622,
+   "coder": 0.4077,
+   "writer": 0.1828,
+   "reviewer": 0.1473
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 2,
+  "topic": "我的前端页面样式全部错乱",
+  "gold": "researcher",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.046732680249848765,
+   "coder": 0.8289595466343194,
+   "writer": 0.00688578532658972,
+   "reviewer": 0.1174219877892422
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1244,
+   "coder": 0.4329,
+   "writer": 0.1365,
+   "reviewer": 0.3063
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 2,
+  "topic": "我的 Git 合并冲突解决不了",
+  "gold": "researcher",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.2730558766060776,
+   "coder": 0.6670447938287914,
+   "writer": 0.007787144225874876,
+   "reviewer": 0.05211218533925609
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2462,
+   "coder": 0.301,
+   "writer": 0.2045,
+   "reviewer": 0.2483
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 2,
+  "topic": "我的 Nginx 配置总是报错",
+  "gold": "researcher",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.07502273330422615,
+   "coder": 0.8612279135505126,
+   "writer": 0.006530087319573624,
+   "reviewer": 0.057219265825687614
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2675,
+   "coder": 0.3183,
+   "writer": 0.1335,
+   "reviewer": 0.2807
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 2,
+  "topic": "我的域名解析不生效",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.48070358846411865,
+   "coder": 0.46441757207384254,
+   "writer": 0.01617200573717834,
+   "reviewer": 0.03870683372486043
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1883,
+   "coder": 0.4004,
+   "writer": 0.173,
+   "reviewer": 0.2383
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 2,
+  "topic": "我的数据库连接池总是耗尽",
+  "gold": "researcher",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.17315656172502028,
+   "coder": 0.8134765731065273,
+   "writer": 0.007181512285527933,
+   "reviewer": 0.006185352882924434
+  },
+  "laya_choice": "researcher",
+  "laya_probs": {
+   "researcher": 0.2979,
+   "coder": 0.277,
+   "writer": 0.1676,
+   "reviewer": 0.2575
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 2,
+  "topic": "我的消息队列严重积压",
+  "gold": "researcher",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.4637652093519137,
+   "coder": 0.46896666800918363,
+   "writer": 0.006621241686772411,
+   "reviewer": 0.060646880952130285
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.272,
+   "coder": 0.2423,
+   "writer": 0.2742,
+   "reviewer": 0.2115
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 2,
+  "topic": "我的缓存经常被击穿",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.6946402166238419,
+   "coder": 0.21758846857552055,
+   "writer": 0.01644548395110114,
+   "reviewer": 0.07132583084953639
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2378,
+   "coder": 0.4486,
+   "writer": 0.1196,
+   "reviewer": 0.194
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 2,
+  "topic": "我的 CI 构建老是失败",
+  "gold": "researcher",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.1498482021095452,
+   "coder": 0.7406660035557057,
+   "writer": 0.006354809496042143,
+   "reviewer": 0.10313098483870702
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2333,
+   "coder": 0.4949,
+   "writer": 0.1025,
+   "reviewer": 0.1693
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 2,
+  "topic": "我的服务器日志把磁盘写满了",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.7320468047871234,
+   "coder": 0.19529729173473392,
+   "writer": 0.017016981304197945,
+   "reviewer": 0.055638922173944776
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1973,
+   "coder": 0.4334,
+   "writer": 0.1471,
+   "reviewer": 0.2222
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 2,
+  "topic": "我的 HTTPS 证书过期了",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.869400412810236,
+   "coder": 0.06673949448028653,
+   "writer": 0.04817712104947362,
+   "reviewer": 0.015682971660003927
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.224,
+   "coder": 0.3387,
+   "writer": 0.1775,
+   "reviewer": 0.2598
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 2,
+  "topic": "我的 CDN 缓存一直不更新",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.5338895286708295,
+   "coder": 0.4073200058444968,
+   "writer": 0.010577779445135107,
+   "reviewer": 0.048212686039538606
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2516,
+   "coder": 0.4156,
+   "writer": 0.1328,
+   "reviewer": 0.2
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 2,
+  "topic": "我的端口被占用",
+  "gold": "researcher",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.439795158979235,
+   "coder": 0.5379174627228271,
+   "writer": 0.010608332775028704,
+   "reviewer": 0.011679045522909149
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2485,
+   "coder": 0.3138,
+   "writer": 0.1862,
+   "reviewer": 0.2514
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 2,
+  "topic": "我的定时任务不触发",
+  "gold": "researcher",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.2007492501358432,
+   "coder": 0.7767897320612309,
+   "writer": 0.006069410648843373,
+   "reviewer": 0.016391607154082572
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2359,
+   "coder": 0.3744,
+   "writer": 0.2,
+   "reviewer": 0.1897
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 2,
+  "topic": "我的 WebSocket 频繁断开",
+  "gold": "researcher",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.15073523943154593,
+   "coder": 0.8422294231705677,
+   "writer": 0.0035414618968553726,
+   "reviewer": 0.003493875501031032
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1868,
+   "coder": 0.5285,
+   "writer": 0.1434,
+   "reviewer": 0.1413
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 2,
+  "topic": "我的爬虫被封 IP",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.5806090614224172,
+   "coder": 0.33192365545281755,
+   "writer": 0.012603144051712084,
+   "reviewer": 0.07486413907305313
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2583,
+   "coder": 0.374,
+   "writer": 0.1556,
+   "reviewer": 0.2121
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 2,
+  "topic": "我的依赖版本冲突装不上",
+  "gold": "researcher",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.24665441422993736,
+   "coder": 0.6820271237482777,
+   "writer": 0.008304056982176374,
+   "reviewer": 0.06301440503960865
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2013,
+   "coder": 0.4116,
+   "writer": 0.1651,
+   "reviewer": 0.2221
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 2,
+  "topic": "我的服务内存一直在涨",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.6564707181449444,
+   "coder": 0.22516546281214034,
+   "writer": 0.015482593852786327,
+   "reviewer": 0.10288122519012889
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1672,
+   "coder": 0.4765,
+   "writer": 0.1431,
+   "reviewer": 0.2132
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 3,
+  "topic": "我的模型训练 loss 周期性 spike",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.7690083076550093,
+   "coder": 0.14284222746061553,
+   "writer": 0.008766705750517224,
+   "reviewer": 0.079382759133858
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.3477,
+   "coder": 0.359,
+   "writer": 0.1662,
+   "reviewer": 0.1271
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 3,
+  "topic": "我的 PostgreSQL 出现慢查询",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.4646574263703263,
+   "coder": 0.43396130053074194,
+   "writer": 0.010881225356539502,
+   "reviewer": 0.09050004774239226
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2942,
+   "coder": 0.3608,
+   "writer": 0.1699,
+   "reviewer": 0.1751
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 3,
+  "topic": "我的 CUDA 训练报 OOM",
+  "gold": "researcher",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.3978243046429289,
+   "coder": 0.5400151844236125,
+   "writer": 0.006591977371393654,
+   "reviewer": 0.055568533562064926
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2162,
+   "coder": 0.519,
+   "writer": 0.0994,
+   "reviewer": 0.1654
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 3,
+  "topic": "我的 Transformer 注意力熵塌缩",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.7076474273692608,
+   "coder": 0.18122970698623952,
+   "writer": 0.010579203915602213,
+   "reviewer": 0.10054366172889745
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1706,
+   "coder": 0.4459,
+   "writer": 0.2131,
+   "reviewer": 0.1705
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 3,
+  "topic": "我的向量索引召回率很低",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.4741818500865582,
+   "coder": 0.35276668475344736,
+   "writer": 0.006245665112607216,
+   "reviewer": 0.16680580004738718
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2135,
+   "coder": 0.3996,
+   "writer": 0.1922,
+   "reviewer": 0.1946
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 3,
+  "topic": "我的 GPU 利用率上不去",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.6162675814266296,
+   "coder": 0.19484352192345983,
+   "writer": 0.015810488292534466,
+   "reviewer": 0.17307840835737612
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1773,
+   "coder": 0.3732,
+   "writer": 0.1815,
+   "reviewer": 0.268
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 3,
+  "topic": "我的分布式训练 NCCL 超时",
+  "gold": "researcher",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.19812370449248906,
+   "coder": 0.7736244646402879,
+   "writer": 0.005301088922356379,
+   "reviewer": 0.022950741944866647
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2923,
+   "coder": 0.3372,
+   "writer": 0.185,
+   "reviewer": 0.1855
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 3,
+  "topic": "我的 LoRA 微调严重过拟合",
+  "gold": "researcher",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.3568424937001638,
+   "coder": 0.20632182388330902,
+   "writer": 0.00903737466189579,
+   "reviewer": 0.42779830775463135
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.229,
+   "coder": 0.2869,
+   "writer": 0.2145,
+   "reviewer": 0.2696
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 3,
+  "topic": "我的量化模型精度损失很大",
+  "gold": "researcher",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.3119223164308416,
+   "coder": 0.2245366457780696,
+   "writer": 0.008720994125619443,
+   "reviewer": 0.45482004366546935
+  },
+  "laya_choice": "researcher",
+  "laya_probs": {
+   "researcher": 0.2813,
+   "coder": 0.2615,
+   "writer": 0.2407,
+   "reviewer": 0.2165
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 3,
+  "topic": "我的 RAG 检索总是产生幻觉",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.7543500317603801,
+   "coder": 0.07476616309625843,
+   "writer": 0.014815755443673565,
+   "reviewer": 0.15606804969968793
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2061,
+   "coder": 0.3351,
+   "writer": 0.2445,
+   "reviewer": 0.2143
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 3,
+  "topic": "我的 K8s Pod 反复重启",
+  "gold": "researcher",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.3465690184048887,
+   "coder": 0.6449259872366652,
+   "writer": 0.005088463699368034,
+   "reviewer": 0.0034165306590781624
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2941,
+   "coder": 0.3672,
+   "writer": 0.1433,
+   "reviewer": 0.1954
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 3,
+  "topic": "我的 Kafka 消费者严重滞后",
+  "gold": "researcher",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.23355014470123134,
+   "coder": 0.7330672821527535,
+   "writer": 0.0053535225762138565,
+   "reviewer": 0.028029050569801296
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2863,
+   "coder": 0.3344,
+   "writer": 0.1834,
+   "reviewer": 0.1958
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 3,
+  "topic": "我的 ES 集群发生脑裂",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.6437558007660039,
+   "coder": 0.32840845355847986,
+   "writer": 0.009166920660066464,
+   "reviewer": 0.018668825015449805
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2455,
+   "coder": 0.4303,
+   "writer": 0.161,
+   "reviewer": 0.1632
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 3,
+  "topic": "我的模型推理延迟很高",
+  "gold": "researcher",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.37154212875265064,
+   "coder": 0.4386340359100562,
+   "writer": 0.00806301587362286,
+   "reviewer": 0.18176081946367034
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2555,
+   "coder": 0.3527,
+   "writer": 0.2258,
+   "reviewer": 0.166
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 3,
+  "topic": "我的微调出现灾难性遗忘",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.6848600966017013,
+   "coder": 0.15601101073696536,
+   "writer": 0.009116478875639364,
+   "reviewer": 0.15001241378569397
+  },
+  "laya_choice": "researcher",
+  "laya_probs": {
+   "researcher": 0.3023,
+   "coder": 0.239,
+   "writer": 0.2666,
+   "reviewer": 0.1921
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 3,
+  "topic": "我的深层网络梯度消失",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.5637612106564879,
+   "coder": 0.3954351974701659,
+   "writer": 0.012386730352972759,
+   "reviewer": 0.02841686152037348
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2042,
+   "coder": 0.4274,
+   "writer": 0.1717,
+   "reviewer": 0.1967
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 3,
+  "topic": "我的 tokenizer 并行预处理很慢",
+  "gold": "researcher",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.08234341919234053,
+   "coder": 0.8586012441189554,
+   "writer": 0.004232021842039409,
+   "reviewer": 0.054823314846664646
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1989,
+   "coder": 0.4659,
+   "writer": 0.1346,
+   "reviewer": 0.2006
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 3,
+  "topic": "我的 checkpoint 文件损坏",
+  "gold": "researcher",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.23266533012137955,
+   "coder": 0.5846573334733434,
+   "writer": 0.01428912953850819,
+   "reviewer": 0.16838820686676886
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2183,
+   "coder": 0.3612,
+   "writer": 0.1592,
+   "reviewer": 0.2612
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 3,
+  "topic": "我的显存碎片化严重",
+  "gold": "researcher",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.7016367159418005,
+   "coder": 0.1825639415704323,
+   "writer": 0.022731959311694815,
+   "reviewer": 0.09306738317607231
+  },
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.2316,
+   "coder": 0.2525,
+   "writer": 0.236,
+   "reviewer": 0.2799
+  }
+ },
+ {
+  "frame": "explain",
+  "level": 3,
+  "topic": "我的词表太大导致 softmax 很慢",
+  "gold": "researcher",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.12194785089583422,
+   "coder": 0.8016561015915987,
+   "writer": 0.008349114764602946,
+   "reviewer": 0.06804693274796408
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1462,
+   "coder": 0.3604,
+   "writer": 0.3588,
+   "reviewer": 0.1346
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 0,
+  "topic": "我的吉他弦总是很快生锈",
+  "gold": "coder",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9391395520899695,
+   "coder": 0.01480295985175521,
+   "writer": 0.007915539224695085,
+   "reviewer": 0.03814194883358019
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0842,
+   "coder": 0.493,
+   "writer": 0.1895,
+   "reviewer": 0.2334
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 0,
+  "topic": "我的面包一再发酵失败",
+  "gold": "coder",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.6956871041779585,
+   "coder": 0.2312255912173213,
+   "writer": 0.0074660935188423936,
+   "reviewer": 0.06562121108587776
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0957,
+   "coder": 0.4059,
+   "writer": 0.2258,
+   "reviewer": 0.2727
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 0,
+  "topic": "我的月季长满了蚜虫",
+  "gold": "coder",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9819512777432481,
+   "coder": 0.008370470520411405,
+   "writer": 0.004503075606177594,
+   "reviewer": 0.005175176130162963
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0699,
+   "coder": 0.5062,
+   "writer": 0.1786,
+   "reviewer": 0.2453
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 0,
+  "topic": "我的白衬衫洗后发黄",
+  "gold": "coder",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9619149215705717,
+   "coder": 0.011209086564978713,
+   "writer": 0.005822873252770012,
+   "reviewer": 0.021053118611679553
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0702,
+   "coder": 0.4622,
+   "writer": 0.1929,
+   "reviewer": 0.2747
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 0,
+  "topic": "我跑步时膝盖疼",
+  "gold": "coder",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9837321317331423,
+   "coder": 0.007360979634610065,
+   "writer": 0.004421586096333972,
+   "reviewer": 0.004485302535913643
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.067,
+   "coder": 0.5595,
+   "writer": 0.1294,
+   "reviewer": 0.244
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 0,
+  "topic": "我冲的咖啡总是偏酸",
+  "gold": "coder",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.8621895744699182,
+   "coder": 0.11171269948583996,
+   "writer": 0.005065773051373337,
+   "reviewer": 0.021031952992868575
+  },
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.0852,
+   "coder": 0.3436,
+   "writer": 0.2209,
+   "reviewer": 0.3502
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 0,
+  "topic": "我的米饭经常夹生",
+  "gold": "coder",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.7952058948353208,
+   "coder": 0.15129658650279318,
+   "writer": 0.007339174893401446,
+   "reviewer": 0.04615834376848463
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1134,
+   "coder": 0.3698,
+   "writer": 0.2055,
+   "reviewer": 0.3113
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 0,
+  "topic": "我的皮鞋开胶了",
+  "gold": "coder",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.8613191923249438,
+   "coder": 0.03654751215640001,
+   "writer": 0.01070553633110166,
+   "reviewer": 0.09142775918755457
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.068,
+   "coder": 0.5003,
+   "writer": 0.2086,
+   "reviewer": 0.223
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 0,
+  "topic": "我最近脱发很严重",
+  "gold": "coder",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9856225874516474,
+   "coder": 0.006473985200565196,
+   "writer": 0.003811839051448219,
+   "reviewer": 0.0040915882963391825
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1252,
+   "coder": 0.3882,
+   "writer": 0.1859,
+   "reviewer": 0.3006
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 0,
+  "topic": "我晚上总是失眠",
+  "gold": "coder",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9821575631482375,
+   "coder": 0.008564388054524438,
+   "writer": 0.0048287550355038435,
+   "reviewer": 0.004449293761734136
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0863,
+   "coder": 0.4823,
+   "writer": 0.192,
+   "reviewer": 0.2394
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 0,
+  "topic": "我的猫突然不吃猫粮",
+  "gold": "coder",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.983465379997164,
+   "coder": 0.007247018236362321,
+   "writer": 0.004955206730028624,
+   "reviewer": 0.0043323950364450815
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1031,
+   "coder": 0.4141,
+   "writer": 0.2013,
+   "reviewer": 0.2816
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 0,
+  "topic": "我的多肉植物徒长了",
+  "gold": "coder",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9803435208392335,
+   "coder": 0.010055652501662484,
+   "writer": 0.003739307862636321,
+   "reviewer": 0.00586151879646767
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.11,
+   "coder": 0.4126,
+   "writer": 0.1765,
+   "reviewer": 0.3009
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 0,
+  "topic": "我的铁锅生锈了",
+  "gold": "coder",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9515841388312336,
+   "coder": 0.019328399404064913,
+   "writer": 0.008759876132639753,
+   "reviewer": 0.020327585632061756
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0657,
+   "coder": 0.5622,
+   "writer": 0.1064,
+   "reviewer": 0.2657
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 0,
+  "topic": "我的蜂蜜结晶了",
+  "gold": "coder",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9489293425440655,
+   "coder": 0.02975276773874872,
+   "writer": 0.008986304823768585,
+   "reviewer": 0.01233158489341721
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1057,
+   "coder": 0.3526,
+   "writer": 0.2338,
+   "reviewer": 0.3079
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 0,
+  "topic": "我冬天长冻疮",
+  "gold": "coder",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9841659032398242,
+   "coder": 0.006799639642985017,
+   "writer": 0.004775417485179687,
+   "reviewer": 0.004259039632011057
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1597,
+   "coder": 0.3729,
+   "writer": 0.1795,
+   "reviewer": 0.2879
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 0,
+  "topic": "我牙疼了一周",
+  "gold": "coder",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9756537940247324,
+   "coder": 0.012538021935487352,
+   "writer": 0.005586910337282133,
+   "reviewer": 0.006221273702498069
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1501,
+   "coder": 0.3439,
+   "writer": 0.1936,
+   "reviewer": 0.3124
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 0,
+  "topic": "我的近视度数加深很快",
+  "gold": "coder",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9583693113503639,
+   "coder": 0.021119663967810284,
+   "writer": 0.007168239908888085,
+   "reviewer": 0.013342784772937813
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0911,
+   "coder": 0.4657,
+   "writer": 0.1816,
+   "reviewer": 0.2616
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 0,
+  "topic": "我的衣柜发霉了",
+  "gold": "coder",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.952464091107805,
+   "coder": 0.020288000884711787,
+   "writer": 0.007745602550466485,
+   "reviewer": 0.01950230545701663
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1203,
+   "coder": 0.4426,
+   "writer": 0.1851,
+   "reviewer": 0.2521
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 0,
+  "topic": "我的自行车链条异响",
+  "gold": "coder",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9378444569890284,
+   "coder": 0.04107524462244519,
+   "writer": 0.006392297346875625,
+   "reviewer": 0.014688001041650774
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0813,
+   "coder": 0.5177,
+   "writer": 0.1586,
+   "reviewer": 0.2424
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 0,
+  "topic": "我的牛奶放两天就结块",
+  "gold": "coder",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9085128831936035,
+   "coder": 0.07052798976445139,
+   "writer": 0.006786724944391238,
+   "reviewer": 0.01417240209755388
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0734,
+   "coder": 0.4974,
+   "writer": 0.208,
+   "reviewer": 0.2211
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 1,
+  "topic": "我的 Excel 求和结果不对",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.06757731247950186,
+   "coder": 0.8298627135210109,
+   "writer": 0.004761782596783571,
+   "reviewer": 0.09779819140270368
+  },
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.0932,
+   "coder": 0.3432,
+   "writer": 0.1631,
+   "reviewer": 0.4005
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 1,
+  "topic": "我的打印机连不上 Wi-Fi",
+  "gold": "coder",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.6900723272879445,
+   "coder": 0.3016359375302698,
+   "writer": 0.003882250810566963,
+   "reviewer": 0.004409484371218703
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0622,
+   "coder": 0.5323,
+   "writer": 0.1432,
+   "reviewer": 0.2623
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 1,
+  "topic": "我的 Word 页码乱了",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.036320119960903674,
+   "coder": 0.5806039550132902,
+   "writer": 0.36714956027586176,
+   "reviewer": 0.01592636474994434
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0527,
+   "coder": 0.6185,
+   "writer": 0.1212,
+   "reviewer": 0.2075
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 1,
+  "topic": "我的手机电池掉电特别快",
+  "gold": "coder",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.9097592740408134,
+   "coder": 0.07845401917139483,
+   "writer": 0.0049431511197283486,
+   "reviewer": 0.006843555668063453
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1035,
+   "coder": 0.4017,
+   "writer": 0.237,
+   "reviewer": 0.2577
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 1,
+  "topic": "我的微信消息总是延迟",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.3794719318296476,
+   "coder": 0.6039007247169681,
+   "writer": 0.003965372106705826,
+   "reviewer": 0.012661971346678458
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0913,
+   "coder": 0.4065,
+   "writer": 0.1877,
+   "reviewer": 0.3146
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 1,
+  "topic": "我的 PPT 字体在别的电脑上丢失",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.29947904979538004,
+   "coder": 0.5424137337749864,
+   "writer": 0.12718891128554205,
+   "reviewer": 0.030918305144091534
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0566,
+   "coder": 0.5985,
+   "writer": 0.1409,
+   "reviewer": 0.2039
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 1,
+  "topic": "我的路由器信号很差",
+  "gold": "coder",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.8956813845622591,
+   "coder": 0.08547854455366188,
+   "writer": 0.005916040412768872,
+   "reviewer": 0.012924030471310133
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.137,
+   "coder": 0.4686,
+   "writer": 0.1112,
+   "reviewer": 0.2832
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 1,
+  "topic": "我的 U 盘读不出来",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.36136124665439295,
+   "coder": 0.6288538771370471,
+   "writer": 0.004007183606029163,
+   "reviewer": 0.005777692602530775
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0684,
+   "coder": 0.5418,
+   "writer": 0.1632,
+   "reviewer": 0.2267
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 1,
+  "topic": "我的网银转账一直失败",
+  "gold": "coder",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.5420891874806049,
+   "coder": 0.447712410795289,
+   "writer": 0.0031966037555074068,
+   "reviewer": 0.007001797968598741
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0754,
+   "coder": 0.4937,
+   "writer": 0.1481,
+   "reviewer": 0.2828
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 1,
+  "topic": "我的邮箱收不到验证码",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.47736219260759094,
+   "coder": 0.5108753516511693,
+   "writer": 0.004532036902612608,
+   "reviewer": 0.007230418838627163
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1037,
+   "coder": 0.4154,
+   "writer": 0.1707,
+   "reviewer": 0.3102
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 1,
+  "topic": "我的照片备份总是失败",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.1781342756380541,
+   "coder": 0.7996378459073451,
+   "writer": 0.0036355396360243336,
+   "reviewer": 0.018592338818576443
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1044,
+   "coder": 0.4429,
+   "writer": 0.1314,
+   "reviewer": 0.3214
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 1,
+  "topic": "我的视频会议很卡",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.24814219686153044,
+   "coder": 0.722399828295224,
+   "writer": 0.003678496681345289,
+   "reviewer": 0.025779478161900266
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0853,
+   "coder": 0.4581,
+   "writer": 0.1833,
+   "reviewer": 0.2733
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 1,
+  "topic": "我的输入法候选词错乱",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.15585696348867648,
+   "coder": 0.8253242785038588,
+   "writer": 0.007000061526893194,
+   "reviewer": 0.011818696480571557
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0813,
+   "coder": 0.4437,
+   "writer": 0.1746,
+   "reviewer": 0.3004
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 1,
+  "topic": "我的日历同步丢失事件",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.4546211210519959,
+   "coder": 0.5353410661793844,
+   "writer": 0.0035909410767479394,
+   "reviewer": 0.006446871691871748
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0999,
+   "coder": 0.4112,
+   "writer": 0.222,
+   "reviewer": 0.2669
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 1,
+  "topic": "我的 PDF 文件打不开",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.17468168345757965,
+   "coder": 0.7726244553470594,
+   "writer": 0.042430562260884264,
+   "reviewer": 0.010263298934476698
+  },
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.083,
+   "coder": 0.3452,
+   "writer": 0.2047,
+   "reviewer": 0.3672
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 1,
+  "topic": "我的二维码扫不出来",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.2794053872724918,
+   "coder": 0.7097458890644187,
+   "writer": 0.003758131320705188,
+   "reviewer": 0.007090592342384244
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.064,
+   "coder": 0.6187,
+   "writer": 0.0921,
+   "reviewer": 0.2252
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 1,
+  "topic": "我的蓝牙耳机频繁断连",
+  "gold": "coder",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.5600690198683914,
+   "coder": 0.43163451190599184,
+   "writer": 0.0034693213820234945,
+   "reviewer": 0.004827146843593268
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.088,
+   "coder": 0.5066,
+   "writer": 0.1816,
+   "reviewer": 0.2238
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 1,
+  "topic": "我的手机充电时发烫",
+  "gold": "coder",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.939247407817526,
+   "coder": 0.04735977767049365,
+   "writer": 0.004760659958318535,
+   "reviewer": 0.008632154553661796
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0764,
+   "coder": 0.4761,
+   "writer": 0.1716,
+   "reviewer": 0.2759
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 1,
+  "topic": "我的会员被自动扣费",
+  "gold": "coder",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.8188772647681832,
+   "coder": 0.16702763156138029,
+   "writer": 0.0031489624494819932,
+   "reviewer": 0.01094614122095449
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.087,
+   "coder": 0.4775,
+   "writer": 0.1724,
+   "reviewer": 0.2631
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 1,
+  "topic": "我的快递单号查不到物流",
+  "gold": "coder",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.8142718997688774,
+   "coder": 0.17751469617136717,
+   "writer": 0.003650178778456625,
+   "reviewer": 0.004563225281298809
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1007,
+   "coder": 0.4095,
+   "writer": 0.1724,
+   "reviewer": 0.3174
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 2,
+  "topic": "我的网站首页打开很慢",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.05617631360189616,
+   "coder": 0.9199277977069457,
+   "writer": 0.0025973232148510795,
+   "reviewer": 0.021298565476307103
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0581,
+   "coder": 0.687,
+   "writer": 0.1023,
+   "reviewer": 0.1525
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 2,
+  "topic": "我的 Docker 容器启动后立刻退出",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.0523371559036965,
+   "coder": 0.9447817415358185,
+   "writer": 0.001242131720763285,
+   "reviewer": 0.0016389708397216698
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0766,
+   "coder": 0.6406,
+   "writer": 0.1079,
+   "reviewer": 0.1748
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 2,
+  "topic": "我的 API 一直返回 500",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.03504305364785835,
+   "coder": 0.9605735798740132,
+   "writer": 0.0011225701382679323,
+   "reviewer": 0.003260796339860542
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0897,
+   "coder": 0.5697,
+   "writer": 0.0947,
+   "reviewer": 0.246
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 2,
+  "topic": "我的前端页面样式全部错乱",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.008425753408662388,
+   "coder": 0.9701885998610176,
+   "writer": 0.0012780406742903374,
+   "reviewer": 0.020107606056029705
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0576,
+   "coder": 0.6145,
+   "writer": 0.0942,
+   "reviewer": 0.2337
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 2,
+  "topic": "我的 Git 合并冲突解决不了",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.06927968051289057,
+   "coder": 0.9263685659474289,
+   "writer": 0.0015885177373721568,
+   "reviewer": 0.002763235802308379
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0886,
+   "coder": 0.424,
+   "writer": 0.1474,
+   "reviewer": 0.34
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 2,
+  "topic": "我的 Nginx 配置总是报错",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.04366352713031506,
+   "coder": 0.9473342746624109,
+   "writer": 0.0013694352022286327,
+   "reviewer": 0.007632763005045358
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0739,
+   "coder": 0.4745,
+   "writer": 0.0846,
+   "reviewer": 0.367
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 2,
+  "topic": "我的域名解析不生效",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.2904654997602162,
+   "coder": 0.6967101115857093,
+   "writer": 0.00339217350949388,
+   "reviewer": 0.009432215144580588
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0789,
+   "coder": 0.5484,
+   "writer": 0.1152,
+   "reviewer": 0.2575
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 2,
+  "topic": "我的数据库连接池总是耗尽",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.03614196682321597,
+   "coder": 0.9611911720723286,
+   "writer": 0.0010554648921627507,
+   "reviewer": 0.0016113962122926253
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0961,
+   "coder": 0.5048,
+   "writer": 0.1114,
+   "reviewer": 0.2876
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 2,
+  "topic": "我的消息队列严重积压",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.1055081907206018,
+   "coder": 0.8829181568335833,
+   "writer": 0.001936092924071002,
+   "reviewer": 0.009637559521743928
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0774,
+   "coder": 0.5133,
+   "writer": 0.1477,
+   "reviewer": 0.2616
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 2,
+  "topic": "我的缓存经常被击穿",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.2413942448896262,
+   "coder": 0.7417858495145883,
+   "writer": 0.00402421750769386,
+   "reviewer": 0.012795688088091664
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0909,
+   "coder": 0.5759,
+   "writer": 0.0959,
+   "reviewer": 0.2373
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 2,
+  "topic": "我的 CI 构建老是失败",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.07922751679702884,
+   "coder": 0.9071398632982568,
+   "writer": 0.0022383991793837165,
+   "reviewer": 0.01139422072533069
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0943,
+   "coder": 0.5025,
+   "writer": 0.0975,
+   "reviewer": 0.3057
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 2,
+  "topic": "我的服务器日志把磁盘写满了",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.2826094008303878,
+   "coder": 0.7054021301006259,
+   "writer": 0.0034125249089118157,
+   "reviewer": 0.00857594416007445
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.091,
+   "coder": 0.5923,
+   "writer": 0.0948,
+   "reviewer": 0.222
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 2,
+  "topic": "我的 HTTPS 证书过期了",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.47028669933921985,
+   "coder": 0.5141959810359217,
+   "writer": 0.0053464966143783954,
+   "reviewer": 0.010170823010480138
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0748,
+   "coder": 0.4778,
+   "writer": 0.1555,
+   "reviewer": 0.292
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 2,
+  "topic": "我的 CDN 缓存一直不更新",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.19613667655830394,
+   "coder": 0.7875414222988655,
+   "writer": 0.002935586863058693,
+   "reviewer": 0.013386314279771902
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.076,
+   "coder": 0.5911,
+   "writer": 0.1176,
+   "reviewer": 0.2153
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 2,
+  "topic": "我的端口被占用",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.2164776594015527,
+   "coder": 0.7752377882218473,
+   "writer": 0.0032452134908590507,
+   "reviewer": 0.005039338885740923
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0996,
+   "coder": 0.5342,
+   "writer": 0.1206,
+   "reviewer": 0.2457
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 2,
+  "topic": "我的定时任务不触发",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.07122884715233602,
+   "coder": 0.9209969900145214,
+   "writer": 0.0017849117807242627,
+   "reviewer": 0.005989251052418355
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1041,
+   "coder": 0.3603,
+   "writer": 0.1793,
+   "reviewer": 0.3563
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 2,
+  "topic": "我的 WebSocket 频繁断开",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.04121425318726316,
+   "coder": 0.9563961493718967,
+   "writer": 0.0010007175013790064,
+   "reviewer": 0.0013888799394611464
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0679,
+   "coder": 0.6237,
+   "writer": 0.0923,
+   "reviewer": 0.2161
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 2,
+  "topic": "我的爬虫被封 IP",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.2573573089151572,
+   "coder": 0.732494917977412,
+   "writer": 0.0040101927336377175,
+   "reviewer": 0.006137580373793109
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1299,
+   "coder": 0.4794,
+   "writer": 0.1273,
+   "reviewer": 0.2633
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 2,
+  "topic": "我的依赖版本冲突装不上",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.1002462687282215,
+   "coder": 0.8904331014466786,
+   "writer": 0.002405828174575805,
+   "reviewer": 0.006914801650524099
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0758,
+   "coder": 0.5471,
+   "writer": 0.1414,
+   "reviewer": 0.2356
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 2,
+  "topic": "我的服务内存一直在涨",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.13519204986161118,
+   "coder": 0.8436081305352899,
+   "writer": 0.002362615632540866,
+   "reviewer": 0.018837203970558054
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0935,
+   "coder": 0.4749,
+   "writer": 0.1097,
+   "reviewer": 0.322
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 3,
+  "topic": "我的模型训练 loss 周期性 spike",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.28816719675876845,
+   "coder": 0.6724188055375423,
+   "writer": 0.0030176559171937105,
+   "reviewer": 0.036396341786495534
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1223,
+   "coder": 0.5208,
+   "writer": 0.111,
+   "reviewer": 0.2459
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 3,
+  "topic": "我的 PostgreSQL 出现慢查询",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.15199919898066303,
+   "coder": 0.8371891624540907,
+   "writer": 0.0024659772301381683,
+   "reviewer": 0.008345661335108093
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.123,
+   "coder": 0.4742,
+   "writer": 0.1254,
+   "reviewer": 0.2774
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 3,
+  "topic": "我的 CUDA 训练报 OOM",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.1706993275879673,
+   "coder": 0.8192387790678577,
+   "writer": 0.002334998679574351,
+   "reviewer": 0.007726894664600627
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0656,
+   "coder": 0.6748,
+   "writer": 0.0839,
+   "reviewer": 0.1758
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 3,
+  "topic": "我的 Transformer 注意力熵塌缩",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.13900894413404802,
+   "coder": 0.8289129731797097,
+   "writer": 0.004562982494355046,
+   "reviewer": 0.027515100191887222
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0964,
+   "coder": 0.4544,
+   "writer": 0.207,
+   "reviewer": 0.2422
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 3,
+  "topic": "我的向量索引召回率很低",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.117630943436863,
+   "coder": 0.8421729787398633,
+   "writer": 0.0030992720218388885,
+   "reviewer": 0.037096805801434804
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0887,
+   "coder": 0.6068,
+   "writer": 0.1269,
+   "reviewer": 0.1776
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 3,
+  "topic": "我的 GPU 利用率上不去",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.4563415682678142,
+   "coder": 0.4980247358169502,
+   "writer": 0.004200301632008109,
+   "reviewer": 0.04143339428322748
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1036,
+   "coder": 0.4359,
+   "writer": 0.1282,
+   "reviewer": 0.3323
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 3,
+  "topic": "我的分布式训练 NCCL 超时",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.11691909790569568,
+   "coder": 0.8770354137374764,
+   "writer": 0.002177230082807559,
+   "reviewer": 0.0038682582740203492
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0745,
+   "coder": 0.5849,
+   "writer": 0.1086,
+   "reviewer": 0.2319
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 3,
+  "topic": "我的 LoRA 微调严重过拟合",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.16207048478471692,
+   "coder": 0.7742796742836702,
+   "writer": 0.0034309082012372867,
+   "reviewer": 0.0602189327303756
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1046,
+   "coder": 0.4148,
+   "writer": 0.1872,
+   "reviewer": 0.2934
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 3,
+  "topic": "我的量化模型精度损失很大",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.12521985155732393,
+   "coder": 0.7238309969326979,
+   "writer": 0.0027182563170069975,
+   "reviewer": 0.14823089519297114
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0862,
+   "coder": 0.4096,
+   "writer": 0.1233,
+   "reviewer": 0.3809
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 3,
+  "topic": "我的 RAG 检索总是产生幻觉",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.3385754670710037,
+   "coder": 0.6030213495148179,
+   "writer": 0.005657257754573465,
+   "reviewer": 0.05274592565960491
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0736,
+   "coder": 0.4942,
+   "writer": 0.1648,
+   "reviewer": 0.2673
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 3,
+  "topic": "我的 K8s Pod 反复重启",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.12220341845964097,
+   "coder": 0.8742720580405525,
+   "writer": 0.0016222041044951401,
+   "reviewer": 0.0019023193953114123
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0584,
+   "coder": 0.6481,
+   "writer": 0.0996,
+   "reviewer": 0.1938
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 3,
+  "topic": "我的 Kafka 消费者严重滞后",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.0784621244280354,
+   "coder": 0.9177128141723203,
+   "writer": 0.0014003611967691725,
+   "reviewer": 0.002424700202875155
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0796,
+   "coder": 0.5932,
+   "writer": 0.1059,
+   "reviewer": 0.2214
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 3,
+  "topic": "我的 ES 集群发生脑裂",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.26913262453768766,
+   "coder": 0.7202499787233528,
+   "writer": 0.002677393715001493,
+   "reviewer": 0.007940003023957951
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0672,
+   "coder": 0.6197,
+   "writer": 0.1047,
+   "reviewer": 0.2083
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 3,
+  "topic": "我的模型推理延迟很高",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.1007699144155704,
+   "coder": 0.8565531983285394,
+   "writer": 0.0032127571718543056,
+   "reviewer": 0.039464130084035876
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1165,
+   "coder": 0.5043,
+   "writer": 0.1158,
+   "reviewer": 0.2634
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 3,
+  "topic": "我的微调出现灾难性遗忘",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.25886628694722696,
+   "coder": 0.6696657709924585,
+   "writer": 0.007003982265116193,
+   "reviewer": 0.06446395979519831
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.174,
+   "coder": 0.2962,
+   "writer": 0.2426,
+   "reviewer": 0.2871
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 3,
+  "topic": "我的深层网络梯度消失",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.18060696559670653,
+   "coder": 0.8071148519902891,
+   "writer": 0.003421722478500488,
+   "reviewer": 0.0088564599345039
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.075,
+   "coder": 0.5888,
+   "writer": 0.1054,
+   "reviewer": 0.2308
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 3,
+  "topic": "我的 tokenizer 并行预处理很慢",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.01648321862853201,
+   "coder": 0.977525609235512,
+   "writer": 0.0016030020086660812,
+   "reviewer": 0.004388170127289938
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0681,
+   "coder": 0.6645,
+   "writer": 0.0997,
+   "reviewer": 0.1677
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 3,
+  "topic": "我的 checkpoint 文件损坏",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.12860030629493263,
+   "coder": 0.8338136752614664,
+   "writer": 0.004587320792435824,
+   "reviewer": 0.03299869765116517
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0874,
+   "coder": 0.4515,
+   "writer": 0.0925,
+   "reviewer": 0.3687
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 3,
+  "topic": "我的显存碎片化严重",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.2794778490169607,
+   "coder": 0.6882603383143524,
+   "writer": 0.004322062472661289,
+   "reviewer": 0.02793975019602558
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0943,
+   "coder": 0.4432,
+   "writer": 0.1744,
+   "reviewer": 0.288
+  }
+ },
+ {
+  "frame": "fix",
+  "level": 3,
+  "topic": "我的词表太大导致 softmax 很慢",
+  "gold": "coder",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.02910023067567676,
+   "coder": 0.961210037874946,
+   "writer": 0.0027428839919846314,
+   "reviewer": 0.006946847457392615
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0683,
+   "coder": 0.4726,
+   "writer": 0.2592,
+   "reviewer": 0.1998
+  }
+ },
+ {
+  "frame": "write",
+  "level": 0,
+  "topic": "我的吉他弦总是很快生锈",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.039157553435998846,
+   "coder": 0.011959531948611837,
+   "writer": 0.9476479032662165,
+   "reviewer": 0.0012350113491728359
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1192,
+   "coder": 0.2324,
+   "writer": 0.5378,
+   "reviewer": 0.1106
+  }
+ },
+ {
+  "frame": "write",
+  "level": 0,
+  "topic": "我的面包一再发酵失败",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.07418895210533714,
+   "coder": 0.010665756215688927,
+   "writer": 0.9127359018361236,
+   "reviewer": 0.0024093898428503373
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1238,
+   "coder": 0.2476,
+   "writer": 0.4461,
+   "reviewer": 0.1826
+  }
+ },
+ {
+  "frame": "write",
+  "level": 0,
+  "topic": "我的月季长满了蚜虫",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.07647242239580941,
+   "coder": 0.019211591766175182,
+   "writer": 0.9026000597183639,
+   "reviewer": 0.0017159261196515569
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.0755,
+   "coder": 0.2569,
+   "writer": 0.509,
+   "reviewer": 0.1586
+  }
+ },
+ {
+  "frame": "write",
+  "level": 0,
+  "topic": "我的白衬衫洗后发黄",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.05298459795110127,
+   "coder": 0.034529888868314706,
+   "writer": 0.9104232051738047,
+   "reviewer": 0.0020623080067793424
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1017,
+   "coder": 0.2947,
+   "writer": 0.4694,
+   "reviewer": 0.1342
+  }
+ },
+ {
+  "frame": "write",
+  "level": 0,
+  "topic": "我跑步时膝盖疼",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.07669128878442438,
+   "coder": 0.013722360851399138,
+   "writer": 0.9080451605506564,
+   "reviewer": 0.0015411898135200871
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1095,
+   "coder": 0.3562,
+   "writer": 0.3827,
+   "reviewer": 0.1516
+  }
+ },
+ {
+  "frame": "write",
+  "level": 0,
+  "topic": "我冲的咖啡总是偏酸",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.08337196034144838,
+   "coder": 0.012763912689621165,
+   "writer": 0.9013407694256755,
+   "reviewer": 0.002523357543254954
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.0995,
+   "coder": 0.2504,
+   "writer": 0.4988,
+   "reviewer": 0.1513
+  }
+ },
+ {
+  "frame": "write",
+  "level": 0,
+  "topic": "我的米饭经常夹生",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.07147915526530436,
+   "coder": 0.026692088189986734,
+   "writer": 0.8992883989488798,
+   "reviewer": 0.0025403575958290684
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1192,
+   "coder": 0.2336,
+   "writer": 0.5234,
+   "reviewer": 0.1239
+  }
+ },
+ {
+  "frame": "write",
+  "level": 0,
+  "topic": "我的皮鞋开胶了",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.052814628190428474,
+   "coder": 0.01715015661308848,
+   "writer": 0.9278778245626832,
+   "reviewer": 0.0021573906337998805
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1032,
+   "coder": 0.2745,
+   "writer": 0.4963,
+   "reviewer": 0.126
+  }
+ },
+ {
+  "frame": "write",
+  "level": 0,
+  "topic": "我最近脱发很严重",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.10628739997018301,
+   "coder": 0.023869247001134755,
+   "writer": 0.8678586080894193,
+   "reviewer": 0.0019847449392629223
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1166,
+   "coder": 0.2392,
+   "writer": 0.5063,
+   "reviewer": 0.1379
+  }
+ },
+ {
+  "frame": "write",
+  "level": 0,
+  "topic": "我晚上总是失眠",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.10639881968797572,
+   "coder": 0.017752019490092776,
+   "writer": 0.8737362525567086,
+   "reviewer": 0.0021129082652228894
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1233,
+   "coder": 0.224,
+   "writer": 0.5411,
+   "reviewer": 0.1116
+  }
+ },
+ {
+  "frame": "write",
+  "level": 0,
+  "topic": "我的猫突然不吃猫粮",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.10227722557029895,
+   "coder": 0.012052041286535765,
+   "writer": 0.8843201345341176,
+   "reviewer": 0.001350598609047647
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.0924,
+   "coder": 0.2322,
+   "writer": 0.5577,
+   "reviewer": 0.1177
+  }
+ },
+ {
+  "frame": "write",
+  "level": 0,
+  "topic": "我的多肉植物徒长了",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.04892732982809738,
+   "coder": 0.01567870389628235,
+   "writer": 0.9343227214405413,
+   "reviewer": 0.0010712448350789416
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1385,
+   "coder": 0.2429,
+   "writer": 0.4633,
+   "reviewer": 0.1553
+  }
+ },
+ {
+  "frame": "write",
+  "level": 0,
+  "topic": "我的铁锅生锈了",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.04622925820766245,
+   "coder": 0.019086549394710522,
+   "writer": 0.9334315507128514,
+   "reviewer": 0.001252641684775609
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1225,
+   "coder": 0.3058,
+   "writer": 0.4174,
+   "reviewer": 0.1543
+  }
+ },
+ {
+  "frame": "write",
+  "level": 0,
+  "topic": "我的蜂蜜结晶了",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.04892844705634554,
+   "coder": 0.017781462516220876,
+   "writer": 0.9322825072025223,
+   "reviewer": 0.0010075832249113398
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1166,
+   "coder": 0.2579,
+   "writer": 0.4979,
+   "reviewer": 0.1277
+  }
+ },
+ {
+  "frame": "write",
+  "level": 0,
+  "topic": "我冬天长冻疮",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.10112245735099355,
+   "coder": 0.021834085782883168,
+   "writer": 0.8751372952776051,
+   "reviewer": 0.0019061615885182228
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1182,
+   "coder": 0.2183,
+   "writer": 0.5141,
+   "reviewer": 0.1494
+  }
+ },
+ {
+  "frame": "write",
+  "level": 0,
+  "topic": "我牙疼了一周",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.05218288540226532,
+   "coder": 0.026373398720544304,
+   "writer": 0.9198740422615286,
+   "reviewer": 0.0015696736156617444
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1104,
+   "coder": 0.213,
+   "writer": 0.5557,
+   "reviewer": 0.1209
+  }
+ },
+ {
+  "frame": "write",
+  "level": 0,
+  "topic": "我的近视度数加深很快",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.054220867561861646,
+   "coder": 0.022841957244146782,
+   "writer": 0.9215881386762531,
+   "reviewer": 0.0013490365177384928
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1411,
+   "coder": 0.2399,
+   "writer": 0.4834,
+   "reviewer": 0.1357
+  }
+ },
+ {
+  "frame": "write",
+  "level": 0,
+  "topic": "我的衣柜发霉了",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.08517705674300166,
+   "coder": 0.02431855517727427,
+   "writer": 0.8886170828323808,
+   "reviewer": 0.0018873052473431908
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1689,
+   "coder": 0.1989,
+   "writer": 0.5271,
+   "reviewer": 0.1051
+  }
+ },
+ {
+  "frame": "write",
+  "level": 0,
+  "topic": "我的自行车链条异响",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.03751501079827899,
+   "coder": 0.010805676723940717,
+   "writer": 0.9502708344612086,
+   "reviewer": 0.0014084780165716574
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1222,
+   "coder": 0.306,
+   "writer": 0.4251,
+   "reviewer": 0.1467
+  }
+ },
+ {
+  "frame": "write",
+  "level": 0,
+  "topic": "我的牛奶放两天就结块",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.05466357578861645,
+   "coder": 0.016690780493579596,
+   "writer": 0.9274237720578249,
+   "reviewer": 0.0012218716599790935
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.12,
+   "coder": 0.2529,
+   "writer": 0.4779,
+   "reviewer": 0.1492
+  }
+ },
+ {
+  "frame": "write",
+  "level": 1,
+  "topic": "我的 Excel 求和结果不对",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.03249461091840584,
+   "coder": 0.060661675180790964,
+   "writer": 0.8999431419205887,
+   "reviewer": 0.006900571980214525
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1339,
+   "coder": 0.2823,
+   "writer": 0.4275,
+   "reviewer": 0.1564
+  }
+ },
+ {
+  "frame": "write",
+  "level": 1,
+  "topic": "我的打印机连不上 Wi-Fi",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.05694161820179717,
+   "coder": 0.015470709051583783,
+   "writer": 0.926016108265297,
+   "reviewer": 0.0015715644813220368
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1163,
+   "coder": 0.2996,
+   "writer": 0.4326,
+   "reviewer": 0.1515
+  }
+ },
+ {
+  "frame": "write",
+  "level": 1,
+  "topic": "我的 Word 页码乱了",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.0901881650743642,
+   "coder": 0.0545696941639888,
+   "writer": 0.844828111697657,
+   "reviewer": 0.010414029063989938
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1267,
+   "coder": 0.378,
+   "writer": 0.3435,
+   "reviewer": 0.1518
+  }
+ },
+ {
+  "frame": "write",
+  "level": 1,
+  "topic": "我的手机电池掉电特别快",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.04902720066269412,
+   "coder": 0.02020163456392056,
+   "writer": 0.929530737403585,
+   "reviewer": 0.001240427369800233
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1052,
+   "coder": 0.273,
+   "writer": 0.4912,
+   "reviewer": 0.1306
+  }
+ },
+ {
+  "frame": "write",
+  "level": 1,
+  "topic": "我的微信消息总是延迟",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.08410848171916131,
+   "coder": 0.02788878064711918,
+   "writer": 0.8852869932530345,
+   "reviewer": 0.0027157443806850234
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1441,
+   "coder": 0.233,
+   "writer": 0.4817,
+   "reviewer": 0.1413
+  }
+ },
+ {
+  "frame": "write",
+  "level": 1,
+  "topic": "我的 PPT 字体在别的电脑上丢失",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.09264431299760517,
+   "coder": 0.04288839991255384,
+   "writer": 0.8586517712347266,
+   "reviewer": 0.005815515855114467
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.0999,
+   "coder": 0.3191,
+   "writer": 0.4208,
+   "reviewer": 0.1602
+  }
+ },
+ {
+  "frame": "write",
+  "level": 1,
+  "topic": "我的路由器信号很差",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.048744367068105345,
+   "coder": 0.018618074325273837,
+   "writer": 0.930743592118119,
+   "reviewer": 0.0018939664885018917
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1787,
+   "coder": 0.2589,
+   "writer": 0.408,
+   "reviewer": 0.1545
+  }
+ },
+ {
+  "frame": "write",
+  "level": 1,
+  "topic": "我的 U 盘读不出来",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.04994989693379335,
+   "coder": 0.023645654956594375,
+   "writer": 0.9245723734582098,
+   "reviewer": 0.0018320746514025662
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1337,
+   "coder": 0.2988,
+   "writer": 0.4521,
+   "reviewer": 0.1154
+  }
+ },
+ {
+  "frame": "write",
+  "level": 1,
+  "topic": "我的网银转账一直失败",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.07283963463154548,
+   "coder": 0.012994995697729637,
+   "writer": 0.9118157279664315,
+   "reviewer": 0.002349641704293369
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.0946,
+   "coder": 0.2613,
+   "writer": 0.4974,
+   "reviewer": 0.1467
+  }
+ },
+ {
+  "frame": "write",
+  "level": 1,
+  "topic": "我的邮箱收不到验证码",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.045587860100888486,
+   "coder": 0.014158477091880605,
+   "writer": 0.9383330356077443,
+   "reviewer": 0.0019206271994866282
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1371,
+   "coder": 0.301,
+   "writer": 0.4136,
+   "reviewer": 0.1482
+  }
+ },
+ {
+  "frame": "write",
+  "level": 1,
+  "topic": "我的照片备份总是失败",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.06683509034682392,
+   "coder": 0.014867412819633833,
+   "writer": 0.9146967506823912,
+   "reviewer": 0.003600746151151087
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1281,
+   "coder": 0.2924,
+   "writer": 0.4058,
+   "reviewer": 0.1737
+  }
+ },
+ {
+  "frame": "write",
+  "level": 1,
+  "topic": "我的视频会议很卡",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.05109605675117048,
+   "coder": 0.025600579184306152,
+   "writer": 0.91908671440463,
+   "reviewer": 0.004216649659893421
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1485,
+   "coder": 0.2524,
+   "writer": 0.4636,
+   "reviewer": 0.1355
+  }
+ },
+ {
+  "frame": "write",
+  "level": 1,
+  "topic": "我的输入法候选词错乱",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.09232209299111976,
+   "coder": 0.03694463689838276,
+   "writer": 0.8652811445284412,
+   "reviewer": 0.005452125582056263
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1258,
+   "coder": 0.2929,
+   "writer": 0.4091,
+   "reviewer": 0.1721
+  }
+ },
+ {
+  "frame": "write",
+  "level": 1,
+  "topic": "我的日历同步丢失事件",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.08974701194483202,
+   "coder": 0.021288719190743127,
+   "writer": 0.8866010792310884,
+   "reviewer": 0.0023631896333363737
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.0997,
+   "coder": 0.2433,
+   "writer": 0.5416,
+   "reviewer": 0.1154
+  }
+ },
+ {
+  "frame": "write",
+  "level": 1,
+  "topic": "我的 PDF 文件打不开",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.05873879021167542,
+   "coder": 0.026818102277524382,
+   "writer": 0.9095372539558905,
+   "reviewer": 0.004905853554909693
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1155,
+   "coder": 0.2612,
+   "writer": 0.4777,
+   "reviewer": 0.1456
+  }
+ },
+ {
+  "frame": "write",
+  "level": 1,
+  "topic": "我的二维码扫不出来",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.04616312878887329,
+   "coder": 0.02271726827006042,
+   "writer": 0.929074371147855,
+   "reviewer": 0.002045231793211304
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1266,
+   "coder": 0.4475,
+   "writer": 0.3113,
+   "reviewer": 0.1147
+  }
+ },
+ {
+  "frame": "write",
+  "level": 1,
+  "topic": "我的蓝牙耳机频繁断连",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.07416949735461932,
+   "coder": 0.01581058531941998,
+   "writer": 0.9078354624160692,
+   "reviewer": 0.0021844549098915408
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1424,
+   "coder": 0.2637,
+   "writer": 0.4226,
+   "reviewer": 0.1713
+  }
+ },
+ {
+  "frame": "write",
+  "level": 1,
+  "topic": "我的手机充电时发烫",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.038370661468779974,
+   "coder": 0.011146724233174123,
+   "writer": 0.9494279630768574,
+   "reviewer": 0.0010546512211885488
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1093,
+   "coder": 0.3424,
+   "writer": 0.4172,
+   "reviewer": 0.1311
+  }
+ },
+ {
+  "frame": "write",
+  "level": 1,
+  "topic": "我的会员被自动扣费",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.02481886029584873,
+   "coder": 0.02056114368609812,
+   "writer": 0.9532873865696896,
+   "reviewer": 0.0013326094483635943
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1112,
+   "coder": 0.3035,
+   "writer": 0.4527,
+   "reviewer": 0.1326
+  }
+ },
+ {
+  "frame": "write",
+  "level": 1,
+  "topic": "我的快递单号查不到物流",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.05110926548252075,
+   "coder": 0.02160304037453288,
+   "writer": 0.9255411615211202,
+   "reviewer": 0.0017465326218261857
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1226,
+   "coder": 0.2674,
+   "writer": 0.478,
+   "reviewer": 0.132
+  }
+ },
+ {
+  "frame": "write",
+  "level": 2,
+  "topic": "我的网站首页打开很慢",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.04242387198647389,
+   "coder": 0.03897831763670006,
+   "writer": 0.9139706028519218,
+   "reviewer": 0.004627207524904226
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1056,
+   "coder": 0.3114,
+   "writer": 0.4388,
+   "reviewer": 0.1443
+  }
+ },
+ {
+  "frame": "write",
+  "level": 2,
+  "topic": "我的 Docker 容器启动后立刻退出",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.04213498294153837,
+   "coder": 0.05085347754450042,
+   "writer": 0.9053297926619455,
+   "reviewer": 0.0016817468520157145
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1641,
+   "coder": 0.299,
+   "writer": 0.4138,
+   "reviewer": 0.1231
+  }
+ },
+ {
+  "frame": "write",
+  "level": 2,
+  "topic": "我的 API 一直返回 500",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.049592887305087596,
+   "coder": 0.07422817863286489,
+   "writer": 0.873307779401608,
+   "reviewer": 0.0028711546604395784
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1703,
+   "coder": 0.352,
+   "writer": 0.3871,
+   "reviewer": 0.0906
+  }
+ },
+ {
+  "frame": "write",
+  "level": 2,
+  "topic": "我的前端页面样式全部错乱",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.05388820142386843,
+   "coder": 0.09977669270510281,
+   "writer": 0.8199243530687427,
+   "reviewer": 0.026410752802286087
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1181,
+   "coder": 0.3108,
+   "writer": 0.3319,
+   "reviewer": 0.2392
+  }
+ },
+ {
+  "frame": "write",
+  "level": 2,
+  "topic": "我的 Git 合并冲突解决不了",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.050197137179438626,
+   "coder": 0.1398473081159036,
+   "writer": 0.8071730980697835,
+   "reviewer": 0.0027824566348742296
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1411,
+   "coder": 0.2263,
+   "writer": 0.5037,
+   "reviewer": 0.1289
+  }
+ },
+ {
+  "frame": "write",
+  "level": 2,
+  "topic": "我的 Nginx 配置总是报错",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.04637510087619941,
+   "coder": 0.11346152578122407,
+   "writer": 0.8370688717105829,
+   "reviewer": 0.003094501631993715
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1557,
+   "coder": 0.3748,
+   "writer": 0.2951,
+   "reviewer": 0.1745
+  }
+ },
+ {
+  "frame": "write",
+  "level": 2,
+  "topic": "我的域名解析不生效",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.042100987573293794,
+   "coder": 0.030933199769994136,
+   "writer": 0.9248481449272921,
+   "reviewer": 0.002117667729419964
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1563,
+   "coder": 0.3191,
+   "writer": 0.3778,
+   "reviewer": 0.1468
+  }
+ },
+ {
+  "frame": "write",
+  "level": 2,
+  "topic": "我的数据库连接池总是耗尽",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.04374248800541042,
+   "coder": 0.052750019935803236,
+   "writer": 0.9016541619266244,
+   "reviewer": 0.0018533301321619659
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1638,
+   "coder": 0.2705,
+   "writer": 0.4335,
+   "reviewer": 0.1322
+  }
+ },
+ {
+  "frame": "write",
+  "level": 2,
+  "topic": "我的消息队列严重积压",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.075173489784437,
+   "coder": 0.04071632029522039,
+   "writer": 0.8814966086677726,
+   "reviewer": 0.0026135812525700693
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1449,
+   "coder": 0.2735,
+   "writer": 0.4409,
+   "reviewer": 0.1408
+  }
+ },
+ {
+  "frame": "write",
+  "level": 2,
+  "topic": "我的缓存经常被击穿",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.06959763635629941,
+   "coder": 0.028286908551736673,
+   "writer": 0.8998451468596781,
+   "reviewer": 0.002270308232285777
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1615,
+   "coder": 0.304,
+   "writer": 0.3994,
+   "reviewer": 0.1351
+  }
+ },
+ {
+  "frame": "write",
+  "level": 2,
+  "topic": "我的 CI 构建老是失败",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.04779970261945915,
+   "coder": 0.10901369768899732,
+   "writer": 0.8395786803088513,
+   "reviewer": 0.0036079193826922713
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1384,
+   "coder": 0.3549,
+   "writer": 0.3405,
+   "reviewer": 0.1663
+  }
+ },
+ {
+  "frame": "write",
+  "level": 2,
+  "topic": "我的服务器日志把磁盘写满了",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.07571108587519014,
+   "coder": 0.02191212915250045,
+   "writer": 0.9006047493141734,
+   "reviewer": 0.001772035658135983
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1411,
+   "coder": 0.3619,
+   "writer": 0.3421,
+   "reviewer": 0.1548
+  }
+ },
+ {
+  "frame": "write",
+  "level": 2,
+  "topic": "我的 HTTPS 证书过期了",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.06544000340018405,
+   "coder": 0.029663509190933218,
+   "writer": 0.9029130500501484,
+   "reviewer": 0.0019834373587343064
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1301,
+   "coder": 0.3178,
+   "writer": 0.4186,
+   "reviewer": 0.1334
+  }
+ },
+ {
+  "frame": "write",
+  "level": 2,
+  "topic": "我的 CDN 缓存一直不更新",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.053442099979664266,
+   "coder": 0.022761960340421723,
+   "writer": 0.9213853785204955,
+   "reviewer": 0.0024105611594184874
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1287,
+   "coder": 0.368,
+   "writer": 0.3766,
+   "reviewer": 0.1267
+  }
+ },
+ {
+  "frame": "write",
+  "level": 2,
+  "topic": "我的端口被占用",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.04569661194212058,
+   "coder": 0.0702190167886663,
+   "writer": 0.8822657964407408,
+   "reviewer": 0.0018185748284723832
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.149,
+   "coder": 0.3011,
+   "writer": 0.4144,
+   "reviewer": 0.1356
+  }
+ },
+ {
+  "frame": "write",
+  "level": 2,
+  "topic": "我的定时任务不触发",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.049140480891597,
+   "coder": 0.040962354579042584,
+   "writer": 0.907460478381813,
+   "reviewer": 0.0024366861475474465
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1745,
+   "coder": 0.2169,
+   "writer": 0.4435,
+   "reviewer": 0.1651
+  }
+ },
+ {
+  "frame": "write",
+  "level": 2,
+  "topic": "我的 WebSocket 频繁断开",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.06186457953842653,
+   "coder": 0.07302328471181112,
+   "writer": 0.8626507842038119,
+   "reviewer": 0.0024613515459504555
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1417,
+   "coder": 0.3511,
+   "writer": 0.3656,
+   "reviewer": 0.1417
+  }
+ },
+ {
+  "frame": "write",
+  "level": 2,
+  "topic": "我的爬虫被封 IP",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.07515051843712928,
+   "coder": 0.08534808323757687,
+   "writer": 0.8370348680575062,
+   "reviewer": 0.0024665302677877414
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1572,
+   "coder": 0.2535,
+   "writer": 0.4498,
+   "reviewer": 0.1395
+  }
+ },
+ {
+  "frame": "write",
+  "level": 2,
+  "topic": "我的依赖版本冲突装不上",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.056724931846634956,
+   "coder": 0.05588017384563512,
+   "writer": 0.8837540118823969,
+   "reviewer": 0.0036408824253330854
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1657,
+   "coder": 0.2882,
+   "writer": 0.3674,
+   "reviewer": 0.1787
+  }
+ },
+ {
+  "frame": "write",
+  "level": 2,
+  "topic": "我的服务内存一直在涨",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.07683894793992715,
+   "coder": 0.036805264703191724,
+   "writer": 0.8835513604109427,
+   "reviewer": 0.002804426945938394
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1723,
+   "coder": 0.308,
+   "writer": 0.4032,
+   "reviewer": 0.1165
+  }
+ },
+ {
+  "frame": "write",
+  "level": 3,
+  "topic": "我的模型训练 loss 周期性 spike",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.08282294668872224,
+   "coder": 0.02967790442367502,
+   "writer": 0.8847583318094568,
+   "reviewer": 0.002740817078145925
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1581,
+   "coder": 0.3287,
+   "writer": 0.3789,
+   "reviewer": 0.1343
+  }
+ },
+ {
+  "frame": "write",
+  "level": 3,
+  "topic": "我的 PostgreSQL 出现慢查询",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.06678354744807599,
+   "coder": 0.05116458985803038,
+   "writer": 0.8785653716502003,
+   "reviewer": 0.0034864910436932634
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1768,
+   "coder": 0.3447,
+   "writer": 0.3616,
+   "reviewer": 0.117
+  }
+ },
+ {
+  "frame": "write",
+  "level": 3,
+  "topic": "我的 CUDA 训练报 OOM",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.07121724527582504,
+   "coder": 0.04805051090119332,
+   "writer": 0.8784009681325259,
+   "reviewer": 0.0023312756904557068
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1439,
+   "coder": 0.3861,
+   "writer": 0.3293,
+   "reviewer": 0.1407
+  }
+ },
+ {
+  "frame": "write",
+  "level": 3,
+  "topic": "我的 Transformer 注意力熵塌缩",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.06613377872807434,
+   "coder": 0.033025866464844456,
+   "writer": 0.8986145789381357,
+   "reviewer": 0.0022257758689455385
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.13,
+   "coder": 0.2752,
+   "writer": 0.4598,
+   "reviewer": 0.1349
+  }
+ },
+ {
+  "frame": "write",
+  "level": 3,
+  "topic": "我的向量索引召回率很低",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.07189371336399979,
+   "coder": 0.08262865874969412,
+   "writer": 0.8414285065406676,
+   "reviewer": 0.004049121345638465
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1282,
+   "coder": 0.3035,
+   "writer": 0.3953,
+   "reviewer": 0.173
+  }
+ },
+ {
+  "frame": "write",
+  "level": 3,
+  "topic": "我的 GPU 利用率上不去",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.04581570691442439,
+   "coder": 0.020965235610456347,
+   "writer": 0.93068881186254,
+   "reviewer": 0.0025302456125792182
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.16,
+   "coder": 0.3032,
+   "writer": 0.3843,
+   "reviewer": 0.1525
+  }
+ },
+ {
+  "frame": "write",
+  "level": 3,
+  "topic": "我的分布式训练 NCCL 超时",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.07960304356551982,
+   "coder": 0.05095035788044323,
+   "writer": 0.8669036342218955,
+   "reviewer": 0.0025429643321414545
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1597,
+   "coder": 0.246,
+   "writer": 0.4647,
+   "reviewer": 0.1296
+  }
+ },
+ {
+  "frame": "write",
+  "level": 3,
+  "topic": "我的 LoRA 微调严重过拟合",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.0617494501850762,
+   "coder": 0.07362261032871747,
+   "writer": 0.8599678702450331,
+   "reviewer": 0.004660069241173258
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1321,
+   "coder": 0.2367,
+   "writer": 0.5001,
+   "reviewer": 0.1311
+  }
+ },
+ {
+  "frame": "write",
+  "level": 3,
+  "topic": "我的量化模型精度损失很大",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.05385125607878588,
+   "coder": 0.028162856507794955,
+   "writer": 0.9142966538663756,
+   "reviewer": 0.0036892335470435286
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1417,
+   "coder": 0.274,
+   "writer": 0.3871,
+   "reviewer": 0.1972
+  }
+ },
+ {
+  "frame": "write",
+  "level": 3,
+  "topic": "我的 RAG 检索总是产生幻觉",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.11042674168087227,
+   "coder": 0.08907901867427319,
+   "writer": 0.7926331426310433,
+   "reviewer": 0.00786109701381124
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1412,
+   "coder": 0.2932,
+   "writer": 0.4294,
+   "reviewer": 0.1361
+  }
+ },
+ {
+  "frame": "write",
+  "level": 3,
+  "topic": "我的 K8s Pod 反复重启",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.04327660677609241,
+   "coder": 0.05751498999759641,
+   "writer": 0.897569810003703,
+   "reviewer": 0.0016385932226082116
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1287,
+   "coder": 0.2976,
+   "writer": 0.4232,
+   "reviewer": 0.1505
+  }
+ },
+ {
+  "frame": "write",
+  "level": 3,
+  "topic": "我的 Kafka 消费者严重滞后",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.056287999013408974,
+   "coder": 0.05803911277549059,
+   "writer": 0.8829089801954902,
+   "reviewer": 0.002763908015610221
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.103,
+   "coder": 0.3357,
+   "writer": 0.4288,
+   "reviewer": 0.1324
+  }
+ },
+ {
+  "frame": "write",
+  "level": 3,
+  "topic": "我的 ES 集群发生脑裂",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.13861407668763676,
+   "coder": 0.03642695111118933,
+   "writer": 0.8220891551703898,
+   "reviewer": 0.002869817030784054
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1111,
+   "coder": 0.3756,
+   "writer": 0.3698,
+   "reviewer": 0.1436
+  }
+ },
+ {
+  "frame": "write",
+  "level": 3,
+  "topic": "我的模型推理延迟很高",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.05093495833578635,
+   "coder": 0.029136394854139342,
+   "writer": 0.9169729866530956,
+   "reviewer": 0.0029556601569787825
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1443,
+   "coder": 0.3241,
+   "writer": 0.3732,
+   "reviewer": 0.1584
+  }
+ },
+ {
+  "frame": "write",
+  "level": 3,
+  "topic": "我的微调出现灾难性遗忘",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.06230983348127889,
+   "coder": 0.04172955717106573,
+   "writer": 0.8919671541311961,
+   "reviewer": 0.003993455216459235
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1365,
+   "coder": 0.2343,
+   "writer": 0.5085,
+   "reviewer": 0.1208
+  }
+ },
+ {
+  "frame": "write",
+  "level": 3,
+  "topic": "我的深层网络梯度消失",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.07583389877902137,
+   "coder": 0.04323927515478863,
+   "writer": 0.8782556903489838,
+   "reviewer": 0.0026711357172061836
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1094,
+   "coder": 0.2716,
+   "writer": 0.5002,
+   "reviewer": 0.1187
+  }
+ },
+ {
+  "frame": "write",
+  "level": 3,
+  "topic": "我的 tokenizer 并行预处理很慢",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.06882705776635663,
+   "coder": 0.09627338830578641,
+   "writer": 0.8306296754007209,
+   "reviewer": 0.004269878527136059
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1561,
+   "coder": 0.3064,
+   "writer": 0.3856,
+   "reviewer": 0.1519
+  }
+ },
+ {
+  "frame": "write",
+  "level": 3,
+  "topic": "我的 checkpoint 文件损坏",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.08013830933468692,
+   "coder": 0.059686603803291195,
+   "writer": 0.8564748012449046,
+   "reviewer": 0.0037002856171172395
+  },
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1382,
+   "coder": 0.3464,
+   "writer": 0.3441,
+   "reviewer": 0.1713
+  }
+ },
+ {
+  "frame": "write",
+  "level": 3,
+  "topic": "我的显存碎片化严重",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.07481990963648752,
+   "coder": 0.029133585164330487,
+   "writer": 0.8934199463600278,
+   "reviewer": 0.002626558839154211
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1402,
+   "coder": 0.2764,
+   "writer": 0.412,
+   "reviewer": 0.1715
+  }
+ },
+ {
+  "frame": "write",
+  "level": 3,
+  "topic": "我的词表太大导致 softmax 很慢",
+  "gold": "writer",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.05602031451554512,
+   "coder": 0.10027957410870078,
+   "writer": 0.8391974943517518,
+   "reviewer": 0.00450261702400224
+  },
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1109,
+   "coder": 0.2867,
+   "writer": 0.4698,
+   "reviewer": 0.1326
+  }
+ }
+]

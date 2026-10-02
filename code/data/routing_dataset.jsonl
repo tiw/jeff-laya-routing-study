@@ -1,0 +1,40 @@
+{"id": 1, "lang": "en", "gold": "coder", "state": "My Python web scraper dies with ConnectionResetError after about 100 pages. Find the cause and fix it."}
+{"id": 2, "lang": "en", "gold": "researcher", "state": "Summarize the key findings of the last three papers on retrieval-augmented generation."}
+{"id": 3, "lang": "en", "gold": "writer", "state": "Make this paragraph sound more professional for our annual report."}
+{"id": 4, "lang": "en", "gold": "reviewer", "state": "Review my pull request: I refactored the auth module to use JWT rotation."}
+{"id": 5, "lang": "en", "gold": "coder", "state": "Write a regex that validates ISO-8601 dates and explain the edge cases."}
+{"id": 6, "lang": "en", "gold": "researcher", "state": "What are the main differences between MQTT and Kafka for IoT telemetry?"}
+{"id": 7, "lang": "en", "gold": "writer", "state": "Turn my bullet notes from the client call into a polished follow-up email."}
+{"id": 8, "lang": "en", "gold": "reviewer", "state": "Check this SQL query for injection risks and suggest fixes."}
+{"id": 9, "lang": "en", "gold": "coder", "state": "Debug why my React component re-renders on every keystroke."}
+{"id": 10, "lang": "en", "gold": "researcher", "state": "Research the competitive landscape of vector databases and give me a comparison table."}
+{"id": 11, "lang": "en", "gold": "writer", "state": "Rewrite this job posting to be more inclusive and concise."}
+{"id": 12, "lang": "en", "gold": "reviewer", "state": "Audit this Docker Compose setup for security and performance issues."}
+{"id": 13, "lang": "en", "gold": "coder", "state": "Implement a rate limiter in Go using the token bucket algorithm."}
+{"id": 14, "lang": "en", "gold": "researcher", "state": "Find recent benchmarks of Llama 4 versus Qwen 3 on coding tasks."}
+{"id": 15, "lang": "en", "gold": "writer", "state": "Proofread this blog post and fix grammar and flow."}
+{"id": 16, "lang": "en", "gold": "reviewer", "state": "Critique the API design of my Flask backend: naming, structure, REST purity."}
+{"id": 17, "lang": "en", "gold": "researcher", "state": "Explain why my model training loss spikes every few hundred steps."}
+{"id": 18, "lang": "en", "gold": "coder", "state": "Refactor this 300-line function into smaller pieces without changing its behavior."}
+{"id": 19, "lang": "en", "gold": "writer", "state": "Draft the changelog for v2.4 based on these merged pull requests."}
+{"id": 20, "lang": "en", "gold": "reviewer", "state": "Give me a second opinion on my system design document for the sync service."}
+{"id": 21, "lang": "zh", "gold": "researcher", "state": "帮我查一下 2026 年杭州购房政策的最新变化，整理成要点。"}
+{"id": 22, "lang": "zh", "gold": "coder", "state": "这段 TypeScript 类型定义报错了，帮我看看哪里不对。"}
+{"id": 23, "lang": "zh", "gold": "writer", "state": "把我的周报润色一下，语气更正式一点。"}
+{"id": 24, "lang": "zh", "gold": "reviewer", "state": "帮我 review 一下这个数据库迁移脚本有没有坑。"}
+{"id": 25, "lang": "zh", "gold": "writer", "state": "写一篇关于我们新产品发布的公众号推文。"}
+{"id": 26, "lang": "zh", "gold": "researcher", "state": "研究一下 Jeff 这个模型和 Jev 的区别，给我一份对比。"}
+{"id": 27, "lang": "zh", "gold": "coder", "state": "帮我把这个 shell 脚本改成支持并行执行。"}
+{"id": 28, "lang": "zh", "gold": "reviewer", "state": "看看我这份简历有没有问题，给点修改意见。"}
+{"id": 29, "lang": "zh", "gold": "researcher", "state": "解释一下为什么我的 Garmin 数据同步到 Strava 会丢字段。"}
+{"id": 30, "lang": "zh", "gold": "coder", "state": "给这段代码加上单元测试，覆盖主要的边界情况。"}
+{"id": 31, "lang": "zh", "gold": "writer", "state": "把这篇英文技术博客翻译成通顺的中文。"}
+{"id": 32, "lang": "zh", "gold": "reviewer", "state": "帮我评估一下这个技术方案的优缺点。"}
+{"id": 33, "lang": "zh", "gold": "researcher", "state": "调研一下目前主流的开源决策模型（System One）都有哪些。"}
+{"id": 34, "lang": "zh", "gold": "writer", "state": "帮我改一下这封投诉邮件的措辞，既要强硬又要礼貌。"}
+{"id": 35, "lang": "mixed", "gold": "researcher", "state": "这篇论文我读不懂，先帮我总结一下要点，再用大白话解释。"}
+{"id": 36, "lang": "mixed", "gold": "reviewer", "state": "这是我写的会议纪要，帮我检查一下有没有遗漏重要决议。"}
+{"id": 37, "lang": "mixed", "gold": "coder", "state": "写个爬虫抓一下京东这个品类的价格变化，结果存到 Excel。"}
+{"id": 38, "lang": "mixed", "gold": "coder", "state": "帮我看看这个 bug，修好后顺便把相关的文档更新了。"}
+{"id": 39, "lang": "mixed", "gold": "coder", "state": "这段代码能跑但写得太丑了，帮我重构得优雅一点。"}
+{"id": 40, "lang": "mixed", "gold": "writer", "state": "下周要给客户做方案汇报，帮我准备一份 PPT 大纲。"}

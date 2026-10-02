@@ -1,0 +1,1162 @@
+[
+ {
+  "id": 1,
+  "lang": "zh",
+  "gold": "reviewer",
+  "state": "这份 Terraform 配置投产前帮我审一遍。",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.0024235478297106924,
+   "coder": 0.055697660747113256,
+   "writer": 0.004640872422810828,
+   "reviewer": 0.9372379190003652
+  },
+  "jeff_conf": 0.9163172253338203,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0841,
+   "coder": 0.5487,
+   "writer": 0.2421,
+   "reviewer": 0.1251
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 2,
+  "lang": "en",
+  "gold": "reviewer",
+  "state": "The nginx config needs a security review before we ship.",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.002947247553520107,
+   "coder": 0.04553212546019951,
+   "writer": 0.0019544523452017072,
+   "reviewer": 0.9495661746410786
+  },
+  "jeff_conf": 0.9327548995214382,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.1003,
+   "coder": 0.2522,
+   "writer": 0.1212,
+   "reviewer": 0.5264
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 3,
+  "lang": "zh",
+  "gold": "reviewer",
+  "state": "简历的项目经历部分，帮我挑挑毛病。",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.006967501995550648,
+   "coder": 0.021230959701275125,
+   "writer": 0.21650955996427457,
+   "reviewer": 0.7552919783388997
+  },
+  "jeff_conf": 0.6737226377851996,
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.16,
+   "coder": 0.2814,
+   "writer": 0.4234,
+   "reviewer": 0.1351
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 4,
+  "lang": "en",
+  "gold": "reviewer",
+  "state": "This SQL migration needs a second pair of eyes.",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.007961617649244966,
+   "coder": 0.06730193531938378,
+   "writer": 0.00243666018931206,
+   "reviewer": 0.9222997868420592
+  },
+  "jeff_conf": 0.8963997157894122,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.1034,
+   "coder": 0.3271,
+   "writer": 0.1407,
+   "reviewer": 0.4288
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 5,
+  "lang": "zh",
+  "gold": "reviewer",
+  "state": "会议纪要我整理好了，帮我检查有没有遗漏决议。",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.03145404458584764,
+   "coder": 0.003610287940912162,
+   "writer": 0.041428415993165685,
+   "reviewer": 0.9235072514800745
+  },
+  "jeff_conf": 0.8980096686400993,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1127,
+   "coder": 0.3442,
+   "writer": 0.2766,
+   "reviewer": 0.2666
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 6,
+  "lang": "en",
+  "gold": "reviewer",
+  "state": "The API contract should be audited for breaking changes.",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.008943848328560308,
+   "coder": 0.05941184993723752,
+   "writer": 0.001650968569612072,
+   "reviewer": 0.9299933331645901
+  },
+  "jeff_conf": 0.9066577775527868,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.0866,
+   "coder": 0.3808,
+   "writer": 0.129,
+   "reviewer": 0.4036
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 7,
+  "lang": "zh",
+  "gold": "reviewer",
+  "state": "这份调查问卷的设计有没有诱导性问题？",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.1289006135795551,
+   "coder": 0.0031895762305039436,
+   "writer": 0.004821883373065548,
+   "reviewer": 0.8630879268168754
+  },
+  "jeff_conf": 0.8174505690891672,
+  "laya_choice": "researcher",
+  "laya_probs": {
+   "researcher": 0.3185,
+   "coder": 0.1588,
+   "writer": 0.3014,
+   "reviewer": 0.2213
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 8,
+  "lang": "en",
+  "gold": "reviewer",
+  "state": "This budget spreadsheet needs a sanity check.",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.0035860738575078416,
+   "coder": 0.02298371857248172,
+   "writer": 0.0022454808842918895,
+   "reviewer": 0.9711847266857185
+  },
+  "jeff_conf": 0.961579635580958,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.0871,
+   "coder": 0.2127,
+   "writer": 0.2085,
+   "reviewer": 0.4917
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 9,
+  "lang": "zh",
+  "gold": "reviewer",
+  "state": "代码评审：这个 PR 的并发处理有没有问题？",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.0033107985143564864,
+   "coder": 0.09668271541792922,
+   "writer": 0.000591034624418157,
+   "reviewer": 0.8994154514432962
+  },
+  "jeff_conf": 0.8658872685910616,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.2136,
+   "coder": 0.3646,
+   "writer": 0.1768,
+   "reviewer": 0.245
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 10,
+  "lang": "en",
+  "gold": "reviewer",
+  "state": "The pitch deck needs a critical look before Thursday.",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.00996612844079463,
+   "coder": 0.003868585427217094,
+   "writer": 0.06895137533297797,
+   "reviewer": 0.9172139107990103
+  },
+  "jeff_conf": 0.8896185477320137,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.094,
+   "coder": 0.1213,
+   "writer": 0.2125,
+   "reviewer": 0.5722
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 11,
+  "lang": "zh",
+  "gold": "reviewer",
+  "state": "这份免责声明写得有没有法律风险？",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.01715730237841004,
+   "coder": 0.003556377556137099,
+   "writer": 0.08861945906033439,
+   "reviewer": 0.8906668610051185
+  },
+  "jeff_conf": 0.854222481340158,
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1548,
+   "coder": 0.3116,
+   "writer": 0.3752,
+   "reviewer": 0.1584
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 12,
+  "lang": "en",
+  "gold": "reviewer",
+  "state": "This caching layer needs a design review.",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.009007968906283494,
+   "coder": 0.1209887112640265,
+   "writer": 0.001770119176171276,
+   "reviewer": 0.8682332006535187
+  },
+  "jeff_conf": 0.8243109342046916,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.1128,
+   "coder": 0.1611,
+   "writer": 0.1312,
+   "reviewer": 0.5949
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 13,
+  "lang": "zh",
+  "gold": "reviewer",
+  "state": "帮我评估一下这个供应链方案的脆弱点。",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.11806760527598342,
+   "coder": 0.003609762460629681,
+   "writer": 0.0037553216664944055,
+   "reviewer": 0.8745673105968925
+  },
+  "jeff_conf": 0.83275641412919,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.1514,
+   "coder": 0.3149,
+   "writer": 0.2015,
+   "reviewer": 0.3322
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 14,
+  "lang": "en",
+  "gold": "reviewer",
+  "state": "The onboarding flow should be inspected for drop-off causes.",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.10992628123520842,
+   "coder": 0.1373609575906397,
+   "writer": 0.0024866952545950873,
+   "reviewer": 0.7502260659195568
+  },
+  "jeff_conf": 0.6669680878927423,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.2382,
+   "coder": 0.2534,
+   "writer": 0.1438,
+   "reviewer": 0.3646
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 15,
+  "lang": "zh",
+  "gold": "reviewer",
+  "state": "这篇综述的引用是否都支撑论点？",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.046248004416531936,
+   "coder": 0.0017667483991293793,
+   "writer": 0.014215524485458285,
+   "reviewer": 0.9377697226988804
+  },
+  "jeff_conf": 0.9170262969318405,
+  "laya_choice": "researcher",
+  "laya_probs": {
+   "researcher": 0.3067,
+   "coder": 0.1378,
+   "writer": 0.276,
+   "reviewer": 0.2795
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 16,
+  "lang": "en",
+  "gold": "reviewer",
+  "state": "This incident postmortem needs review before circulating.",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.11193903780256043,
+   "coder": 0.01072903674562111,
+   "writer": 0.09500097058709098,
+   "reviewer": 0.7823309548647275
+  },
+  "jeff_conf": 0.7097746064863033,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.1599,
+   "coder": 0.1322,
+   "writer": 0.2573,
+   "reviewer": 0.4507
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 17,
+  "lang": "zh",
+  "gold": "reviewer",
+  "state": "帮忙把把关：这个实验的对照组设置合理吗？",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.026595673753889264,
+   "coder": 0.0007823981371227212,
+   "writer": 0.0004757406879501341,
+   "reviewer": 0.9721461874210379
+  },
+  "jeff_conf": 0.9628615832280505,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.2689,
+   "coder": 0.2617,
+   "writer": 0.1898,
+   "reviewer": 0.2797
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 18,
+  "lang": "en",
+  "gold": "reviewer",
+  "state": "The smart contract needs an audit.",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.010632362755140965,
+   "coder": 0.03627288152681471,
+   "writer": 0.0011162028514719849,
+   "reviewer": 0.9519785528665723
+  },
+  "jeff_conf": 0.9359714038220964,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.1621,
+   "coder": 0.2904,
+   "writer": 0.1299,
+   "reviewer": 0.4176
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 19,
+  "lang": "zh",
+  "gold": "reviewer",
+  "state": "这份数据看板的指标定义一致吗？",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.2381413730631297,
+   "coder": 0.04161868361119822,
+   "writer": 0.006646265798571014,
+   "reviewer": 0.713593677527101
+  },
+  "jeff_conf": 0.618124903369468,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.2171,
+   "coder": 0.2348,
+   "writer": 0.1747,
+   "reviewer": 0.3734
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 20,
+  "lang": "en",
+  "gold": "reviewer",
+  "state": "This RFC should be critiqued for hidden complexity.",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.09264391350077383,
+   "coder": 0.1319970295281214,
+   "writer": 0.04535208862957061,
+   "reviewer": 0.7300069683415341
+  },
+  "jeff_conf": 0.6400092911220455,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.1068,
+   "coder": 0.1128,
+   "writer": 0.1782,
+   "reviewer": 0.6022
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 21,
+  "lang": "zh",
+  "gold": "reviewer",
+  "state": "帮我看看这封和解函的措辞有没有隐患。",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.007908778824477148,
+   "coder": 0.004798411631658871,
+   "writer": 0.1518668162922615,
+   "reviewer": 0.8354259932516025
+  },
+  "jeff_conf": 0.7805679910021367,
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.3019,
+   "coder": 0.1518,
+   "writer": 0.3433,
+   "reviewer": 0.203
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 22,
+  "lang": "en",
+  "gold": "reviewer",
+  "state": "The feature flag rollout plan needs a risk review.",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.04006435245707014,
+   "coder": 0.06489376413854865,
+   "writer": 0.00988924569638976,
+   "reviewer": 0.8851526377079915
+  },
+  "jeff_conf": 0.8468701836106552,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.1941,
+   "coder": 0.1698,
+   "writer": 0.1241,
+   "reviewer": 0.512
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 23,
+  "lang": "zh",
+  "gold": "reviewer",
+  "state": "这段代码的性能宣称靠谱吗？帮我验证思路。",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.09721629636200732,
+   "coder": 0.19516967868632296,
+   "writer": 0.0035097574554049144,
+   "reviewer": 0.7041042674962649
+  },
+  "jeff_conf": 0.6054723566616865,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.1895,
+   "coder": 0.5038,
+   "writer": 0.1157,
+   "reviewer": 0.1911
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 24,
+  "lang": "en",
+  "gold": "reviewer",
+  "state": "This SLA draft needs legal review.",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.011883929095139516,
+   "coder": 0.014725752763316204,
+   "writer": 0.1074451183098108,
+   "reviewer": 0.8659451998317335
+  },
+  "jeff_conf": 0.8212602664423113,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.0937,
+   "coder": 0.1223,
+   "writer": 0.2958,
+   "reviewer": 0.4883
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 25,
+  "lang": "zh",
+  "gold": "reviewer",
+  "state": "检查这份部署清单的完整性。",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.0698322265632698,
+   "coder": 0.04392564198540951,
+   "writer": 0.019726156747501566,
+   "reviewer": 0.8665159747038191
+  },
+  "jeff_conf": 0.8220212996050922,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.1035,
+   "coder": 0.2059,
+   "writer": 0.222,
+   "reviewer": 0.4686
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 26,
+  "lang": "en",
+  "gold": "reviewer",
+  "state": "The research design needs a methods review.",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.028801853801252227,
+   "coder": 0.002440223394196961,
+   "writer": 0.006991232992889076,
+   "reviewer": 0.9617666898116617
+  },
+  "jeff_conf": 0.9490222530822156,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.2388,
+   "coder": 0.1085,
+   "writer": 0.204,
+   "reviewer": 0.4486
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 27,
+  "lang": "zh",
+  "gold": "reviewer",
+  "state": "帮我挑挑这份列表的问题：10 个「最佳实践」真的都成立吗？",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.03374055865718655,
+   "coder": 0.003913591257716475,
+   "writer": 0.019894764373912986,
+   "reviewer": 0.942451085711184
+  },
+  "jeff_conf": 0.9232681142815786,
+  "laya_choice": "researcher",
+  "laya_probs": {
+   "researcher": 0.3699,
+   "coder": 0.242,
+   "writer": 0.2349,
+   "reviewer": 0.1533
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 28,
+  "lang": "en",
+  "gold": "reviewer",
+  "state": "This accessibility audit report needs verification.",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.05466044040758901,
+   "coder": 0.009686277410344215,
+   "writer": 0.014834103423183654,
+   "reviewer": 0.9208191787588831
+  },
+  "jeff_conf": 0.8944255716785108,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.1941,
+   "coder": 0.1346,
+   "writer": 0.2517,
+   "reviewer": 0.4196
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 29,
+  "lang": "zh",
+  "gold": "reviewer",
+  "state": "这份投资备忘录的假设经得起推敲吗？",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.04431163783304445,
+   "coder": 0.0013469213987467327,
+   "writer": 0.006878130434629796,
+   "reviewer": 0.947463310333579
+  },
+  "jeff_conf": 0.929951080444772,
+  "laya_choice": "researcher",
+  "laya_probs": {
+   "researcher": 0.3378,
+   "coder": 0.1568,
+   "writer": 0.2071,
+   "reviewer": 0.2984
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 30,
+  "lang": "en",
+  "gold": "reviewer",
+  "state": "The backup restore plan needs a dry-run review.",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.018007901018684103,
+   "coder": 0.012742603518115632,
+   "writer": 0.011839612684836185,
+   "reviewer": 0.957409882778364
+  },
+  "jeff_conf": 0.9432131770378187,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.1018,
+   "coder": 0.2028,
+   "writer": 0.1354,
+   "reviewer": 0.5599
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 31,
+  "lang": "zh",
+  "gold": "reviewer",
+  "state": "帮我审审这份课堂教案的时间分配。",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.004108991559537767,
+   "coder": 0.001071013416130026,
+   "writer": 0.002247428335515977,
+   "reviewer": 0.9925725666888162
+  },
+  "jeff_conf": 0.9900967555850883,
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.1919,
+   "coder": 0.2829,
+   "writer": 0.3287,
+   "reviewer": 0.1965
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 32,
+  "lang": "en",
+  "gold": "reviewer",
+  "state": "This query plan should be reviewed before indexing.",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.28919948296103176,
+   "coder": 0.0940762028124353,
+   "writer": 0.027047673390021742,
+   "reviewer": 0.5896766408365112
+  },
+  "jeff_conf": 0.4529021877820149,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.0884,
+   "coder": 0.2245,
+   "writer": 0.2043,
+   "reviewer": 0.4828
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 33,
+  "lang": "zh",
+  "gold": "reviewer",
+  "state": "这份协议草案有没有对甲方明显不利的条款？",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.007082376913386057,
+   "coder": 0.0029106241836751204,
+   "writer": 0.035008887795038135,
+   "reviewer": 0.9549981111079007
+  },
+  "jeff_conf": 0.9399974814772009,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.2527,
+   "coder": 0.1869,
+   "writer": 0.2593,
+   "reviewer": 0.3011
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 34,
+  "lang": "en",
+  "gold": "reviewer",
+  "state": "The load test results need a skeptical review.",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.04284545512876089,
+   "coder": 0.0018781564427847578,
+   "writer": 0.004635471096804649,
+   "reviewer": 0.9506409173316497
+  },
+  "jeff_conf": 0.9341878897755329,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.1301,
+   "coder": 0.1074,
+   "writer": 0.0918,
+   "reviewer": 0.6707
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 35,
+  "lang": "zh",
+  "gold": "reviewer",
+  "state": "帮我看看这篇求职信会不会让 HR 反感。",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.0022498883128314598,
+   "coder": 0.0027362028284573583,
+   "writer": 0.07463042224302377,
+   "reviewer": 0.9203834866156874
+  },
+  "jeff_conf": 0.8938446488209165,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.3085,
+   "coder": 0.1687,
+   "writer": 0.2043,
+   "reviewer": 0.3185
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 36,
+  "lang": "en",
+  "gold": "reviewer",
+  "state": "This data pipeline needs a lineage audit.",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.03584609966642663,
+   "coder": 0.027422763720088505,
+   "writer": 0.0038707515200755616,
+   "reviewer": 0.9328603850934093
+  },
+  "jeff_conf": 0.9104805134578791,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.0898,
+   "coder": 0.267,
+   "writer": 0.1469,
+   "reviewer": 0.4963
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 37,
+  "lang": "zh",
+  "gold": "reviewer",
+  "state": "这份 OKR 之间的依赖关系合理吗？",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.023127721902598052,
+   "coder": 0.01508011966575082,
+   "writer": 0.02966711519814329,
+   "reviewer": 0.9321250432335079
+  },
+  "jeff_conf": 0.9095000576446771,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.1898,
+   "coder": 0.1989,
+   "writer": 0.1514,
+   "reviewer": 0.4599
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 38,
+  "lang": "en",
+  "gold": "reviewer",
+  "state": "The changelog needs review for accuracy.",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.004627808816430132,
+   "coder": 0.023824402485569506,
+   "writer": 0.02652272517830985,
+   "reviewer": 0.9450250635196905
+  },
+  "jeff_conf": 0.9267000846929206,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.1179,
+   "coder": 0.0966,
+   "writer": 0.1655,
+   "reviewer": 0.6201
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 39,
+  "lang": "zh",
+  "gold": "reviewer",
+  "state": "帮我评审这份需求文档的可测试性。",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.007226736531714967,
+   "coder": 0.022839905002809212,
+   "writer": 0.009589907422967264,
+   "reviewer": 0.9603434510425085
+  },
+  "jeff_conf": 0.9471246013900113,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.2337,
+   "coder": 0.2331,
+   "writer": 0.154,
+   "reviewer": 0.3792
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 40,
+  "lang": "en",
+  "gold": "reviewer",
+  "state": "This architecture decision record needs pushback.",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.021480468690875564,
+   "coder": 0.050938311844423136,
+   "writer": 0.061703172223121945,
+   "reviewer": 0.8658780472415794
+  },
+  "jeff_conf": 0.8211707296554391,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.0912,
+   "coder": 0.2417,
+   "writer": 0.2564,
+   "reviewer": 0.4107
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 41,
+  "lang": "zh",
+  "gold": "coder",
+  "state": "这份 Terraform 配置跑不通，帮我修一下。",
+  "note": "hard negative: 修复而非评审",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.001778617298658719,
+   "coder": 0.9921688606097192,
+   "writer": 0.0014319815916322767,
+   "reviewer": 0.004620540499989748
+  },
+  "jeff_conf": 0.9895584808129589,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0629,
+   "coder": 0.6228,
+   "writer": 0.1696,
+   "reviewer": 0.1446
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 42,
+  "lang": "en",
+  "gold": "coder",
+  "state": "The nginx config needs to be rewritten for HTTP/2.",
+  "note": "hard negative: 重写而非评审",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.01066110746018661,
+   "coder": 0.9680788741402119,
+   "writer": 0.006157479770789537,
+   "reviewer": 0.015102538628811963
+  },
+  "jeff_conf": 0.9574384988536159,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0891,
+   "coder": 0.6595,
+   "writer": 0.1053,
+   "reviewer": 0.1461
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 43,
+  "lang": "zh",
+  "gold": "writer",
+  "state": "简历帮我润色得更专业一点。",
+  "note": "hard negative: 润色而非评审",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.010434064772742427,
+   "coder": 0.06959850801294117,
+   "writer": 0.909523785650906,
+   "reviewer": 0.010443641563410452
+  },
+  "jeff_conf": 0.8793650475345413,
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.0921,
+   "coder": 0.238,
+   "writer": 0.5173,
+   "reviewer": 0.1526
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 44,
+  "lang": "en",
+  "gold": "coder",
+  "state": "This SQL migration needs to be generated for the new schema.",
+  "note": "hard negative: 生成而非评审",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.011313256956628217,
+   "coder": 0.9736552161221395,
+   "writer": 0.011812446753425365,
+   "reviewer": 0.0032190801678069845
+  },
+  "jeff_conf": 0.9648736214961859,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0932,
+   "coder": 0.5344,
+   "writer": 0.2459,
+   "reviewer": 0.1266
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 45,
+  "lang": "zh",
+  "gold": "writer",
+  "state": "会议纪要帮我整理成正式版本发给全员。",
+  "note": "hard negative: 整理成稿而非检查",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.04265274243630639,
+   "coder": 0.02012499496579431,
+   "writer": 0.934708364666302,
+   "reviewer": 0.0025138979315972635
+  },
+  "jeff_conf": 0.9129444862217361,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0971,
+   "coder": 0.4393,
+   "writer": 0.3403,
+   "reviewer": 0.1232
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 46,
+  "lang": "en",
+  "gold": "coder",
+  "state": "The API contract needs updating to v2.",
+  "note": "hard negative: 更新而非评审",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.03702025781249075,
+   "coder": 0.8948264526380147,
+   "writer": 0.015368423095463095,
+   "reviewer": 0.05278486645403138
+  },
+  "jeff_conf": 0.859768603517353,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.082,
+   "coder": 0.4165,
+   "writer": 0.2427,
+   "reviewer": 0.2587
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 47,
+  "lang": "zh",
+  "gold": "researcher",
+  "state": "调查问卷帮我多发几个渠道收集数据。",
+  "note": "hard negative: 收集数据而非评审设计",
+  "jeff_choice": "researcher",
+  "jeff_probs": {
+   "researcher": 0.8815783722828672,
+   "coder": 0.10668781980839649,
+   "writer": 0.00694556709881699,
+   "reviewer": 0.004788240809919337
+  },
+  "jeff_conf": 0.8421044963771562,
+  "laya_choice": "researcher",
+  "laya_probs": {
+   "researcher": 0.3713,
+   "coder": 0.2197,
+   "writer": 0.2337,
+   "reviewer": 0.1753
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ },
+ {
+  "id": 48,
+  "lang": "en",
+  "gold": "coder",
+  "state": "This budget spreadsheet needs monthly formulas added.",
+  "note": "hard negative: 加公式而非检查",
+  "jeff_choice": "coder",
+  "jeff_probs": {
+   "researcher": 0.004114178089914007,
+   "coder": 0.9899844196686203,
+   "writer": 0.0031634326391620747,
+   "reviewer": 0.002737969602303631
+  },
+  "jeff_conf": 0.9866458928914937,
+  "laya_choice": "reviewer",
+  "laya_probs": {
+   "researcher": 0.0689,
+   "coder": 0.3085,
+   "writer": 0.2814,
+   "reviewer": 0.3413
+  },
+  "jeff_correct": true,
+  "laya_correct": false
+ },
+ {
+  "id": 49,
+  "lang": "zh",
+  "gold": "writer",
+  "state": "代码评审流程帮我起草一份规范文档。",
+  "note": "hard negative: 起草文档而非做评审",
+  "jeff_choice": "reviewer",
+  "jeff_probs": {
+   "researcher": 0.013907684557254194,
+   "coder": 0.07345400292898353,
+   "writer": 0.40411798746600325,
+   "reviewer": 0.508520325047759
+  },
+  "jeff_conf": 0.34469376673034535,
+  "laya_choice": "coder",
+  "laya_probs": {
+   "researcher": 0.0953,
+   "coder": 0.482,
+   "writer": 0.2253,
+   "reviewer": 0.1973
+  },
+  "jeff_correct": false,
+  "laya_correct": false
+ },
+ {
+  "id": 50,
+  "lang": "en",
+  "gold": "writer",
+  "state": "The pitch deck needs a template that matches our brand.",
+  "note": "hard negative: 制作模板而非批判",
+  "jeff_choice": "writer",
+  "jeff_probs": {
+   "researcher": 0.044069650036741605,
+   "coder": 0.2707585899650033,
+   "writer": 0.6110851559796691,
+   "reviewer": 0.074086604018586
+  },
+  "jeff_conf": 0.48144687463955876,
+  "laya_choice": "writer",
+  "laya_probs": {
+   "researcher": 0.079,
+   "coder": 0.2513,
+   "writer": 0.4009,
+   "reviewer": 0.2688
+  },
+  "jeff_correct": true,
+  "laya_correct": true
+ }
+]

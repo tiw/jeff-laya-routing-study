@@ -1,0 +1,100 @@
+{"id": 1, "lang": "zh", "gold": "researcher", "state": "1688 上同类产品的价格带大概是多少？帮我摸一下市场行情。"}
+{"id": 2, "lang": "en", "gold": "researcher", "state": "I keep hearing about CRDTs for collaborative editing — what's the actual state of the art?"}
+{"id": 3, "lang": "zh", "gold": "researcher", "state": "对比下 Notion、飞书、语雀三款文档工具对 AI 功能的支持程度。"}
+{"id": 4, "lang": "en", "gold": "researcher", "state": "What are the licensing implications of using GPL code in a commercial SaaS?"}
+{"id": 5, "lang": "zh", "gold": "researcher", "state": "整理一下最近一个月 AI 编程工具领域的重要发布。"}
+{"id": 6, "lang": "zh", "gold": "researcher", "state": "帮我去了解一下杭州的少儿编程培训机构，哪家口碑好。"}
+{"id": 7, "lang": "en", "gold": "researcher", "state": "Find me the top 5 papers on efficient long-context attention from 2025-2026."}
+{"id": 8, "lang": "zh", "gold": "researcher", "state": "RAG 和微调到底什么场景下该用哪个？给我一些权威说法。"}
+{"id": 9, "lang": "zh", "gold": "researcher", "state": "查一下欧盟 AI Act 对中小企业合规的具体要求和时间表。"}
+{"id": 10, "lang": "en", "gold": "researcher", "state": "Summarize what the Qwen 3.5 technical report says about its training data mix."}
+{"id": 11, "lang": "zh", "gold": "researcher", "state": "我想买一台二手徕卡 M 系列，现在市场行情和验机要点是什么？"}
+{"id": 12, "lang": "zh", "gold": "researcher", "state": "帮我研究一下小红书种草笔记的算法逻辑，为什么有的笔记突然爆了。"}
+{"id": 13, "lang": "en", "gold": "researcher", "state": "What's the difference between fine-tuning and RLHF in plain English?"}
+{"id": 14, "lang": "zh", "gold": "researcher", "state": "调研三个主流的开源向量数据库，给我一个选型建议。"}
+{"id": 15, "lang": "zh", "gold": "researcher", "state": "我们家孩子小升初，杭州各个区的择校政策有什么区别？"}
+{"id": 16, "lang": "en", "gold": "researcher", "state": "Look into why hexagonal architecture is trending in backend design again."}
+{"id": 17, "lang": "zh", "gold": "researcher", "state": "帮我搞清楚 Apple Intelligence 在国行设备上到底开通了哪些功能。"}
+{"id": 18, "lang": "zh", "gold": "researcher", "state": "整理一份 2026 年值得关注的 AI Agent 框架清单，附一句话点评。"}
+{"id": 19, "lang": "en", "gold": "researcher", "state": "How do modern code search engines like Sourcegraph parse repositories?"}
+{"id": 20, "lang": "zh", "gold": "researcher", "state": "了解一下篆刻入门需要准备哪些工具和石头，给个采购清单。"}
+{"id": 21, "lang": "zh", "gold": "researcher", "state": "为什么最近这么多公司在做「System One」决策模型？这个赛道什么情况？"}
+{"id": 22, "lang": "en", "gold": "researcher", "state": "What do we know about DeepSeek V4's mixture-of-experts routing?"}
+{"id": 23, "lang": "zh", "gold": "researcher", "state": "帮我查一下马拉松补给站一般提供什么，半马和全马有区别吗。"}
+{"id": 24, "lang": "zh", "gold": "researcher", "state": "梳理一下 HTTPS 证书链的验证过程，画个流程图说明。"}
+{"id": 25, "lang": "en", "gold": "researcher", "state": "Research the failure modes people hit when fine-tuning small models on synthetic data."}
+{"id": 26, "lang": "zh", "gold": "coder", "state": "帮我把这个爬虫改成增量抓取，只抓新发布的内容。"}
+{"id": 27, "lang": "en", "gold": "coder", "state": "Write a bash script that watches a folder and compresses any file over 100MB."}
+{"id": 28, "lang": "zh", "gold": "coder", "state": "我的 FastAPI 接口在并发高的时候响应变慢，帮我加个缓存。"}
+{"id": 29, "lang": "en", "gold": "coder", "state": "Convert this callback-based Node.js code to async/await."}
+{"id": 30, "lang": "zh", "gold": "coder", "state": "用 SwiftUI 写一个番茄钟小组件，要支持后台计时。"}
+{"id": 31, "lang": "zh", "gold": "coder", "state": "这段 Java 代码里有个线程安全问题，帮我找出来并修掉。"}
+{"id": 32, "lang": "en", "gold": "coder", "state": "Build a small CLI that converts CSV to JSONL with schema validation."}
+{"id": 33, "lang": "zh", "gold": "coder", "state": "给我的 Hugo 博客加一个深色模式切换按钮。"}
+{"id": 34, "lang": "en", "gold": "coder", "state": "Implement binary search in Rust with proper error handling for empty slices."}
+{"id": 35, "lang": "zh", "gold": "coder", "state": "帮我把这个 pandas 脚本提速，现在跑 20 万行要 10 分钟。"}
+{"id": 36, "lang": "zh", "gold": "coder", "state": "写一个 GitHub Action，每次 release 自动把 changelog 发到企业微信。"}
+{"id": 37, "lang": "en", "gold": "coder", "state": "Fix the memory leak in this React hook — it adds a listener but never removes it."}
+{"id": 38, "lang": "zh", "gold": "coder", "state": "把这个 Express 项目从 JavaScript 迁移到 TypeScript，先迁路由层。"}
+{"id": 39, "lang": "en", "gold": "coder", "state": "Add pagination to this Django REST endpoint, 50 items per page."}
+{"id": 40, "lang": "zh", "gold": "coder", "state": "帮我写一个 Alfred workflow，一键把剪贴板内容存成 Markdown 笔记。"}
+{"id": 41, "lang": "zh", "gold": "coder", "state": "这个 SQL 查询跑了 30 秒，帮我优化到 1 秒以内。"}
+{"id": 42, "lang": "en", "gold": "coder", "state": "Set up pre-commit hooks for this repo: black, ruff, and mypy."}
+{"id": 43, "lang": "zh", "gold": "coder", "state": "给我撸一个 OCR 小工具，截图直接识别文字进剪贴板。"}
+{"id": 44, "lang": "en", "gold": "coder", "state": "Write unit tests for this red-black tree implementation."}
+{"id": 45, "lang": "zh", "gold": "coder", "state": "帮我把这个 Webpack 配置迁到 Vite。"}
+{"id": 46, "lang": "zh", "gold": "coder", "state": "这个登录接口容易被刷，加个图形验证码。"}
+{"id": 47, "lang": "en", "gold": "coder", "state": "Create a Python decorator that retries a function with exponential backoff."}
+{"id": 48, "lang": "zh", "gold": "coder", "state": "给我的小程序加个分享海报生成的功能。"}
+{"id": 49, "lang": "en", "gold": "coder", "state": "Migrate this SQLite-backed script to PostgreSQL without downtime."}
+{"id": 50, "lang": "zh", "gold": "coder", "state": "写一个定时任务，每天凌晨把数据库备份同步到 OSS。"}
+{"id": 51, "lang": "zh", "gold": "writer", "state": "帮我把这份技术方案改写成给客户看的版本，去掉术语。"}
+{"id": 52, "lang": "en", "gold": "writer", "state": "Draft a cold outreach email to a potential engineering hire — we're a small startup."}
+{"id": 53, "lang": "zh", "gold": "writer", "state": "把这篇 5000 字的调研报告压缩成 800 字的高管摘要。"}
+{"id": 54, "lang": "zh", "gold": "writer", "state": "帮我写朋友圈文案，宣传我们周末的书法工作坊。"}
+{"id": 55, "lang": "en", "gold": "writer", "state": "Turn these meeting bullets into a clean project update for stakeholders."}
+{"id": 56, "lang": "zh", "gold": "writer", "state": "给新员工写一份入职第一周的任务清单，语气友好一点。"}
+{"id": 57, "lang": "en", "gold": "writer", "state": "Polish my conference talk abstract — it needs to sound exciting but not hypey."}
+{"id": 58, "lang": "zh", "gold": "writer", "state": "把这段产品介绍翻译成英文，面向海外开发者。"}
+{"id": 59, "lang": "zh", "gold": "writer", "state": "帮我写一封婉拒 offer 的邮件，保持关系。"}
+{"id": 60, "lang": "en", "gold": "writer", "state": "Write the README for this open-source project: a tiny decision-model router."}
+{"id": 61, "lang": "zh", "gold": "writer", "state": "把老板语音转的三段文字整理成结构清晰的会议纪要。"}
+{"id": 62, "lang": "zh", "gold": "writer", "state": "给跑步 App 写一组推送文案，目标是召回 7 天未活跃用户。"}
+{"id": 63, "lang": "en", "gold": "writer", "state": "Rewrite this error message so users know what to do next."}
+{"id": 64, "lang": "zh", "gold": "writer", "state": "帮我起草一份社区共治公约，用于我们的开源项目。"}
+{"id": 65, "lang": "zh", "gold": "writer", "state": "把这篇论文的 abstract 改写成公众号风格的科普开头。"}
+{"id": 66, "lang": "en", "gold": "writer", "state": "Compose a thank-you note to the conference organizers, mention the great panel on agents."}
+{"id": 67, "lang": "zh", "gold": "writer", "state": "写一段篆刻体验课的课程介绍，150 字以内，突出零基础友好。"}
+{"id": 68, "lang": "zh", "gold": "writer", "state": "帮我把年度总结里干瘪的条目扩写成有画面感的段落。"}
+{"id": 69, "lang": "en", "gold": "writer", "state": "Draft an announcement post for our API v3 sunset — six months notice, migration guide linked."}
+{"id": 70, "lang": "zh", "gold": "writer", "state": "把这份合同条款翻译成白话文，让非法律背景的人能看懂。"}
+{"id": 71, "lang": "zh", "gold": "writer", "state": "帮我写孩子的生日派对邀请函，主题是太空探索。"}
+{"id": 72, "lang": "en", "gold": "writer", "state": "Shorten this 3-page proposal to one page without losing the ask."}
+{"id": 73, "lang": "zh", "gold": "writer", "state": "给产品写 5 条应用商店的截图配文。"}
+{"id": 74, "lang": "zh", "gold": "writer", "state": "把这次路跑的配速数据写成一段有感染力的完赛回顾。"}
+{"id": 75, "lang": "en", "gold": "writer", "state": "Ghostwrite a LinkedIn post for me about lessons learned migrating to local LLMs."}
+{"id": 76, "lang": "zh", "gold": "reviewer", "state": "帮我看看这份商业计划书有没有逻辑漏洞。"}
+{"id": 77, "lang": "en", "gold": "reviewer", "state": "Review this regex — I think it has a catastrophic backtracking issue."}
+{"id": 78, "lang": "zh", "gold": "reviewer", "state": "检查一遍我这份论文初稿，重点看论证链条。"}
+{"id": 79, "lang": "zh", "gold": "reviewer", "state": "这个接口设计你帮我挑挑毛病，命名、粒度、错误码。"}
+{"id": 80, "lang": "en", "gold": "reviewer", "state": "Audit this Terraform module before we apply it to production."}
+{"id": 81, "lang": "zh", "gold": "reviewer", "state": "帮我评估一下要不要把团队从 Scrum 换成 Kanban。"}
+{"id": 82, "lang": "en", "gold": "reviewer", "state": "Look over my talk slides — is the narrative arc convincing?"}
+{"id": 83, "lang": "zh", "gold": "reviewer", "state": "看看这份数据报表的口径有没有问题。"}
+{"id": 84, "lang": "zh", "gold": "reviewer", "state": "给这份开源项目的 CONTRIBUTING.md 提点改进意见。"}
+{"id": 85, "lang": "en", "gold": "reviewer", "state": "Sanity-check this database schema for a multi-tenant SaaS."}
+{"id": 86, "lang": "zh", "gold": "reviewer", "state": "帮我审一下这份租房合同，有没有对租客不利的条款。"}
+{"id": 87, "lang": "en", "gold": "reviewer", "state": "Critique my resume's projects section — does it demonstrate impact?"}
+{"id": 88, "lang": "zh", "gold": "reviewer", "state": "这个 PR 你帮我看下有没有明显的坑。"}
+{"id": 89, "lang": "zh", "gold": "reviewer", "state": "评审一下这版视觉稿，从信息层级和可读性两个角度。"}
+{"id": 90, "lang": "en", "gold": "reviewer", "state": "Double-check this migration plan for the zero-downtime claim."}
+{"id": 91, "lang": "zh", "gold": "reviewer", "state": "帮我看看这段演讲稿哪里容易冷场。"}
+{"id": 92, "lang": "en", "gold": "reviewer", "state": "Review the threat model I wrote for our auth service."}
+{"id": 93, "lang": "zh", "gold": "reviewer", "state": "检查一下这个 Excel 模型的公式假设是否合理。"}
+{"id": 94, "lang": "zh", "gold": "reviewer", "state": "给孩子的科学课小论文把把关，看看论证是否成立。"}
+{"id": 95, "lang": "en", "gold": "reviewer", "state": "Peer-review this blog post draft on mixture-of-agents before I publish."}
+{"id": 96, "lang": "zh", "gold": "reviewer", "state": "帮我看下这个 OKR 定得是否合理，会不会互相冲突。"}
+{"id": 97, "lang": "en", "gold": "reviewer", "state": "Inspect this nginx config for security misconfigurations."}
+{"id": 98, "lang": "zh", "gold": "reviewer", "state": "看看这份活动策划案，预算部分有没有漏项。"}
+{"id": 99, "lang": "zh", "gold": "reviewer", "state": "帮我 review 一下这个智能体的工作流设计，哪里会有死循环风险。"}
+{"id": 100, "lang": "en", "gold": "reviewer", "state": "Give me a brutally honest assessment of this pitch deck."}
